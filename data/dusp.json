@@ -1,0 +1,1135 @@
+{
+"nodes": [
+{
+"label": "ERK1/2",
+"class": "Macromolecule",
+"box": [
+955.0,
+147.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"ERK1/2"
+],
+[
+"Members",
+"MAPK3; MAPK1"
+]
+],
+"members": [
+{
+"symbol": "MAPK3",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"symbol": "MAPK1",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+}
+]
+},
+{
+"id": "p_n",
+"label": "",
+"class": "Process",
+"box": [
+1143.0,
+155.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ERK1/2"
+],
+"out": [
+"ERK1/2"
+],
+"by": [
+"DUSP5"
+]
+},
+"references": [
+{
+"authors": "Mandl M et al.",
+"year": "2005",
+"title": "Specific inactivation and nuclear anchoring of extracellular signal-regulated kinase 2 by the inducible dual-specificity protein phosphatase DUSP5.",
+"journal": "Mol Cell Biol",
+"db": "pubmed",
+"id": "15713638"
+},
+{
+"authors": "Kidger AM et al.",
+"year": "2017",
+"title": "Dual-specificity phosphatase 5 controls the localized inhibition, propagation, and transforming potential of ERK signaling.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "28053233"
+},
+{
+"authors": "Kucharska A et al.",
+"year": "2009",
+"title": "Regulation of the inducible nuclear dual-specificity phosphatase DUSP5 by ERK MAPK.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "19666109"
+}
+]
+},
+{
+"label": "ERK1/2",
+"class": "Macromolecule",
+"box": [
+1275.0,
+147.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"ERK1/2"
+],
+[
+"Members",
+"MAPK3; MAPK1"
+]
+],
+"members": [
+{
+"symbol": "MAPK3",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"symbol": "MAPK1",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+}
+]
+},
+{
+"id": "p_b",
+"label": "",
+"class": "Process",
+"box": [
+1463.0,
+155.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ERK1/2",
+"DUSP5"
+],
+"out": [
+"DUSP5:ERK"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Mandl M et al.",
+"year": "2005",
+"title": "Specific inactivation and nuclear anchoring of extracellular signal-regulated kinase 2 by the inducible dual-specificity protein phosphatase DUSP5.",
+"journal": "Mol Cell Biol",
+"db": "pubmed",
+"id": "15713638"
+},
+{
+"authors": "Kucharska A et al.",
+"year": "2009",
+"title": "Regulation of the inducible nuclear dual-specificity phosphatase DUSP5 by ERK MAPK.",
+"journal": "Cell Signal",
+"db": "pubmed",
+"id": "19666109"
+},
+{
+"authors": "Kidger AM et al.",
+"year": "2017",
+"title": "Dual-specificity phosphatase 5 controls the localized inhibition, propagation, and transforming potential of ERK signaling.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "28053233"
+}
+]
+},
+{
+"label": "DUSP5",
+"class": "Macromolecule",
+"box": [
+1275.0,
+67.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity protein phosphatase 5"
+],
+[
+"Alternative names",
+"Dual specificity protein phosphatase hVH3"
+],
+[
+"Function",
+"Dual specificity protein phosphatase; active with phosphotyrosine, phosphoserine and phosphothreonine residues. The highest relative activity is toward ERK1"
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:3071"
+],
+[
+"HGNC symbol",
+"DUSP5"
+],
+[
+"Alias symbols",
+"HVH3"
+],
+[
+"Entrez",
+"1847"
+],
+[
+"Ensembl",
+"ENSG00000138166"
+],
+[
+"RefSeq",
+"NM_004419"
+],
+[
+"UniProt",
+"Q16690"
+]
+]
+},
+{
+"label": "DUSP5",
+"class": "Macromolecule",
+"box": [
+1595.0,
+108.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity protein phosphatase 5"
+],
+[
+"Alternative names",
+"Dual specificity protein phosphatase hVH3"
+],
+[
+"Function",
+"Dual specificity protein phosphatase; active with phosphotyrosine, phosphoserine and phosphothreonine residues. The highest relative activity is toward ERK1"
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:3071"
+],
+[
+"HGNC symbol",
+"DUSP5"
+],
+[
+"Alias symbols",
+"HVH3"
+],
+[
+"Entrez",
+"1847"
+],
+[
+"Ensembl",
+"ENSG00000138166"
+],
+[
+"RefSeq",
+"NM_004419"
+],
+[
+"UniProt",
+"Q16690"
+]
+]
+},
+{
+"label": "ERK1/2",
+"class": "Macromolecule",
+"box": [
+1595.0,
+156.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"ERK1/2"
+],
+[
+"Members",
+"MAPK3; MAPK1"
+]
+],
+"members": [
+{
+"symbol": "MAPK3",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"symbol": "MAPK1",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+}
+]
+},
+{
+"label": "ERK1/2",
+"class": "Macromolecule",
+"box": [
+55.0,
+147.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"ERK1/2"
+],
+[
+"Members",
+"MAPK3; MAPK1"
+]
+],
+"members": [
+{
+"symbol": "MAPK3",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"symbol": "MAPK1",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+}
+]
+},
+{
+"id": "p_y",
+"label": "",
+"class": "Process",
+"box": [
+243.0,
+155.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ERK1/2"
+],
+"out": [
+"ERK1/2"
+],
+"by": [
+"DUSP6"
+]
+},
+"references": [
+{
+"authors": "Zhao Y et al.",
+"year": "2001",
+"title": "The mechanism of dephosphorylation of extracellular signal-regulated kinase 2 by mitogen-activated protein kinase phosphatase 3.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "11432864"
+},
+{
+"authors": "Camps M et al.",
+"year": "1998",
+"title": "Catalytic activation of the phosphatase MKP-3 by ERK2 mitogen-activated protein kinase.",
+"journal": "Science",
+"db": "pubmed",
+"id": "9596579"
+},
+{
+"authors": "Groom LA et al.",
+"year": "1996",
+"title": "Differential regulation of the MAP, SAP and RK/p38 kinases by Pyst1, a novel cytosolic dual-specificity phosphatase.",
+"journal": "EMBO J",
+"db": "pubmed",
+"id": "8670865"
+}
+]
+},
+{
+"label": "ERK1/2",
+"class": "Macromolecule",
+"box": [
+375.0,
+147.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"ERK1/2"
+],
+[
+"Members",
+"MAPK3; MAPK1"
+]
+],
+"members": [
+{
+"symbol": "MAPK3",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"symbol": "MAPK1",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+}
+]
+},
+{
+"id": "p_t",
+"label": "",
+"class": "Process",
+"box": [
+563.0,
+155.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ERK1/2"
+],
+"out": [
+"ERK1/2"
+],
+"by": [
+"DUSP6"
+]
+},
+"references": [
+{
+"authors": "Zhao Y et al.",
+"year": "2001",
+"title": "The mechanism of dephosphorylation of extracellular signal-regulated kinase 2 by mitogen-activated protein kinase phosphatase 3.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "11432864"
+},
+{
+"authors": "Camps M et al.",
+"year": "1998",
+"title": "Catalytic activation of the phosphatase MKP-3 by ERK2 mitogen-activated protein kinase.",
+"journal": "Science",
+"db": "pubmed",
+"id": "9596579"
+},
+{
+"authors": "Groom LA et al.",
+"year": "1996",
+"title": "Differential regulation of the MAP, SAP and RK/p38 kinases by Pyst1, a novel cytosolic dual-specificity phosphatase.",
+"journal": "EMBO J",
+"db": "pubmed",
+"id": "8670865"
+}
+]
+},
+{
+"label": "ERK1/2",
+"class": "Macromolecule",
+"box": [
+695.0,
+147.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"ERK1/2"
+],
+[
+"Members",
+"MAPK3; MAPK1"
+]
+],
+"members": [
+{
+"symbol": "MAPK3",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"symbol": "MAPK1",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+}
+]
+},
+{
+"label": "DUSP6",
+"class": "Macromolecule",
+"box": [
+375.0,
+67.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity protein phosphatase 6"
+],
+[
+"Alternative names",
+"Dual specificity protein phosphatase PYST1; Mitogen-activated protein kinase phosphatase 3"
+],
+[
+"Function",
+"Dual specificity protein phosphatase, which mediates dephosphorylation and inactivation of MAP kinases. Has a specificity for the ERK family."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:3072"
+],
+[
+"HGNC symbol",
+"DUSP6"
+],
+[
+"Alias symbols",
+"MKP-3, PYST1"
+],
+[
+"Entrez",
+"1848"
+],
+[
+"Ensembl",
+"ENSG00000139318"
+],
+[
+"RefSeq",
+"NM_001946, NM_022652"
+],
+[
+"UniProt",
+"Q16828"
+]
+]
+}
+]
+}

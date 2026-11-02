@@ -189,6 +189,33 @@
 "hasText": true
 },
 {
+"id": "dusp",
+"title": "ERK switched off by DUSPs",
+"topic": "ERK switched off by DUSPs",
+"group": "Core",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/dusp.svg",
+"width": 1742.0,
+"height": 297.0,
+"scale": 1,
+"annotation": "data/dusp.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/dusp.graphml"
+},
+{
+"label": "SVG",
+"url": "files/dusp.svg"
+}
+],
+"data": "data/dusp-text.json",
+"hasText": true
+},
+{
 "id": "ksr1-scaffold",
 "title": "KSR1 scaffold, scaffold model",
 "topic": "KSR1 scaffold (pilot)",

@@ -153,17 +153,17 @@
 "references": [
 {
 "authors": "Plotnikov A et al.",
-"year": "2019",
-"title": "Nuclear ERK Translocation is Mediated by Protein Kinase CK2 and Accelerated by Autophosphorylation.",
 "journal": "Cell Physiol Biochem",
+"title": "Nuclear ERK Translocation is Mediated by Protein Kinase CK2 and Accelerated by Autophosphorylation.",
+"year": "2019",
 "db": "pubmed",
 "id": "31385665"
 },
 {
 "authors": "Chuderland D et al.",
-"year": "2008",
-"title": "Identification and characterization of a general nuclear translocation signal in signaling proteins.",
 "journal": "Mol Cell",
+"title": "Identification and characterization of a general nuclear translocation signal in signaling proteins.",
+"year": "2008",
 "db": "pubmed",
 "id": "18760948"
 }
@@ -490,17 +490,17 @@
 "references": [
 {
 "authors": "Chuderland D et al.",
-"year": "2008",
-"title": "Identification and characterization of a general nuclear translocation signal in signaling proteins.",
 "journal": "Mol Cell",
+"title": "Identification and characterization of a general nuclear translocation signal in signaling proteins.",
+"year": "2008",
 "db": "pubmed",
 "id": "18760948"
 },
 {
 "authors": "Plotnikov A et al.",
-"year": "2019",
-"title": "Nuclear ERK Translocation is Mediated by Protein Kinase CK2 and Accelerated by Autophosphorylation.",
 "journal": "Cell Physiol Biochem",
+"title": "Nuclear ERK Translocation is Mediated by Protein Kinase CK2 and Accelerated by Autophosphorylation.",
+"year": "2019",
 "db": "pubmed",
 "id": "31385665"
 }
