@@ -594,6 +594,33 @@
 "hasText": true
 },
 {
+"id": "dusp-induction",
+"title": "ERK induces its phosphatases",
+"topic": "ERK induces its phosphatases",
+"group": "Temporal",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/dusp-induction.svg",
+"width": 1925.0,
+"height": 1383.0,
+"scale": 1,
+"annotation": "data/dusp-induction.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/dusp-induction.graphml"
+},
+{
+"label": "SVG",
+"url": "files/dusp-induction.svg"
+}
+],
+"data": "data/dusp-induction-text.json",
+"hasText": true
+},
+{
 "id": "sm-canonical-m01",
 "title": "Canonical cascade, generic (2021)",
 "topic": "Canonical cascade (2021)",

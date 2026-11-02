@@ -80,17 +80,17 @@
 "references": [
 {
 "authors": "Roy M et al.",
-"year": "2004",
-"title": "IQGAP1 binds ERK2 and modulates its activity.",
 "journal": "J Biol Chem",
+"title": "IQGAP1 binds ERK2 and modulates its activity.",
+"year": "2004",
 "db": "pubmed",
 "id": "14970219"
 },
 {
 "authors": "Jameson KL et al.",
-"year": "2013",
-"title": "IQGAP1 scaffold-kinase interaction blockade selectively targets RAS-MAP kinase-driven tumors.",
 "journal": "Nat Med",
+"title": "IQGAP1 scaffold-kinase interaction blockade selectively targets RAS-MAP kinase-driven tumors.",
+"year": "2013",
 "db": "pubmed",
 "id": "23603816"
 }
@@ -432,9 +432,9 @@
 "references": [
 {
 "authors": "Roy M et al.",
-"year": "2005",
-"title": "IQGAP1 is a scaffold for mitogen-activated protein kinase signaling.",
 "journal": "Mol Cell Biol",
+"title": "IQGAP1 is a scaffold for mitogen-activated protein kinase signaling.",
+"year": "2005",
 "db": "pubmed",
 "id": "16135787"
 }
@@ -904,9 +904,9 @@
 "references": [
 {
 "authors": "Ren JG et al.",
-"year": "2007",
-"title": "IQGAP1 modulates activation of B-Raf.",
 "journal": "Proc Natl Acad Sci U S A",
+"title": "IQGAP1 modulates activation of B-Raf.",
+"year": "2007",
 "db": "pubmed",
 "id": "17563371"
 }
@@ -1468,9 +1468,9 @@
 "references": [
 {
 "authors": "McNulty DE et al.",
-"year": "2011",
-"title": "MAPK scaffold IQGAP1 binds the EGF receptor and modulates its activation.",
 "journal": "J Biol Chem",
+"title": "MAPK scaffold IQGAP1 binds the EGF receptor and modulates its activation.",
+"year": "2011",
 "db": "pubmed",
 "id": "21349850"
 }

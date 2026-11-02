@@ -1,0 +1,1595 @@
+{
+"nodes": [
+{
+"id": "d6_tx",
+"label": "",
+"class": "Process",
+"box": [
+1418.0,
+307.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"DUSP6"
+],
+"by": [
+"AND"
+]
+},
+"references": [
+{
+"authors": "Ekerot M et al.",
+"year": "2008",
+"title": "Negative-feedback regulation of FGF signalling by DUSP6/MKP-3 is driven by ERK1/2 and mediated by Ets factor binding to a conserved site within the DUSP6/MKP-3 gene promoter.",
+"journal": "Biochem J",
+"db": "pubmed",
+"id": "18321244"
+},
+{
+"authors": "Furukawa T et al.",
+"year": "2008",
+"title": "Feedback regulation of DUSP6 transcription responding to MAPK1 via ETS2 in human cells.",
+"journal": "Biochem Biophys Res Commun",
+"db": "pubmed",
+"id": "18848526"
+},
+{
+"authors": "Zhang Z et al.",
+"year": "2010",
+"title": "Dual specificity phosphatase 6 (DUSP6) is an ETS-regulated negative feedback mediator of oncogenic ERK signaling in lung cancer cells.",
+"journal": "Carcinogenesis",
+"db": "pubmed",
+"id": "20097731"
+}
+]
+},
+{
+"label": "DUSP6",
+"class": "NucleicAcidFeature",
+"box": [
+1205.0,
+299.0,
+90.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity protein phosphatase 6"
+],
+[
+"Alternative names",
+"Dual specificity protein phosphatase PYST1; Mitogen-activated protein kinase phosphatase 3"
+],
+[
+"Function",
+"Dual specificity protein phosphatase, which mediates dephosphorylation and inactivation of MAP kinases. Has a specificity for the ERK family."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:3072"
+],
+[
+"HGNC symbol",
+"DUSP6"
+],
+[
+"Alias symbols",
+"MKP-3, PYST1"
+],
+[
+"Entrez",
+"1848"
+],
+[
+"Ensembl",
+"ENSG00000139318"
+],
+[
+"RefSeq",
+"NM_001946, NM_022652"
+],
+[
+"UniProt",
+"Q16828"
+]
+]
+},
+{
+"label": "DUSP6",
+"class": "NucleicAcidFeature",
+"box": [
+1505.0,
+395.0,
+90.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity protein phosphatase 6"
+],
+[
+"Alternative names",
+"Dual specificity protein phosphatase PYST1; Mitogen-activated protein kinase phosphatase 3"
+],
+[
+"Function",
+"Dual specificity protein phosphatase, which mediates dephosphorylation and inactivation of MAP kinases. Has a specificity for the ERK family."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:3072"
+],
+[
+"HGNC symbol",
+"DUSP6"
+],
+[
+"Alias symbols",
+"MKP-3, PYST1"
+],
+[
+"Entrez",
+"1848"
+],
+[
+"Ensembl",
+"ENSG00000139318"
+],
+[
+"RefSeq",
+"NM_001946, NM_022652"
+],
+[
+"UniProt",
+"Q16828"
+]
+]
+},
+{
+"id": "d5_tx",
+"label": "",
+"class": "Process",
+"box": [
+1418.0,
+907.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+""
+],
+"out": [
+"DUSP5"
+],
+"by": [
+"AND"
+]
+},
+"references": [
+{
+"authors": "Buffet C et al.",
+"year": "2015",
+"title": "Dual Specificity Phosphatase 5, a Specific Negative Regulator of ERK Signaling, Is Induced by Serum Response Factor and Elk-1 Transcription Factor.",
+"journal": "PLoS One",
+"db": "pubmed",
+"id": "26691724"
+},
+{
+"authors": "Kucharska A et al.",
+"journal": "Cell Signal",
+"title": "Regulation of the inducible nuclear dual-specificity phosphatase DUSP5 by ERK MAPK.",
+"year": "2009",
+"db": "pubmed",
+"id": "19666109"
+}
+]
+},
+{
+"label": "DUSP5",
+"class": "NucleicAcidFeature",
+"box": [
+1205.0,
+899.0,
+90.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity protein phosphatase 5"
+],
+[
+"Alternative names",
+"Dual specificity protein phosphatase hVH3"
+],
+[
+"Function",
+"Dual specificity protein phosphatase; active with phosphotyrosine, phosphoserine and phosphothreonine residues. The highest relative activity is toward ERK1"
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:3071"
+],
+[
+"HGNC symbol",
+"DUSP5"
+],
+[
+"Alias symbols",
+"HVH3"
+],
+[
+"Entrez",
+"1847"
+],
+[
+"Ensembl",
+"ENSG00000138166"
+],
+[
+"RefSeq",
+"NM_004419"
+],
+[
+"UniProt",
+"Q16690"
+]
+]
+},
+{
+"label": "DUSP5",
+"class": "NucleicAcidFeature",
+"box": [
+1505.0,
+995.0,
+90.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity protein phosphatase 5"
+],
+[
+"Alternative names",
+"Dual specificity protein phosphatase hVH3"
+],
+[
+"Function",
+"Dual specificity protein phosphatase; active with phosphotyrosine, phosphoserine and phosphothreonine residues. The highest relative activity is toward ERK1"
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:3071"
+],
+[
+"HGNC symbol",
+"DUSP5"
+],
+[
+"Alias symbols",
+"HVH3"
+],
+[
+"Entrez",
+"1847"
+],
+[
+"Ensembl",
+"ENSG00000138166"
+],
+[
+"RefSeq",
+"NM_004419"
+],
+[
+"UniProt",
+"Q16690"
+]
+]
+},
+{
+"label": "ETS",
+"class": "Macromolecule",
+"box": [
+1150.0,
+559.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"ETS"
+],
+[
+"Members",
+"ETS1; ETS2"
+]
+],
+"members": [
+{
+"symbol": "ETS1",
+"props": [
+[
+"Full name",
+"Protein C-ets-1"
+],
+[
+"Alternative names",
+"p54"
+],
+[
+"Function",
+"Transcription factor. Directly controls the expression of cytokine and chemokine genes in a wide variety of different cellular contexts."
+],
+[
+"Location",
+"Nucleus, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:3488"
+],
+[
+"HGNC symbol",
+"ETS1"
+],
+[
+"Previous symbols",
+"EWSR2"
+],
+[
+"Alias symbols",
+"FLJ10768, ETS-1"
+],
+[
+"Entrez",
+"2113"
+],
+[
+"Ensembl",
+"ENSG00000134954"
+],
+[
+"RefSeq",
+"NM_005238"
+],
+[
+"UniProt",
+"P14921"
+]
+]
+},
+{
+"symbol": "ETS2",
+"props": [
+[
+"Full name",
+"Protein C-ets-2"
+],
+[
+"Function",
+"Transcription factor activating transcription. Binds specifically the DNA GGAA/T core motif (Ets-binding site or EBS) in gene promoters and stimulates transcription"
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:3489"
+],
+[
+"HGNC symbol",
+"ETS2"
+],
+[
+"Entrez",
+"2114"
+],
+[
+"Ensembl",
+"ENSG00000157557"
+],
+[
+"RefSeq",
+"NM_001256295"
+],
+[
+"UniProt",
+"P15036"
+]
+]
+}
+]
+},
+{
+"id": "p_ets",
+"label": "",
+"class": "Process",
+"box": [
+1298.0,
+567.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ETS"
+],
+"out": [
+"ETS"
+],
+"by": [
+"ERK1/2"
+]
+},
+"references": [
+{
+"authors": "Zhang Z et al.",
+"year": "2010",
+"title": "Dual specificity phosphatase 6 (DUSP6) is an ETS-regulated negative feedback mediator of oncogenic ERK signaling in lung cancer cells.",
+"journal": "Carcinogenesis",
+"db": "pubmed",
+"id": "20097731"
+},
+{
+"authors": "Ekerot M et al.",
+"year": "2008",
+"title": "Negative-feedback regulation of FGF signalling by DUSP6/MKP-3 is driven by ERK1/2 and mediated by Ets factor binding to a conserved site within the DUSP6/MKP-3 gene promoter.",
+"journal": "Biochem J",
+"db": "pubmed",
+"id": "18321244"
+}
+]
+},
+{
+"label": "ERK1/2",
+"class": "Macromolecule",
+"box": [
+1270.0,
+679.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"ERK1/2"
+],
+[
+"Members",
+"MAPK3; MAPK1"
+]
+],
+"members": [
+{
+"symbol": "MAPK3",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"symbol": "MAPK1",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+}
+]
+},
+{
+"label": "ETS",
+"class": "Macromolecule",
+"box": [
+1390.0,
+559.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"ETS"
+],
+[
+"Members",
+"ETS1; ETS2"
+]
+],
+"members": [
+{
+"symbol": "ETS1",
+"props": [
+[
+"Full name",
+"Protein C-ets-1"
+],
+[
+"Alternative names",
+"p54"
+],
+[
+"Function",
+"Transcription factor. Directly controls the expression of cytokine and chemokine genes in a wide variety of different cellular contexts."
+],
+[
+"Location",
+"Nucleus, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:3488"
+],
+[
+"HGNC symbol",
+"ETS1"
+],
+[
+"Previous symbols",
+"EWSR2"
+],
+[
+"Alias symbols",
+"FLJ10768, ETS-1"
+],
+[
+"Entrez",
+"2113"
+],
+[
+"Ensembl",
+"ENSG00000134954"
+],
+[
+"RefSeq",
+"NM_005238"
+],
+[
+"UniProt",
+"P14921"
+]
+]
+},
+{
+"symbol": "ETS2",
+"props": [
+[
+"Full name",
+"Protein C-ets-2"
+],
+[
+"Function",
+"Transcription factor activating transcription. Binds specifically the DNA GGAA/T core motif (Ets-binding site or EBS) in gene promoters and stimulates transcription"
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:3489"
+],
+[
+"HGNC symbol",
+"ETS2"
+],
+[
+"Entrez",
+"2114"
+],
+[
+"Ensembl",
+"ENSG00000157557"
+],
+[
+"RefSeq",
+"NM_001256295"
+],
+[
+"UniProt",
+"P15036"
+]
+]
+}
+]
+},
+{
+"label": "SRF",
+"class": "Macromolecule",
+"box": [
+1290.0,
+1159.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Serum response factor"
+],
+[
+"Function",
+"SRF is a transcription factor that binds to the serum response element (SRE), a short sequence of dyad symmetry located 300 bp to the 5' of the site of transcription initiation of some genes (such as FOS). Together with MRTFA transcription coactivator, controls expression of genes regulating the cytoskeleton during development, morphogenesis and cell migration."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:11291"
+],
+[
+"HGNC symbol",
+"SRF"
+],
+[
+"Alias symbols",
+"MCM1"
+],
+[
+"Entrez",
+"6722"
+],
+[
+"Ensembl",
+"ENSG00000112658"
+],
+[
+"RefSeq",
+"NM_003131"
+],
+[
+"UniProt",
+"P11831"
+]
+]
+},
+{
+"label": "ELK1",
+"class": "Macromolecule",
+"box": [
+1470.0,
+1159.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ETS domain-containing protein Elk-1"
+],
+[
+"Function",
+"Transcription factor that binds to purine-rich DNA sequences. Forms a ternary complex with SRF and the ETS and SRF motifs of the serum response element (SRE) on the promoter region of immediate early genes such as FOS and IER2."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:3321"
+],
+[
+"HGNC symbol",
+"ELK1"
+],
+[
+"Entrez",
+"2002"
+],
+[
+"Ensembl",
+"ENSG00000126767"
+],
+[
+"RefSeq",
+"NM_005229"
+],
+[
+"UniProt",
+"P19419"
+]
+]
+},
+{
+"id": "p_elk",
+"label": "",
+"class": "Process",
+"box": [
+1658.0,
+1167.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ELK1"
+],
+"out": [
+"ELK1"
+],
+"by": [
+"ERK1/2"
+]
+},
+"references": [
+{
+"authors": "Gille H et al.",
+"year": "1995",
+"title": "ERK phosphorylation potentiates Elk-1-mediated ternary complex formation and transactivation.",
+"journal": "EMBO J",
+"db": "pubmed",
+"id": "7889942"
+},
+{
+"authors": "Marais R et al.",
+"year": "1993",
+"title": "The SRF accessory protein Elk-1 contains a growth factor-regulated transcriptional activation domain.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "8386592"
+}
+]
+},
+{
+"label": "ERK1/2",
+"class": "Macromolecule",
+"box": [
+1630.0,
+1279.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"ERK1/2"
+],
+[
+"Members",
+"MAPK3; MAPK1"
+]
+],
+"members": [
+{
+"symbol": "MAPK3",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"symbol": "MAPK1",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+}
+]
+},
+{
+"label": "ELK1",
+"class": "Macromolecule",
+"box": [
+1790.0,
+1159.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ETS domain-containing protein Elk-1"
+],
+[
+"Function",
+"Transcription factor that binds to purine-rich DNA sequences. Forms a ternary complex with SRF and the ETS and SRF motifs of the serum response element (SRE) on the promoter region of immediate early genes such as FOS and IER2."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:3321"
+],
+[
+"HGNC symbol",
+"ELK1"
+],
+[
+"Entrez",
+"2002"
+],
+[
+"Ensembl",
+"ENSG00000126767"
+],
+[
+"RefSeq",
+"NM_005229"
+],
+[
+"UniProt",
+"P19419"
+]
+]
+},
+{
+"label": "DUSP5",
+"class": "Macromolecule",
+"box": [
+1090.0,
+787.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity protein phosphatase 5"
+],
+[
+"Alternative names",
+"Dual specificity protein phosphatase hVH3"
+],
+[
+"Function",
+"Dual specificity protein phosphatase; active with phosphotyrosine, phosphoserine and phosphothreonine residues. The highest relative activity is toward ERK1"
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:3071"
+],
+[
+"HGNC symbol",
+"DUSP5"
+],
+[
+"Alias symbols",
+"HVH3"
+],
+[
+"Entrez",
+"1847"
+],
+[
+"Ensembl",
+"ENSG00000138166"
+],
+[
+"RefSeq",
+"NM_004419"
+],
+[
+"UniProt",
+"Q16690"
+]
+]
+},
+{
+"label": "DUSP6",
+"class": "NucleicAcidFeature",
+"box": [
+845.0,
+299.0,
+90.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity protein phosphatase 6"
+],
+[
+"Alternative names",
+"Dual specificity protein phosphatase PYST1; Mitogen-activated protein kinase phosphatase 3"
+],
+[
+"Function",
+"Dual specificity protein phosphatase, which mediates dephosphorylation and inactivation of MAP kinases. Has a specificity for the ERK family."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:3072"
+],
+[
+"HGNC symbol",
+"DUSP6"
+],
+[
+"Alias symbols",
+"MKP-3, PYST1"
+],
+[
+"Entrez",
+"1848"
+],
+[
+"Ensembl",
+"ENSG00000139318"
+],
+[
+"RefSeq",
+"NM_001946, NM_022652"
+],
+[
+"UniProt",
+"Q16828"
+]
+]
+},
+{
+"label": "DUSP6",
+"class": "Macromolecule",
+"box": [
+670.0,
+187.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity protein phosphatase 6"
+],
+[
+"Alternative names",
+"Dual specificity protein phosphatase PYST1; Mitogen-activated protein kinase phosphatase 3"
+],
+[
+"Function",
+"Dual specificity protein phosphatase, which mediates dephosphorylation and inactivation of MAP kinases. Has a specificity for the ERK family."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:3072"
+],
+[
+"HGNC symbol",
+"DUSP6"
+],
+[
+"Alias symbols",
+"MKP-3, PYST1"
+],
+[
+"Entrez",
+"1848"
+],
+[
+"Ensembl",
+"ENSG00000139318"
+],
+[
+"RefSeq",
+"NM_001946, NM_022652"
+],
+[
+"UniProt",
+"Q16828"
+]
+]
+},
+{
+"label": "DUSP5",
+"class": "NucleicAcidFeature",
+"box": [
+845.0,
+899.0,
+90.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity protein phosphatase 5"
+],
+[
+"Alternative names",
+"Dual specificity protein phosphatase hVH3"
+],
+[
+"Function",
+"Dual specificity protein phosphatase; active with phosphotyrosine, phosphoserine and phosphothreonine residues. The highest relative activity is toward ERK1"
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:3071"
+],
+[
+"HGNC symbol",
+"DUSP5"
+],
+[
+"Alias symbols",
+"HVH3"
+],
+[
+"Entrez",
+"1847"
+],
+[
+"Ensembl",
+"ENSG00000138166"
+],
+[
+"RefSeq",
+"NM_004419"
+],
+[
+"UniProt",
+"Q16690"
+]
+]
+},
+{
+"label": "DUSP5",
+"class": "Macromolecule",
+"box": [
+670.0,
+787.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity protein phosphatase 5"
+],
+[
+"Alternative names",
+"Dual specificity protein phosphatase hVH3"
+],
+[
+"Function",
+"Dual specificity protein phosphatase; active with phosphotyrosine, phosphoserine and phosphothreonine residues. The highest relative activity is toward ERK1"
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:3071"
+],
+[
+"HGNC symbol",
+"DUSP5"
+],
+[
+"Alias symbols",
+"HVH3"
+],
+[
+"Entrez",
+"1847"
+],
+[
+"Ensembl",
+"ENSG00000138166"
+],
+[
+"RefSeq",
+"NM_004419"
+],
+[
+"UniProt",
+"Q16690"
+]
+]
+},
+{
+"id": "p_d6p",
+"label": "",
+"class": "Process",
+"box": [
+518.0,
+195.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"DUSP6"
+],
+"out": [
+"DUSP6"
+],
+"by": [
+"ERK1/2"
+]
+},
+"references": [
+{
+"authors": "Marchetti S et al.",
+"year": "2005",
+"title": "Extracellular signal-regulated kinases phosphorylate mitogen-activated protein kinase phosphatase 3/DUSP6 at serines 159 and 197, two sites critical for its proteasomal degradation.",
+"journal": "Mol Cell Biol",
+"db": "pubmed",
+"id": "15632084"
+}
+]
+},
+{
+"label": "ERK1/2",
+"class": "Macromolecule",
+"box": [
+490.0,
+67.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"ERK1/2"
+],
+[
+"Members",
+"MAPK3; MAPK1"
+]
+],
+"members": [
+{
+"symbol": "MAPK3",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"symbol": "MAPK1",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+}
+]
+},
+{
+"label": "DUSP6",
+"class": "Macromolecule",
+"box": [
+310.0,
+187.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity protein phosphatase 6"
+],
+[
+"Alternative names",
+"Dual specificity protein phosphatase PYST1; Mitogen-activated protein kinase phosphatase 3"
+],
+[
+"Function",
+"Dual specificity protein phosphatase, which mediates dephosphorylation and inactivation of MAP kinases. Has a specificity for the ERK family."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:3072"
+],
+[
+"HGNC symbol",
+"DUSP6"
+],
+[
+"Alias symbols",
+"MKP-3, PYST1"
+],
+[
+"Entrez",
+"1848"
+],
+[
+"Ensembl",
+"ENSG00000139318"
+],
+[
+"RefSeq",
+"NM_001946, NM_022652"
+],
+[
+"UniProt",
+"Q16828"
+]
+]
+},
+{
+"id": "p_deg",
+"label": "",
+"class": "Process",
+"box": [
+178.0,
+195.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"DUSP6"
+],
+"out": [
+""
+],
+"by": []
+},
+"references": [
+{
+"authors": "Marchetti S et al.",
+"year": "2005",
+"title": "Extracellular signal-regulated kinases phosphorylate mitogen-activated protein kinase phosphatase 3/DUSP6 at serines 159 and 197, two sites critical for its proteasomal degradation.",
+"journal": "Mol Cell Biol",
+"db": "pubmed",
+"id": "15632084"
+}
+]
+},
+{
+"id": "p_imp",
+"label": "",
+"class": "Process",
+"box": [
+878.0,
+795.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"DUSP5"
+],
+"out": [
+"DUSP5"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Mandl M et al.",
+"journal": "Mol Cell Biol",
+"title": "Specific inactivation and nuclear anchoring of extracellular signal-regulated kinase 2 by the inducible dual-specificity protein phosphatase DUSP5.",
+"year": "2005",
+"db": "pubmed",
+"id": "15713638"
+}
+]
+}
+]
+}
