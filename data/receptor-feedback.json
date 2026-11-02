@@ -1,0 +1,2269 @@
+{
+"nodes": [
+{
+"label": "EGF",
+"class": "Macromolecule",
+"box": [
+1032.0,
+114.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Pro-epidermal growth factor"
+],
+[
+"Function",
+"EGF stimulates the growth of various epidermal and epithelial tissues in vivo and in vitro and of some fibroblasts in cell culture. Magnesiotropic hormone that stimulates magnesium reabsorption in the renal distal convoluted tubule via engagement of EGFR and activation of the magnesium channel TRPM6."
+],
+[
+"Location",
+"Membrane"
+],
+[
+"HGNC",
+"HGNC:3229"
+],
+[
+"HGNC symbol",
+"EGF"
+],
+[
+"Entrez",
+"1950"
+],
+[
+"Ensembl",
+"ENSG00000138798"
+],
+[
+"RefSeq",
+"NM_001178130"
+],
+[
+"UniProt",
+"P01133"
+]
+]
+},
+{
+"label": "EGFR",
+"class": "Macromolecule",
+"box": [
+1032.0,
+176.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Epidermal growth factor receptor"
+],
+[
+"Alternative names",
+"Proto-oncogene c-ErbB-1; Receptor tyrosine-protein kinase erbB-1"
+],
+[
+"Function",
+"Receptor tyrosine kinase binding ligands of the EGF family and activating several signaling cascades to convert extracellular cues into appropriate cellular responses. Known ligands include EGF, TGFA/TGF-alpha, AREG, epigen/EPGN, BTC/betacellulin, epiregulin/EREG and HBEGF/heparin-binding EGF."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Golgi apparatus membrane, Nucleus membrane, Endosome, Endosome membrane, Nucleus, Secreted"
+],
+[
+"HGNC",
+"HGNC:3236"
+],
+[
+"HGNC symbol",
+"EGFR"
+],
+[
+"Previous symbols",
+"ERBB"
+],
+[
+"Alias symbols",
+"ERBB1, ERRP"
+],
+[
+"Entrez",
+"1956"
+],
+[
+"Ensembl",
+"ENSG00000146648"
+],
+[
+"RefSeq",
+"NM_005228"
+],
+[
+"UniProt",
+"P00533"
+]
+]
+},
+{
+"label": "GRB2",
+"class": "Macromolecule",
+"box": [
+1032.0,
+233.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Growth factor receptor-bound protein 2"
+],
+[
+"Alternative names",
+"Adapter protein GRB2; Protein Ash; SH2/SH3 adapter GRB2"
+],
+[
+"Function",
+"Non-enzymatic adapter protein that plays a pivotal role in precisely regulated signaling cascades from cell surface receptors to cellular responses, including signaling transduction and gene expression. Thus, participates in many biological processes including regulation of innate and adaptive immunity, autophagy, DNA repair or necroptosis."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Endosome, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:4566"
+],
+[
+"HGNC symbol",
+"GRB2"
+],
+[
+"Alias symbols",
+"NCKAP2"
+],
+[
+"Entrez",
+"2885"
+],
+[
+"Ensembl",
+"ENSG00000177885"
+],
+[
+"RefSeq",
+"NM_002086"
+],
+[
+"UniProt",
+"P62993"
+]
+]
+},
+{
+"label": "SOS1",
+"class": "Macromolecule",
+"box": [
+1032.0,
+281.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Son of sevenless homolog 1"
+],
+[
+"Function",
+"Promotes the exchange of Ras-bound GDP by GTP. Probably by promoting Ras activation, regulates phosphorylation of MAP kinase MAPK3/ERK1 in response to EGF."
+],
+[
+"HGNC",
+"HGNC:11187"
+],
+[
+"HGNC symbol",
+"SOS1"
+],
+[
+"Previous symbols",
+"GINGF"
+],
+[
+"Alias symbols",
+"HGF, GF1"
+],
+[
+"Entrez",
+"6654"
+],
+[
+"Ensembl",
+"ENSG00000115904"
+],
+[
+"RefSeq",
+"NM_005633"
+],
+[
+"UniProt",
+"Q07889"
+]
+]
+},
+{
+"id": "p_erk",
+"label": "",
+"class": "Process",
+"box": [
+1303.0,
+221.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"EGFR:GRB2:SOS1"
+],
+"out": [
+"EGFR:GRB2:SOS1"
+],
+"by": [
+"ERK1/2"
+]
+},
+"references": [
+{
+"authors": "Corbalan-Garcia S et al.",
+"year": "1996",
+"title": "Identification of the mitogen-activated protein kinase phosphorylation sites on human Sos1 that regulate interaction with Grb2.",
+"journal": "Mol Cell Biol",
+"db": "pubmed",
+"id": "8816480"
+},
+{
+"authors": "Waters SB et al.",
+"year": "1995",
+"title": "Desensitization of Ras activation by a feedback disassociation of the SOS-Grb2 complex.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "7673108"
+},
+{
+"authors": "Dong Chen et al.",
+"year": "1996",
+"title": "SOS phosphorylation and disassociation of the Grb2-SOS complex by the ERK and JNK signaling pathways.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "8626428"
+}
+]
+},
+{
+"label": "EGF",
+"class": "Macromolecule",
+"box": [
+1512.0,
+114.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Pro-epidermal growth factor"
+],
+[
+"Function",
+"EGF stimulates the growth of various epidermal and epithelial tissues in vivo and in vitro and of some fibroblasts in cell culture. Magnesiotropic hormone that stimulates magnesium reabsorption in the renal distal convoluted tubule via engagement of EGFR and activation of the magnesium channel TRPM6."
+],
+[
+"Location",
+"Membrane"
+],
+[
+"HGNC",
+"HGNC:3229"
+],
+[
+"HGNC symbol",
+"EGF"
+],
+[
+"Entrez",
+"1950"
+],
+[
+"Ensembl",
+"ENSG00000138798"
+],
+[
+"RefSeq",
+"NM_001178130"
+],
+[
+"UniProt",
+"P01133"
+]
+]
+},
+{
+"label": "EGFR",
+"class": "Macromolecule",
+"box": [
+1512.0,
+176.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Epidermal growth factor receptor"
+],
+[
+"Alternative names",
+"Proto-oncogene c-ErbB-1; Receptor tyrosine-protein kinase erbB-1"
+],
+[
+"Function",
+"Receptor tyrosine kinase binding ligands of the EGF family and activating several signaling cascades to convert extracellular cues into appropriate cellular responses. Known ligands include EGF, TGFA/TGF-alpha, AREG, epigen/EPGN, BTC/betacellulin, epiregulin/EREG and HBEGF/heparin-binding EGF."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Golgi apparatus membrane, Nucleus membrane, Endosome, Endosome membrane, Nucleus, Secreted"
+],
+[
+"HGNC",
+"HGNC:3236"
+],
+[
+"HGNC symbol",
+"EGFR"
+],
+[
+"Previous symbols",
+"ERBB"
+],
+[
+"Alias symbols",
+"ERBB1, ERRP"
+],
+[
+"Entrez",
+"1956"
+],
+[
+"Ensembl",
+"ENSG00000146648"
+],
+[
+"RefSeq",
+"NM_005228"
+],
+[
+"UniProt",
+"P00533"
+]
+]
+},
+{
+"label": "GRB2",
+"class": "Macromolecule",
+"box": [
+1512.0,
+233.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Growth factor receptor-bound protein 2"
+],
+[
+"Alternative names",
+"Adapter protein GRB2; Protein Ash; SH2/SH3 adapter GRB2"
+],
+[
+"Function",
+"Non-enzymatic adapter protein that plays a pivotal role in precisely regulated signaling cascades from cell surface receptors to cellular responses, including signaling transduction and gene expression. Thus, participates in many biological processes including regulation of innate and adaptive immunity, autophagy, DNA repair or necroptosis."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Endosome, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:4566"
+],
+[
+"HGNC symbol",
+"GRB2"
+],
+[
+"Alias symbols",
+"NCKAP2"
+],
+[
+"Entrez",
+"2885"
+],
+[
+"Ensembl",
+"ENSG00000177885"
+],
+[
+"RefSeq",
+"NM_002086"
+],
+[
+"UniProt",
+"P62993"
+]
+]
+},
+{
+"label": "SOS1",
+"class": "Macromolecule",
+"box": [
+1512.0,
+281.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Son of sevenless homolog 1"
+],
+[
+"Function",
+"Promotes the exchange of Ras-bound GDP by GTP. Probably by promoting Ras activation, regulates phosphorylation of MAP kinase MAPK3/ERK1 in response to EGF."
+],
+[
+"HGNC",
+"HGNC:11187"
+],
+[
+"HGNC symbol",
+"SOS1"
+],
+[
+"Previous symbols",
+"GINGF"
+],
+[
+"Alias symbols",
+"HGF, GF1"
+],
+[
+"Entrez",
+"6654"
+],
+[
+"Ensembl",
+"ENSG00000115904"
+],
+[
+"RefSeq",
+"NM_005633"
+],
+[
+"UniProt",
+"Q07889"
+]
+]
+},
+{
+"id": "p_off",
+"label": "",
+"class": "Process",
+"box": [
+1783.0,
+221.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"EGFR:GRB2:SOS1"
+],
+"out": [
+"EGFR:GRB2",
+"SOS1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Waters SB et al.",
+"year": "1995",
+"title": "Desensitization of Ras activation by a feedback disassociation of the SOS-Grb2 complex.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "7673108"
+},
+{
+"authors": "Dong Chen et al.",
+"year": "1996",
+"title": "SOS phosphorylation and disassociation of the Grb2-SOS complex by the ERK and JNK signaling pathways.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "8626428"
+}
+]
+},
+{
+"label": "EGF",
+"class": "Macromolecule",
+"box": [
+1992.0,
+143.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Pro-epidermal growth factor"
+],
+[
+"Function",
+"EGF stimulates the growth of various epidermal and epithelial tissues in vivo and in vitro and of some fibroblasts in cell culture. Magnesiotropic hormone that stimulates magnesium reabsorption in the renal distal convoluted tubule via engagement of EGFR and activation of the magnesium channel TRPM6."
+],
+[
+"Location",
+"Membrane"
+],
+[
+"HGNC",
+"HGNC:3229"
+],
+[
+"HGNC symbol",
+"EGF"
+],
+[
+"Entrez",
+"1950"
+],
+[
+"Ensembl",
+"ENSG00000138798"
+],
+[
+"RefSeq",
+"NM_001178130"
+],
+[
+"UniProt",
+"P01133"
+]
+]
+},
+{
+"label": "EGFR",
+"class": "Macromolecule",
+"box": [
+1992.0,
+205.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Epidermal growth factor receptor"
+],
+[
+"Alternative names",
+"Proto-oncogene c-ErbB-1; Receptor tyrosine-protein kinase erbB-1"
+],
+[
+"Function",
+"Receptor tyrosine kinase binding ligands of the EGF family and activating several signaling cascades to convert extracellular cues into appropriate cellular responses. Known ligands include EGF, TGFA/TGF-alpha, AREG, epigen/EPGN, BTC/betacellulin, epiregulin/EREG and HBEGF/heparin-binding EGF."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Golgi apparatus membrane, Nucleus membrane, Endosome, Endosome membrane, Nucleus, Secreted"
+],
+[
+"HGNC",
+"HGNC:3236"
+],
+[
+"HGNC symbol",
+"EGFR"
+],
+[
+"Previous symbols",
+"ERBB"
+],
+[
+"Alias symbols",
+"ERBB1, ERRP"
+],
+[
+"Entrez",
+"1956"
+],
+[
+"Ensembl",
+"ENSG00000146648"
+],
+[
+"RefSeq",
+"NM_005228"
+],
+[
+"UniProt",
+"P00533"
+]
+]
+},
+{
+"label": "GRB2",
+"class": "Macromolecule",
+"box": [
+1992.0,
+262.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Growth factor receptor-bound protein 2"
+],
+[
+"Alternative names",
+"Adapter protein GRB2; Protein Ash; SH2/SH3 adapter GRB2"
+],
+[
+"Function",
+"Non-enzymatic adapter protein that plays a pivotal role in precisely regulated signaling cascades from cell surface receptors to cellular responses, including signaling transduction and gene expression. Thus, participates in many biological processes including regulation of innate and adaptive immunity, autophagy, DNA repair or necroptosis."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Endosome, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:4566"
+],
+[
+"HGNC symbol",
+"GRB2"
+],
+[
+"Alias symbols",
+"NCKAP2"
+],
+[
+"Entrez",
+"2885"
+],
+[
+"Ensembl",
+"ENSG00000177885"
+],
+[
+"RefSeq",
+"NM_002086"
+],
+[
+"UniProt",
+"P62993"
+]
+]
+},
+{
+"id": "p_rsk",
+"label": "",
+"class": "Process",
+"box": [
+823.0,
+221.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"EGFR:GRB2:SOS1"
+],
+"out": [
+"EGFR:GRB2:SOS1"
+],
+"by": [
+"RSK"
+]
+},
+"references": [
+{
+"authors": "Saha M et al.",
+"year": "2012",
+"title": "RSK phosphorylates SOS1 creating 14-3-3-docking sites and negatively regulating MAPK activation.",
+"journal": "Biochem J",
+"db": "pubmed",
+"id": "22827337"
+},
+{
+"authors": "Douville E et al.",
+"year": "1997",
+"title": "EGF induced SOS phosphorylation in PC12 cells involves P90 RSK-2.",
+"journal": "Oncogene",
+"db": "pubmed",
+"id": "9242373"
+}
+]
+},
+{
+"label": "EGF",
+"class": "Macromolecule",
+"box": [
+552.0,
+114.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Pro-epidermal growth factor"
+],
+[
+"Function",
+"EGF stimulates the growth of various epidermal and epithelial tissues in vivo and in vitro and of some fibroblasts in cell culture. Magnesiotropic hormone that stimulates magnesium reabsorption in the renal distal convoluted tubule via engagement of EGFR and activation of the magnesium channel TRPM6."
+],
+[
+"Location",
+"Membrane"
+],
+[
+"HGNC",
+"HGNC:3229"
+],
+[
+"HGNC symbol",
+"EGF"
+],
+[
+"Entrez",
+"1950"
+],
+[
+"Ensembl",
+"ENSG00000138798"
+],
+[
+"RefSeq",
+"NM_001178130"
+],
+[
+"UniProt",
+"P01133"
+]
+]
+},
+{
+"label": "EGFR",
+"class": "Macromolecule",
+"box": [
+552.0,
+176.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Epidermal growth factor receptor"
+],
+[
+"Alternative names",
+"Proto-oncogene c-ErbB-1; Receptor tyrosine-protein kinase erbB-1"
+],
+[
+"Function",
+"Receptor tyrosine kinase binding ligands of the EGF family and activating several signaling cascades to convert extracellular cues into appropriate cellular responses. Known ligands include EGF, TGFA/TGF-alpha, AREG, epigen/EPGN, BTC/betacellulin, epiregulin/EREG and HBEGF/heparin-binding EGF."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Golgi apparatus membrane, Nucleus membrane, Endosome, Endosome membrane, Nucleus, Secreted"
+],
+[
+"HGNC",
+"HGNC:3236"
+],
+[
+"HGNC symbol",
+"EGFR"
+],
+[
+"Previous symbols",
+"ERBB"
+],
+[
+"Alias symbols",
+"ERBB1, ERRP"
+],
+[
+"Entrez",
+"1956"
+],
+[
+"Ensembl",
+"ENSG00000146648"
+],
+[
+"RefSeq",
+"NM_005228"
+],
+[
+"UniProt",
+"P00533"
+]
+]
+},
+{
+"label": "GRB2",
+"class": "Macromolecule",
+"box": [
+552.0,
+233.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Growth factor receptor-bound protein 2"
+],
+[
+"Alternative names",
+"Adapter protein GRB2; Protein Ash; SH2/SH3 adapter GRB2"
+],
+[
+"Function",
+"Non-enzymatic adapter protein that plays a pivotal role in precisely regulated signaling cascades from cell surface receptors to cellular responses, including signaling transduction and gene expression. Thus, participates in many biological processes including regulation of innate and adaptive immunity, autophagy, DNA repair or necroptosis."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Endosome, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:4566"
+],
+[
+"HGNC symbol",
+"GRB2"
+],
+[
+"Alias symbols",
+"NCKAP2"
+],
+[
+"Entrez",
+"2885"
+],
+[
+"Ensembl",
+"ENSG00000177885"
+],
+[
+"RefSeq",
+"NM_002086"
+],
+[
+"UniProt",
+"P62993"
+]
+]
+},
+{
+"label": "SOS1",
+"class": "Macromolecule",
+"box": [
+552.0,
+281.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Son of sevenless homolog 1"
+],
+[
+"Function",
+"Promotes the exchange of Ras-bound GDP by GTP. Probably by promoting Ras activation, regulates phosphorylation of MAP kinase MAPK3/ERK1 in response to EGF."
+],
+[
+"HGNC",
+"HGNC:11187"
+],
+[
+"HGNC symbol",
+"SOS1"
+],
+[
+"Previous symbols",
+"GINGF"
+],
+[
+"Alias symbols",
+"HGF, GF1"
+],
+[
+"Entrez",
+"6654"
+],
+[
+"Ensembl",
+"ENSG00000115904"
+],
+[
+"RefSeq",
+"NM_005633"
+],
+[
+"UniProt",
+"Q07889"
+]
+]
+},
+{
+"id": "p_14",
+"label": "",
+"class": "Process",
+"box": [
+343.0,
+221.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"EGFR:GRB2:SOS1",
+"14-3-3"
+],
+"out": [
+"EGFR:GRB2:SOS1:14-3-3"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Saha M et al.",
+"year": "2012",
+"title": "RSK phosphorylates SOS1 creating 14-3-3-docking sites and negatively regulating MAPK activation.",
+"journal": "Biochem J",
+"db": "pubmed",
+"id": "22827337"
+}
+]
+},
+{
+"label": "EGF",
+"class": "Macromolecule",
+"box": [
+72.0,
+83.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Pro-epidermal growth factor"
+],
+[
+"Function",
+"EGF stimulates the growth of various epidermal and epithelial tissues in vivo and in vitro and of some fibroblasts in cell culture. Magnesiotropic hormone that stimulates magnesium reabsorption in the renal distal convoluted tubule via engagement of EGFR and activation of the magnesium channel TRPM6."
+],
+[
+"Location",
+"Membrane"
+],
+[
+"HGNC",
+"HGNC:3229"
+],
+[
+"HGNC symbol",
+"EGF"
+],
+[
+"Entrez",
+"1950"
+],
+[
+"Ensembl",
+"ENSG00000138798"
+],
+[
+"RefSeq",
+"NM_001178130"
+],
+[
+"UniProt",
+"P01133"
+]
+]
+},
+{
+"label": "EGFR",
+"class": "Macromolecule",
+"box": [
+72.0,
+145.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Epidermal growth factor receptor"
+],
+[
+"Alternative names",
+"Proto-oncogene c-ErbB-1; Receptor tyrosine-protein kinase erbB-1"
+],
+[
+"Function",
+"Receptor tyrosine kinase binding ligands of the EGF family and activating several signaling cascades to convert extracellular cues into appropriate cellular responses. Known ligands include EGF, TGFA/TGF-alpha, AREG, epigen/EPGN, BTC/betacellulin, epiregulin/EREG and HBEGF/heparin-binding EGF."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Golgi apparatus membrane, Nucleus membrane, Endosome, Endosome membrane, Nucleus, Secreted"
+],
+[
+"HGNC",
+"HGNC:3236"
+],
+[
+"HGNC symbol",
+"EGFR"
+],
+[
+"Previous symbols",
+"ERBB"
+],
+[
+"Alias symbols",
+"ERBB1, ERRP"
+],
+[
+"Entrez",
+"1956"
+],
+[
+"Ensembl",
+"ENSG00000146648"
+],
+[
+"RefSeq",
+"NM_005228"
+],
+[
+"UniProt",
+"P00533"
+]
+]
+},
+{
+"label": "GRB2",
+"class": "Macromolecule",
+"box": [
+72.0,
+202.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Growth factor receptor-bound protein 2"
+],
+[
+"Alternative names",
+"Adapter protein GRB2; Protein Ash; SH2/SH3 adapter GRB2"
+],
+[
+"Function",
+"Non-enzymatic adapter protein that plays a pivotal role in precisely regulated signaling cascades from cell surface receptors to cellular responses, including signaling transduction and gene expression. Thus, participates in many biological processes including regulation of innate and adaptive immunity, autophagy, DNA repair or necroptosis."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Endosome, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:4566"
+],
+[
+"HGNC symbol",
+"GRB2"
+],
+[
+"Alias symbols",
+"NCKAP2"
+],
+[
+"Entrez",
+"2885"
+],
+[
+"Ensembl",
+"ENSG00000177885"
+],
+[
+"RefSeq",
+"NM_002086"
+],
+[
+"UniProt",
+"P62993"
+]
+]
+},
+{
+"label": "SOS1",
+"class": "Macromolecule",
+"box": [
+72.0,
+250.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Son of sevenless homolog 1"
+],
+[
+"Function",
+"Promotes the exchange of Ras-bound GDP by GTP. Probably by promoting Ras activation, regulates phosphorylation of MAP kinase MAPK3/ERK1 in response to EGF."
+],
+[
+"HGNC",
+"HGNC:11187"
+],
+[
+"HGNC symbol",
+"SOS1"
+],
+[
+"Previous symbols",
+"GINGF"
+],
+[
+"Alias symbols",
+"HGF, GF1"
+],
+[
+"Entrez",
+"6654"
+],
+[
+"Ensembl",
+"ENSG00000115904"
+],
+[
+"RefSeq",
+"NM_005633"
+],
+[
+"UniProt",
+"Q07889"
+]
+]
+},
+{
+"label": "14-3-3",
+"class": "Macromolecule",
+"box": [
+72.0,
+315.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"14-3-3"
+],
+[
+"Members",
+"YWHAB; YWHAE; YWHAG; YWHAH; YWHAQ; YWHAZ; SFN"
+]
+],
+"members": [
+{
+"symbol": "YWHAB",
+"props": [
+[
+"Full name",
+"14-3-3 protein beta/alpha"
+],
+[
+"Alternative names",
+"Protein 1054; Protein kinase C inhibitor protein 1"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"Location",
+"Cytoplasm, Melanosome, Vacuole membrane"
+],
+[
+"HGNC",
+"HGNC:12849"
+],
+[
+"HGNC symbol",
+"YWHAB"
+],
+[
+"Previous symbols",
+"YWHAA"
+],
+[
+"Entrez",
+"7529"
+],
+[
+"Ensembl",
+"ENSG00000166913"
+],
+[
+"RefSeq",
+"NM_003404"
+],
+[
+"UniProt",
+"P31946"
+]
+]
+},
+{
+"symbol": "YWHAE",
+"props": [
+[
+"Full name",
+"14-3-3 protein epsilon"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Melanosome"
+],
+[
+"HGNC",
+"HGNC:12851"
+],
+[
+"HGNC symbol",
+"YWHAE"
+],
+[
+"Alias symbols",
+"FLJ45465"
+],
+[
+"Entrez",
+"7531"
+],
+[
+"Ensembl",
+"ENSG00000108953"
+],
+[
+"RefSeq",
+"NM_006761"
+],
+[
+"UniProt",
+"P62258"
+]
+]
+},
+{
+"symbol": "YWHAG",
+"props": [
+[
+"Full name",
+"14-3-3 protein gamma"
+],
+[
+"Alternative names",
+"Protein kinase C inhibitor protein 1"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Mitochondrion matrix"
+],
+[
+"HGNC",
+"HGNC:12852"
+],
+[
+"HGNC symbol",
+"YWHAG"
+],
+[
+"Alias symbols",
+"PPP1R170, 14-3-3GAMMA, 14-3-3γ"
+],
+[
+"Entrez",
+"7532"
+],
+[
+"Ensembl",
+"ENSG00000170027"
+],
+[
+"RefSeq",
+"NM_012479"
+],
+[
+"UniProt",
+"P61981"
+]
+]
+},
+{
+"symbol": "YWHAH",
+"props": [
+[
+"Full name",
+"14-3-3 protein eta"
+],
+[
+"Alternative names",
+"Protein AS1"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"HGNC",
+"HGNC:12853"
+],
+[
+"HGNC symbol",
+"YWHAH"
+],
+[
+"Previous symbols",
+"YWHA1"
+],
+[
+"Entrez",
+"7533"
+],
+[
+"Ensembl",
+"ENSG00000128245"
+],
+[
+"RefSeq",
+"NM_003405"
+],
+[
+"UniProt",
+"Q04917"
+]
+]
+},
+{
+"symbol": "YWHAQ",
+"props": [
+[
+"Full name",
+"14-3-3 protein theta"
+],
+[
+"Alternative names",
+"14-3-3 protein T-cell; 14-3-3 protein tau; Protein HS1"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:12854"
+],
+[
+"HGNC symbol",
+"YWHAQ"
+],
+[
+"Alias symbols",
+"HS1, 14-3-3"
+],
+[
+"Entrez",
+"10971"
+],
+[
+"Ensembl",
+"ENSG00000134308"
+],
+[
+"RefSeq",
+"NM_006826"
+],
+[
+"UniProt",
+"P27348"
+]
+]
+},
+{
+"symbol": "YWHAZ",
+"props": [
+[
+"Full name",
+"14-3-3 protein zeta/delta"
+],
+[
+"Alternative names",
+"Protein kinase C inhibitor protein 1"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"Location",
+"Cytoplasm, Melanosome"
+],
+[
+"HGNC",
+"HGNC:12855"
+],
+[
+"HGNC symbol",
+"YWHAZ"
+],
+[
+"Previous symbols",
+"YWHAD"
+],
+[
+"Alias symbols",
+"KCIP-1, 14-3-3-zeta"
+],
+[
+"Entrez",
+"7534"
+],
+[
+"Ensembl",
+"ENSG00000164924"
+],
+[
+"RefSeq",
+"NM_145690"
+],
+[
+"UniProt",
+"P63104"
+]
+]
+},
+{
+"symbol": "SFN",
+"props": [
+[
+"Full name",
+"14-3-3 protein sigma"
+],
+[
+"Alternative names",
+"Epithelial cell marker protein 1; Stratifin"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Secreted"
+],
+[
+"HGNC",
+"HGNC:10773"
+],
+[
+"HGNC symbol",
+"SFN"
+],
+[
+"Alias symbols",
+"YWHAS"
+],
+[
+"Entrez",
+"2810"
+],
+[
+"Ensembl",
+"ENSG00000175793"
+],
+[
+"RefSeq",
+"NM_006142"
+],
+[
+"UniProt",
+"P31947"
+]
+]
+}
+]
+},
+{
+"label": "ERK1/2",
+"class": "Macromolecule",
+"box": [
+1275.0,
+573.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"ERK1/2"
+],
+[
+"Members",
+"MAPK3; MAPK1"
+]
+],
+"members": [
+{
+"symbol": "MAPK3",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"symbol": "MAPK1",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+}
+]
+},
+{
+"label": "SOS1",
+"class": "Macromolecule",
+"box": [
+1755.0,
+573.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Son of sevenless homolog 1"
+],
+[
+"Function",
+"Promotes the exchange of Ras-bound GDP by GTP. Probably by promoting Ras activation, regulates phosphorylation of MAP kinase MAPK3/ERK1 in response to EGF."
+],
+[
+"HGNC",
+"HGNC:11187"
+],
+[
+"HGNC symbol",
+"SOS1"
+],
+[
+"Previous symbols",
+"GINGF"
+],
+[
+"Alias symbols",
+"HGF, GF1"
+],
+[
+"Entrez",
+"6654"
+],
+[
+"Ensembl",
+"ENSG00000115904"
+],
+[
+"RefSeq",
+"NM_005633"
+],
+[
+"UniProt",
+"Q07889"
+]
+]
+},
+{
+"label": "RSK",
+"class": "Macromolecule",
+"box": [
+795.0,
+573.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"RSK"
+],
+[
+"Members",
+"RPS6KA1; RPS6KA2; RPS6KA3"
+]
+],
+"members": [
+{
+"symbol": "RPS6KA1",
+"props": [
+[
+"Full name",
+"Ribosomal protein S6 kinase alpha-1"
+],
+[
+"Alternative names",
+"90 kDa ribosomal protein S6 kinase 1; MAP kinase-activated protein kinase 1a; Ribosomal S6 kinase 1"
+],
+[
+"Function",
+"Serine/threonine-protein kinase that acts downstream of ERK (MAPK1/ERK2 and MAPK3/ERK1) signaling and mediates mitogenic and stress-induced activation of the transcription factors CREB1, ETV1/ER81 and NR4A1/NUR77, regulates translation through RPS6 and EIF4B phosphorylation, and mediates cellular proliferation, survival, and differentiation by modulating mTOR signaling and repressing pro-apoptotic function of BAD and DAPK1. In fibroblast, is required for EGF-stimulated phosphorylation of CREB1, which results in the subsequent transcriptional activation of several immediate-early genes."
+],
+[
+"Location",
+"Nucleus, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:10430"
+],
+[
+"HGNC symbol",
+"RPS6KA1"
+],
+[
+"Alias symbols",
+"RSK1, HU-1, p90Rsk, MAPKAPK1"
+],
+[
+"Entrez",
+"6195"
+],
+[
+"Ensembl",
+"ENSG00000117676"
+],
+[
+"RefSeq",
+"NM_002953"
+],
+[
+"UniProt",
+"Q15418"
+]
+]
+},
+{
+"symbol": "RPS6KA2",
+"props": [
+[
+"Full name",
+"Ribosomal protein S6 kinase alpha-2"
+],
+[
+"Alternative names",
+"90 kDa ribosomal protein S6 kinase 2; MAP kinase-activated protein kinase 1c; Ribosomal S6 kinase 3; pp90RSK3"
+],
+[
+"Function",
+"Serine/threonine-protein kinase that acts downstream of ERK (MAPK1/ERK2 and MAPK3/ERK1) signaling and mediates mitogenic and stress-induced activation of transcription factors, regulates translation, and mediates cellular proliferation, survival, and differentiation. May function as tumor suppressor in epithelial ovarian cancer cells"
+],
+[
+"Location",
+"Nucleus, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:10431"
+],
+[
+"HGNC symbol",
+"RPS6KA2"
+],
+[
+"Alias symbols",
+"RSK3, HU-2"
+],
+[
+"Entrez",
+"6196"
+],
+[
+"Ensembl",
+"ENSG00000071242"
+],
+[
+"RefSeq",
+"NM_021135"
+],
+[
+"UniProt",
+"Q15349"
+]
+]
+},
+{
+"symbol": "RPS6KA3",
+"props": [
+[
+"Full name",
+"Ribosomal protein S6 kinase alpha-3"
+],
+[
+"Alternative names",
+"90 kDa ribosomal protein S6 kinase 3; Insulin-stimulated protein kinase 1; MAP kinase-activated protein kinase 1b; Ribosomal S6 kinase 2; pp90RSK2"
+],
+[
+"Function",
+"Serine/threonine-protein kinase that acts downstream of ERK (MAPK1/ERK2 and MAPK3/ERK1) signaling and mediates mitogenic and stress-induced activation of the transcription factors CREB1, ETV1/ER81 and NR4A1/NUR77, regulates translation through RPS6 and EIF4B phosphorylation, and mediates cellular proliferation, survival, and differentiation by modulating mTOR signaling and repressing pro-apoptotic function of BAD and DAPK1. In fibroblast, is required for EGF-stimulated phosphorylation of CREB1 and histone H3 at 'Ser-10', which results in the subsequent transcriptional activation of several immediate-early genes."
+],
+[
+"Location",
+"Nucleus, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:10432"
+],
+[
+"HGNC symbol",
+"RPS6KA3"
+],
+[
+"Previous symbols",
+"MRX19, CLS"
+],
+[
+"Alias symbols",
+"RSK2, HU-3"
+],
+[
+"Entrez",
+"6197"
+],
+[
+"Ensembl",
+"ENSG00000177189"
+],
+[
+"RefSeq",
+"NM_004586"
+],
+[
+"UniProt",
+"P51812"
+]
+]
+}
+]
+},
+{
+"label": "14-3-3",
+"class": "Macromolecule",
+"box": [
+315.0,
+573.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"14-3-3"
+],
+[
+"Members",
+"YWHAB; YWHAE; YWHAG; YWHAH; YWHAQ; YWHAZ; SFN"
+]
+],
+"members": [
+{
+"symbol": "YWHAB",
+"props": [
+[
+"Full name",
+"14-3-3 protein beta/alpha"
+],
+[
+"Alternative names",
+"Protein 1054; Protein kinase C inhibitor protein 1"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"Location",
+"Cytoplasm, Melanosome, Vacuole membrane"
+],
+[
+"HGNC",
+"HGNC:12849"
+],
+[
+"HGNC symbol",
+"YWHAB"
+],
+[
+"Previous symbols",
+"YWHAA"
+],
+[
+"Entrez",
+"7529"
+],
+[
+"Ensembl",
+"ENSG00000166913"
+],
+[
+"RefSeq",
+"NM_003404"
+],
+[
+"UniProt",
+"P31946"
+]
+]
+},
+{
+"symbol": "YWHAE",
+"props": [
+[
+"Full name",
+"14-3-3 protein epsilon"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Melanosome"
+],
+[
+"HGNC",
+"HGNC:12851"
+],
+[
+"HGNC symbol",
+"YWHAE"
+],
+[
+"Alias symbols",
+"FLJ45465"
+],
+[
+"Entrez",
+"7531"
+],
+[
+"Ensembl",
+"ENSG00000108953"
+],
+[
+"RefSeq",
+"NM_006761"
+],
+[
+"UniProt",
+"P62258"
+]
+]
+},
+{
+"symbol": "YWHAG",
+"props": [
+[
+"Full name",
+"14-3-3 protein gamma"
+],
+[
+"Alternative names",
+"Protein kinase C inhibitor protein 1"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Mitochondrion matrix"
+],
+[
+"HGNC",
+"HGNC:12852"
+],
+[
+"HGNC symbol",
+"YWHAG"
+],
+[
+"Alias symbols",
+"PPP1R170, 14-3-3GAMMA, 14-3-3γ"
+],
+[
+"Entrez",
+"7532"
+],
+[
+"Ensembl",
+"ENSG00000170027"
+],
+[
+"RefSeq",
+"NM_012479"
+],
+[
+"UniProt",
+"P61981"
+]
+]
+},
+{
+"symbol": "YWHAH",
+"props": [
+[
+"Full name",
+"14-3-3 protein eta"
+],
+[
+"Alternative names",
+"Protein AS1"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"HGNC",
+"HGNC:12853"
+],
+[
+"HGNC symbol",
+"YWHAH"
+],
+[
+"Previous symbols",
+"YWHA1"
+],
+[
+"Entrez",
+"7533"
+],
+[
+"Ensembl",
+"ENSG00000128245"
+],
+[
+"RefSeq",
+"NM_003405"
+],
+[
+"UniProt",
+"Q04917"
+]
+]
+},
+{
+"symbol": "YWHAQ",
+"props": [
+[
+"Full name",
+"14-3-3 protein theta"
+],
+[
+"Alternative names",
+"14-3-3 protein T-cell; 14-3-3 protein tau; Protein HS1"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:12854"
+],
+[
+"HGNC symbol",
+"YWHAQ"
+],
+[
+"Alias symbols",
+"HS1, 14-3-3"
+],
+[
+"Entrez",
+"10971"
+],
+[
+"Ensembl",
+"ENSG00000134308"
+],
+[
+"RefSeq",
+"NM_006826"
+],
+[
+"UniProt",
+"P27348"
+]
+]
+},
+{
+"symbol": "YWHAZ",
+"props": [
+[
+"Full name",
+"14-3-3 protein zeta/delta"
+],
+[
+"Alternative names",
+"Protein kinase C inhibitor protein 1"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"Location",
+"Cytoplasm, Melanosome"
+],
+[
+"HGNC",
+"HGNC:12855"
+],
+[
+"HGNC symbol",
+"YWHAZ"
+],
+[
+"Previous symbols",
+"YWHAD"
+],
+[
+"Alias symbols",
+"KCIP-1, 14-3-3-zeta"
+],
+[
+"Entrez",
+"7534"
+],
+[
+"Ensembl",
+"ENSG00000164924"
+],
+[
+"RefSeq",
+"NM_145690"
+],
+[
+"UniProt",
+"P63104"
+]
+]
+},
+{
+"symbol": "SFN",
+"props": [
+[
+"Full name",
+"14-3-3 protein sigma"
+],
+[
+"Alternative names",
+"Epithelial cell marker protein 1; Stratifin"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Secreted"
+],
+[
+"HGNC",
+"HGNC:10773"
+],
+[
+"HGNC symbol",
+"SFN"
+],
+[
+"Alias symbols",
+"YWHAS"
+],
+[
+"Entrez",
+"2810"
+],
+[
+"Ensembl",
+"ENSG00000175793"
+],
+[
+"RefSeq",
+"NM_006142"
+],
+[
+"UniProt",
+"P31947"
+]
+]
+}
+]
+}
+]
+}

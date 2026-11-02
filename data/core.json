@@ -84,9 +84,9 @@
 "references": [
 {
 "authors": "Ogiso H et al.",
-"year": "2002",
-"title": "Crystal structure of the complex of human epidermal growth factor and receptor extracellular domains.",
 "journal": "Cell",
+"title": "Crystal structure of the complex of human epidermal growth factor and receptor extracellular domains.",
+"year": "2002",
 "db": "pubmed",
 "id": "12297050"
 }
@@ -223,9 +223,9 @@
 "references": [
 {
 "authors": "Ogiso H et al.",
-"year": "2002",
-"title": "Crystal structure of the complex of human epidermal growth factor and receptor extracellular domains.",
 "journal": "Cell",
+"title": "Crystal structure of the complex of human epidermal growth factor and receptor extracellular domains.",
+"year": "2002",
 "db": "pubmed",
 "id": "12297050"
 }
@@ -362,25 +362,25 @@
 "references": [
 {
 "authors": "Batzer AG et al.",
-"year": "1994",
-"title": "Hierarchy of binding sites for Grb2 and Shc on the epidermal growth factor receptor.",
 "journal": "Mol Cell Biol",
+"title": "Hierarchy of binding sites for Grb2 and Shc on the epidermal growth factor receptor.",
+"year": "1994",
 "db": "pubmed",
 "id": "7518560"
 },
 {
 "authors": "Okutani T et al.",
-"year": "1994",
-"title": "Grb2/Ash binds directly to tyrosines 1068 and 1086 and indirectly to tyrosine 1148 of activated human epidermal growth factor receptors in intact cells.",
 "journal": "J Biol Chem",
+"title": "Grb2/Ash binds directly to tyrosines 1068 and 1086 and indirectly to tyrosine 1148 of activated human epidermal growth factor receptors in intact cells.",
+"year": "1994",
 "db": "pubmed",
 "id": "7527043"
 },
 {
 "authors": "Lowenstein EJ et al.",
-"year": "1992",
-"title": "The SH2 and SH3 domain-containing protein GRB2 links receptor tyrosine kinases to ras signaling.",
 "journal": "Cell",
+"title": "The SH2 and SH3 domain-containing protein GRB2 links receptor tyrosine kinases to ras signaling.",
+"year": "1992",
 "db": "pubmed",
 "id": "1322798"
 }
@@ -518,9 +518,9 @@
 "references": [
 {
 "authors": "Rozakis-Adcock M et al.",
-"year": "1993",
-"title": "The SH2 and SH3 domains of mammalian Grb2 couple the EGF receptor to the Ras activator mSos1.",
 "journal": "Nature",
+"title": "The SH2 and SH3 domains of mammalian Grb2 couple the EGF receptor to the Ras activator mSos1.",
+"year": "1993",
 "db": "pubmed",
 "id": "8479540"
 },
@@ -534,17 +534,17 @@
 },
 {
 "authors": "Lowenstein EJ et al.",
-"year": "1992",
-"title": "The SH2 and SH3 domain-containing protein GRB2 links receptor tyrosine kinases to ras signaling.",
 "journal": "Cell",
+"title": "The SH2 and SH3 domain-containing protein GRB2 links receptor tyrosine kinases to ras signaling.",
+"year": "1992",
 "db": "pubmed",
 "id": "1322798"
 },
 {
 "authors": "Aronheim A et al.",
-"year": "1994",
-"title": "Membrane targeting of the nucleotide exchange factor Sos is sufficient for activating the Ras signaling pathway.",
 "journal": "Cell",
+"title": "Membrane targeting of the nucleotide exchange factor Sos is sufficient for activating the Ras signaling pathway.",
+"year": "1994",
 "db": "pubmed",
 "id": "7923364"
 }
@@ -4206,25 +4206,25 @@
 "references": [
 {
 "authors": "Rozakis-Adcock M et al.",
-"year": "1993",
-"title": "The SH2 and SH3 domains of mammalian Grb2 couple the EGF receptor to the Ras activator mSos1.",
 "journal": "Nature",
+"title": "The SH2 and SH3 domains of mammalian Grb2 couple the EGF receptor to the Ras activator mSos1.",
+"year": "1993",
 "db": "pubmed",
 "id": "8479540"
 },
 {
 "authors": "Li N et al.",
-"year": "1993",
-"title": "Guanine-nucleotide-releasing factor hSos1 binds to Grb2 and links receptor tyrosine kinases to Ras signalling.",
 "journal": "Nature",
+"title": "Guanine-nucleotide-releasing factor hSos1 binds to Grb2 and links receptor tyrosine kinases to Ras signalling.",
+"year": "1993",
 "db": "pubmed",
 "id": "8479541"
 },
 {
 "authors": "Egan SE et al.",
-"year": "1993",
-"title": "Association of Sos Ras exchange protein with Grb2 is implicated in tyrosine kinase signal transduction and transformation.",
 "journal": "Nature",
+"title": "Association of Sos Ras exchange protein with Grb2 is implicated in tyrosine kinase signal transduction and transformation.",
+"year": "1993",
 "db": "pubmed",
 "id": "8479536"
 },

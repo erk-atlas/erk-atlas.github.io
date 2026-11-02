@@ -405,6 +405,33 @@
 "hasText": true
 },
 {
+"id": "receptor-feedback",
+"title": "Fast feedback on the receptor complex",
+"topic": "Fast feedback on the receptor complex",
+"group": "Temporal",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/receptor-feedback.svg",
+"width": 2145.0,
+"height": 677.0,
+"scale": 1,
+"annotation": "data/receptor-feedback.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/receptor-feedback.graphml"
+},
+{
+"label": "SVG",
+"url": "files/receptor-feedback.svg"
+}
+],
+"data": "data/receptor-feedback-text.json",
+"hasText": true
+},
+{
 "id": "sm-canonical-m01",
 "title": "Canonical cascade, generic (2021)",
 "topic": "Canonical cascade (2021)",
