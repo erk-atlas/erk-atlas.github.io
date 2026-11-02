@@ -1,11 +1,67 @@
 {
 "nodes": [
 {
+"label": "KSR1",
+"class": "Macromolecule",
+"box": [
+76.5,
+767.8,
+80.0,
+184.0
+],
+"props": [
+[
+"Full name",
+"Kinase suppressor of Ras 1"
+],
+[
+"Function",
+"Part of a multiprotein signaling complex which promotes phosphorylation of Raf family members and activation of downstream MAP kinases. Independently of its kinase activity, acts as MAP2K1/MEK1 and MAP2K2/MEK2-dependent allosteric activator of BRAF; upon binding to MAP2K1/MEK1 or MAP2K2/MEK2, dimerizes with BRAF and promotes BRAF-mediated phosphorylation of MAP2K1/MEK1 and/or MAP2K2/MEK2."
+],
+[
+"Location",
+"Cytoplasm, Membrane, Cell membrane, Cell projection, ruffle membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:6465"
+],
+[
+"HGNC symbol",
+"KSR1"
+],
+[
+"Previous symbols",
+"KSR"
+],
+[
+"Alias symbols",
+"RSU2"
+],
+[
+"Entrez",
+"8844"
+],
+[
+"Ensembl",
+"ENSG00000141068"
+],
+[
+"RefSeq",
+"NM_014238"
+],
+[
+"UniProt",
+"Q8IVT5"
+]
+]
+},
+{
 "label": "MEK1/2",
 "class": "Macromolecule",
 "box": [
-67.5,
-631.8,
+180.5,
+911.8,
 80.0,
 40.0
 ],
@@ -129,67 +185,11 @@
 ]
 },
 {
-"label": "KSR1",
-"class": "Macromolecule",
-"box": [
-67.5,
-679.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Kinase suppressor of Ras 1"
-],
-[
-"Function",
-"Part of a multiprotein signaling complex which promotes phosphorylation of Raf family members and activation of downstream MAP kinases. Independently of its kinase activity, acts as MAP2K1/MEK1 and MAP2K2/MEK2-dependent allosteric activator of BRAF; upon binding to MAP2K1/MEK1 or MAP2K2/MEK2, dimerizes with BRAF and promotes BRAF-mediated phosphorylation of MAP2K1/MEK1 and/or MAP2K2/MEK2."
-],
-[
-"Location",
-"Cytoplasm, Membrane, Cell membrane, Cell projection, ruffle membrane, Endoplasmic reticulum membrane"
-],
-[
-"HGNC",
-"HGNC:6465"
-],
-[
-"HGNC symbol",
-"KSR1"
-],
-[
-"Previous symbols",
-"KSR"
-],
-[
-"Alias symbols",
-"RSU2"
-],
-[
-"Entrez",
-"8844"
-],
-[
-"Ensembl",
-"ENSG00000141068"
-],
-[
-"RefSeq",
-"NM_014238"
-],
-[
-"UniProt",
-"Q8IVT5"
-]
-]
-},
-{
 "label": "14-3-3",
 "class": "Macromolecule",
 "box": [
-67.5,
-744.8,
+180.5,
+767.8,
 80.0,
 40.0
 ],
@@ -550,8 +550,8 @@
 "label": "",
 "class": "Process",
 "box": [
-300.0,
-705.0,
+375.0,
+854.0,
 24.0,
 24.0
 ],
@@ -599,8 +599,8 @@
 "label": "PP2A-A",
 "class": "Macromolecule",
 "box": [
-228.0,
-534.8,
+303.0,
+683.8,
 80.0,
 40.0
 ],
@@ -715,8 +715,8 @@
 "label": "PP2A-B55",
 "class": "Macromolecule",
 "box": [
-316.0,
-534.8,
+391.0,
+683.8,
 80.0,
 40.0
 ],
@@ -929,8 +929,8 @@
 "label": "PP2A-C",
 "class": "Macromolecule",
 "box": [
-272.0,
-582.8,
+347.0,
+731.8,
 80.0,
 40.0
 ],
@@ -1045,8 +1045,8 @@
 "label": "14-3-3",
 "class": "Macromolecule",
 "box": [
-272.0,
-825.0,
+347.0,
+1014.0,
 80.0,
 40.0
 ],
@@ -1403,11 +1403,67 @@
 ]
 },
 {
+"label": "KSR1",
+"class": "Macromolecule",
+"box": [
+519.5,
+763.8,
+80.0,
+184.0
+],
+"props": [
+[
+"Full name",
+"Kinase suppressor of Ras 1"
+],
+[
+"Function",
+"Part of a multiprotein signaling complex which promotes phosphorylation of Raf family members and activation of downstream MAP kinases. Independently of its kinase activity, acts as MAP2K1/MEK1 and MAP2K2/MEK2-dependent allosteric activator of BRAF; upon binding to MAP2K1/MEK1 or MAP2K2/MEK2, dimerizes with BRAF and promotes BRAF-mediated phosphorylation of MAP2K1/MEK1 and/or MAP2K2/MEK2."
+],
+[
+"Location",
+"Cytoplasm, Membrane, Cell membrane, Cell projection, ruffle membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:6465"
+],
+[
+"HGNC symbol",
+"KSR1"
+],
+[
+"Previous symbols",
+"KSR"
+],
+[
+"Alias symbols",
+"RSU2"
+],
+[
+"Entrez",
+"8844"
+],
+[
+"Ensembl",
+"ENSG00000141068"
+],
+[
+"RefSeq",
+"NM_014238"
+],
+[
+"UniProt",
+"Q8IVT5"
+]
+]
+},
+{
 "label": "MEK1/2",
 "class": "Macromolecule",
 "box": [
-467.5,
-662.8,
+623.5,
+907.8,
 80.0,
 40.0
 ],
@@ -1531,68 +1587,12 @@
 ]
 },
 {
-"label": "KSR1",
-"class": "Macromolecule",
-"box": [
-467.5,
-710.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Kinase suppressor of Ras 1"
-],
-[
-"Function",
-"Part of a multiprotein signaling complex which promotes phosphorylation of Raf family members and activation of downstream MAP kinases. Independently of its kinase activity, acts as MAP2K1/MEK1 and MAP2K2/MEK2-dependent allosteric activator of BRAF; upon binding to MAP2K1/MEK1 or MAP2K2/MEK2, dimerizes with BRAF and promotes BRAF-mediated phosphorylation of MAP2K1/MEK1 and/or MAP2K2/MEK2."
-],
-[
-"Location",
-"Cytoplasm, Membrane, Cell membrane, Cell projection, ruffle membrane, Endoplasmic reticulum membrane"
-],
-[
-"HGNC",
-"HGNC:6465"
-],
-[
-"HGNC symbol",
-"KSR1"
-],
-[
-"Previous symbols",
-"KSR"
-],
-[
-"Alias symbols",
-"RSU2"
-],
-[
-"Entrez",
-"8844"
-],
-[
-"Ensembl",
-"ENSG00000141068"
-],
-[
-"RefSeq",
-"NM_014238"
-],
-[
-"UniProt",
-"Q8IVT5"
-]
-]
-},
-{
 "id": "p_tr",
 "label": "",
 "class": "Process",
 "box": [
-500.0,
-537.0,
+595.0,
+638.0,
 24.0,
 24.0
 ],
@@ -1637,8 +1637,8 @@
 "label": "MEK1/2",
 "class": "Macromolecule",
 "box": [
-596.0,
-697.0,
+771.0,
+846.0,
 80.0,
 40.0
 ],
@@ -1766,8 +1766,8 @@
 "label": "",
 "class": "Process",
 "box": [
-720.0,
-705.0,
+895.0,
+854.0,
 24.0,
 24.0
 ],
@@ -1814,8 +1814,8 @@
 "label": "MEK1/2",
 "class": "Macromolecule",
 "box": [
-788.0,
-697.0,
+963.0,
+846.0,
 80.0,
 40.0
 ],
@@ -1942,8 +1942,8 @@
 "label": "ERK1/2",
 "class": "Macromolecule",
 "box": [
-892.0,
-505.0,
+1107.0,
+606.0,
 80.0,
 40.0
 ],
@@ -2067,11 +2067,67 @@
 ]
 },
 {
+"label": "KSR1",
+"class": "Macromolecule",
+"box": [
+1539.5,
+763.8,
+80.0,
+184.0
+],
+"props": [
+[
+"Full name",
+"Kinase suppressor of Ras 1"
+],
+[
+"Function",
+"Part of a multiprotein signaling complex which promotes phosphorylation of Raf family members and activation of downstream MAP kinases. Independently of its kinase activity, acts as MAP2K1/MEK1 and MAP2K2/MEK2-dependent allosteric activator of BRAF; upon binding to MAP2K1/MEK1 or MAP2K2/MEK2, dimerizes with BRAF and promotes BRAF-mediated phosphorylation of MAP2K1/MEK1 and/or MAP2K2/MEK2."
+],
+[
+"Location",
+"Cytoplasm, Membrane, Cell membrane, Cell projection, ruffle membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:6465"
+],
+[
+"HGNC symbol",
+"KSR1"
+],
+[
+"Previous symbols",
+"KSR"
+],
+[
+"Alias symbols",
+"RSU2"
+],
+[
+"Entrez",
+"8844"
+],
+[
+"Ensembl",
+"ENSG00000141068"
+],
+[
+"RefSeq",
+"NM_014238"
+],
+[
+"UniProt",
+"Q8IVT5"
+]
+]
+},
+{
 "label": "MEK1/2",
 "class": "Macromolecule",
 "box": [
-1287.5,
-662.8,
+1643.5,
+907.8,
 80.0,
 40.0
 ],
@@ -2198,10 +2254,10 @@
 "label": "KSR1",
 "class": "Macromolecule",
 "box": [
-1287.5,
-710.8,
+519.5,
+275.8,
 80.0,
-40.0
+184.0
 ],
 "props": [
 [
@@ -2254,8 +2310,8 @@
 "label": "MEK1/2",
 "class": "Macromolecule",
 "box": [
-467.5,
-278.8,
+623.5,
+419.8,
 80.0,
 40.0
 ],
@@ -2376,110 +2432,14 @@
 ]
 ]
 }
-]
-},
-{
-"label": "KSR1",
-"class": "Macromolecule",
-"box": [
-467.5,
-326.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Kinase suppressor of Ras 1"
-],
-[
-"Function",
-"Part of a multiprotein signaling complex which promotes phosphorylation of Raf family members and activation of downstream MAP kinases. Independently of its kinase activity, acts as MAP2K1/MEK1 and MAP2K2/MEK2-dependent allosteric activator of BRAF; upon binding to MAP2K1/MEK1 or MAP2K2/MEK2, dimerizes with BRAF and promotes BRAF-mediated phosphorylation of MAP2K1/MEK1 and/or MAP2K2/MEK2."
-],
-[
-"Location",
-"Cytoplasm, Membrane, Cell membrane, Cell projection, ruffle membrane, Endoplasmic reticulum membrane"
-],
-[
-"HGNC",
-"HGNC:6465"
-],
-[
-"HGNC symbol",
-"KSR1"
-],
-[
-"Previous symbols",
-"KSR"
-],
-[
-"Alias symbols",
-"RSU2"
-],
-[
-"Entrez",
-"8844"
-],
-[
-"Ensembl",
-"ENSG00000141068"
-],
-[
-"RefSeq",
-"NM_014238"
-],
-[
-"UniProt",
-"Q8IVT5"
-]
-]
-},
-{
-"label": "GTP",
-"class": "SimpleChemical",
-"box": [
-293.5,
-83.2,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"GTP(4-)"
-],
-[
-"Synonyms",
-"GTP; guanosine 5'-triphosphate(4-)"
-],
-[
-"Definition",
-"A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of GTP; major species present at pH 7.3."
-],
-[
-"Formula",
-"C10H12N5O14P3"
-],
-[
-"ChEBI",
-"CHEBI:37565"
-],
-[
-"InChI",
-"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/p-4/t3-,5-,6-,9-/m1/s1"
-],
-[
-"InChIKey",
-"XKMLYUALXHKNFT-UUOKFMHZSA-J"
-]
 ]
 },
 {
 "label": "RAS",
 "class": "Macromolecule",
 "box": [
-273.5,
-131.2,
+304.5,
+123.2,
 80.0,
 40.0
 ],
@@ -2648,10 +2608,50 @@
 ]
 },
 {
+"label": "GTP",
+"class": "SimpleChemical",
+"box": [
+412.5,
+123.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"GTP(4-)"
+],
+[
+"Synonyms",
+"GTP; guanosine 5'-triphosphate(4-)"
+],
+[
+"Definition",
+"A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of GTP; major species present at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O14P3"
+],
+[
+"ChEBI",
+"CHEBI:37565"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/p-4/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"XKMLYUALXHKNFT-UUOKFMHZSA-J"
+]
+]
+},
+{
 "label": "BRAF",
 "class": "Macromolecule",
 "box": [
-273.5,
+304.5,
 179.2,
 80.0,
 40.0
@@ -2707,8 +2707,8 @@
 "label": "14-3-3",
 "class": "Macromolecule",
 "box": [
-273.5,
-244.2,
+392.5,
+179.2,
 80.0,
 40.0
 ],
@@ -3069,8 +3069,8 @@
 "label": "",
 "class": "Process",
 "box": [
-500.0,
-185.0,
+595.0,
+174.0,
 24.0,
 24.0
 ],
@@ -3121,42 +3121,58 @@
 ]
 },
 {
-"label": "GTP",
-"class": "SimpleChemical",
+"label": "KSR1",
+"class": "Macromolecule",
 "box": [
-665.0,
-83.2,
-40.0,
-40.0
+764.5,
+83.8,
+80.0,
+184.0
 ],
 "props": [
 [
 "Full name",
-"GTP(4-)"
+"Kinase suppressor of Ras 1"
 ],
 [
-"Synonyms",
-"GTP; guanosine 5'-triphosphate(4-)"
+"Function",
+"Part of a multiprotein signaling complex which promotes phosphorylation of Raf family members and activation of downstream MAP kinases. Independently of its kinase activity, acts as MAP2K1/MEK1 and MAP2K2/MEK2-dependent allosteric activator of BRAF; upon binding to MAP2K1/MEK1 or MAP2K2/MEK2, dimerizes with BRAF and promotes BRAF-mediated phosphorylation of MAP2K1/MEK1 and/or MAP2K2/MEK2."
 ],
 [
-"Definition",
-"A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of GTP; major species present at pH 7.3."
+"Location",
+"Cytoplasm, Membrane, Cell membrane, Cell projection, ruffle membrane, Endoplasmic reticulum membrane"
 ],
 [
-"Formula",
-"C10H12N5O14P3"
+"HGNC",
+"HGNC:6465"
 ],
 [
-"ChEBI",
-"CHEBI:37565"
+"HGNC symbol",
+"KSR1"
 ],
 [
-"InChI",
-"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/p-4/t3-,5-,6-,9-/m1/s1"
+"Previous symbols",
+"KSR"
 ],
 [
-"InChIKey",
-"XKMLYUALXHKNFT-UUOKFMHZSA-J"
+"Alias symbols",
+"RSU2"
+],
+[
+"Entrez",
+"8844"
+],
+[
+"Ensembl",
+"ENSG00000141068"
+],
+[
+"RefSeq",
+"NM_014238"
+],
+[
+"UniProt",
+"Q8IVT5"
 ]
 ]
 },
@@ -3164,8 +3180,8 @@
 "label": "RAS",
 "class": "Macromolecule",
 "box": [
-645.0,
-131.2,
+868.5,
+83.8,
 80.0,
 40.0
 ],
@@ -3334,11 +3350,51 @@
 ]
 },
 {
+"label": "GTP",
+"class": "SimpleChemical",
+"box": [
+992.5,
+83.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"GTP(4-)"
+],
+[
+"Synonyms",
+"GTP; guanosine 5'-triphosphate(4-)"
+],
+[
+"Definition",
+"A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of GTP; major species present at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O14P3"
+],
+[
+"ChEBI",
+"CHEBI:37565"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/p-4/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"XKMLYUALXHKNFT-UUOKFMHZSA-J"
+]
+]
+},
+{
 "label": "BRAF",
 "class": "Macromolecule",
 "box": [
-645.0,
-179.2,
+868.5,
+155.8,
 80.0,
 40.0
 ],
@@ -3393,8 +3449,8 @@
 "label": "14-3-3",
 "class": "Macromolecule",
 "box": [
-645.0,
-244.2,
+972.5,
+155.8,
 80.0,
 40.0
 ],
@@ -3754,8 +3810,8 @@
 "label": "MEK1/2",
 "class": "Macromolecule",
 "box": [
-739.0,
-131.2,
+868.5,
+227.8,
 80.0,
 40.0
 ],
@@ -3882,10 +3938,10 @@
 "label": "KSR1",
 "class": "Macromolecule",
 "box": [
-739.0,
-179.2,
+1244.5,
+83.8,
 80.0,
-40.0
+184.0
 ],
 "props": [
 [
@@ -3935,51 +3991,11 @@
 ]
 },
 {
-"label": "GTP",
-"class": "SimpleChemical",
-"box": [
-1065.0,
-83.2,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"GTP(4-)"
-],
-[
-"Synonyms",
-"GTP; guanosine 5'-triphosphate(4-)"
-],
-[
-"Definition",
-"A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of GTP; major species present at pH 7.3."
-],
-[
-"Formula",
-"C10H12N5O14P3"
-],
-[
-"ChEBI",
-"CHEBI:37565"
-],
-[
-"InChI",
-"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/p-4/t3-,5-,6-,9-/m1/s1"
-],
-[
-"InChIKey",
-"XKMLYUALXHKNFT-UUOKFMHZSA-J"
-]
-]
-},
-{
 "label": "RAS",
 "class": "Macromolecule",
 "box": [
-1045.0,
-131.2,
+1348.5,
+83.8,
 80.0,
 40.0
 ],
@@ -4148,11 +4164,51 @@
 ]
 },
 {
+"label": "GTP",
+"class": "SimpleChemical",
+"box": [
+1472.5,
+83.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"GTP(4-)"
+],
+[
+"Synonyms",
+"GTP; guanosine 5'-triphosphate(4-)"
+],
+[
+"Definition",
+"A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of GTP; major species present at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O14P3"
+],
+[
+"ChEBI",
+"CHEBI:37565"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/p-4/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"XKMLYUALXHKNFT-UUOKFMHZSA-J"
+]
+]
+},
+{
 "label": "BRAF",
 "class": "Macromolecule",
 "box": [
-1045.0,
-179.2,
+1348.5,
+155.8,
 80.0,
 40.0
 ],
@@ -4207,8 +4263,8 @@
 "label": "14-3-3",
 "class": "Macromolecule",
 "box": [
-1045.0,
-244.2,
+1452.5,
+155.8,
 80.0,
 40.0
 ],
@@ -4568,8 +4624,8 @@
 "label": "MEK1/2",
 "class": "Macromolecule",
 "box": [
-1139.0,
-131.2,
+1348.5,
+227.8,
 80.0,
 40.0
 ],
@@ -4693,10 +4749,223 @@
 ]
 },
 {
-"label": "KSR1",
+"label": "RAS",
 "class": "Macromolecule",
 "box": [
-1139.0,
+1784.5,
+123.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"RAS"
+],
+[
+"Members",
+"HRAS; KRAS; NRAS"
+]
+],
+"members": [
+{
+"symbol": "HRAS",
+"props": [
+[
+"Full name",
+"GTPase HRas"
+],
+[
+"Alternative names",
+"H-Ras-1; Ha-Ras; Transforming protein p21; c-H-ras; p21ras"
+],
+[
+"Function",
+"Signal transducer in the Ras-MAPK signaling pathway that regulates cell proliferation and survival. Ras proteins bind GDP/GTP and possess intrinsic GTPase activity."
+],
+[
+"Location",
+"Cell membrane, Golgi apparatus, Golgi apparatus membrane, Nucleus, Cytoplasm, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:5173"
+],
+[
+"HGNC symbol",
+"HRAS"
+],
+[
+"Previous symbols",
+"HRAS1"
+],
+[
+"Entrez",
+"3265"
+],
+[
+"Ensembl",
+"ENSG00000174775"
+],
+[
+"RefSeq",
+"NM_176795"
+],
+[
+"UniProt",
+"P01112"
+]
+]
+},
+{
+"symbol": "KRAS",
+"props": [
+[
+"Full name",
+"GTPase KRas"
+],
+[
+"Alternative names",
+"K-Ras 2; Ki-Ras; c-K-ras; c-Ki-ras"
+],
+[
+"Function",
+"Signal transducer in the Ras-MAPK signaling pathway that regulates cell proliferation and survival. Ras proteins bind GDP/GTP and possess intrinsic GTPase activity."
+],
+[
+"Location",
+"Cell membrane, Endomembrane system, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:6407"
+],
+[
+"HGNC symbol",
+"KRAS"
+],
+[
+"Previous symbols",
+"KRAS2"
+],
+[
+"Alias symbols",
+"KRAS1, K-Ras4B"
+],
+[
+"Entrez",
+"3845"
+],
+[
+"Ensembl",
+"ENSG00000133703"
+],
+[
+"RefSeq",
+"NM_033360"
+],
+[
+"UniProt",
+"P01116"
+]
+]
+},
+{
+"symbol": "NRAS",
+"props": [
+[
+"Full name",
+"GTPase NRas"
+],
+[
+"Alternative names",
+"Transforming protein N-Ras"
+],
+[
+"Function",
+"Signal transducer in the Ras-MAPK signaling pathway that regulates cell proliferation and survival. Ras proteins bind GDP/GTP and possess intrinsic GTPase activity."
+],
+[
+"Location",
+"Cell membrane, Golgi apparatus membrane"
+],
+[
+"HGNC",
+"HGNC:7989"
+],
+[
+"HGNC symbol",
+"NRAS"
+],
+[
+"Alias symbols",
+"N-ras"
+],
+[
+"Entrez",
+"4893"
+],
+[
+"Ensembl",
+"ENSG00000213281"
+],
+[
+"RefSeq",
+"NM_002524"
+],
+[
+"UniProt",
+"P01111"
+]
+]
+}
+]
+},
+{
+"label": "GTP",
+"class": "SimpleChemical",
+"box": [
+1892.5,
+123.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"GTP(4-)"
+],
+[
+"Synonyms",
+"GTP; guanosine 5'-triphosphate(4-)"
+],
+[
+"Definition",
+"A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of GTP; major species present at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O14P3"
+],
+[
+"ChEBI",
+"CHEBI:37565"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/p-4/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"XKMLYUALXHKNFT-UUOKFMHZSA-J"
+]
+]
+},
+{
+"label": "BRAF",
+"class": "Macromolecule",
+"box": [
+1784.5,
 179.2,
 80.0,
 40.0
@@ -4704,48 +4973,409 @@
 "props": [
 [
 "Full name",
-"Kinase suppressor of Ras 1"
+"Serine/threonine-protein kinase B-raf"
+],
+[
+"Alternative names",
+"Proto-oncogene B-Raf; p94; v-Raf murine sarcoma viral oncogene homolog B1"
 ],
 [
 "Function",
-"Part of a multiprotein signaling complex which promotes phosphorylation of Raf family members and activation of downstream MAP kinases. Independently of its kinase activity, acts as MAP2K1/MEK1 and MAP2K2/MEK2-dependent allosteric activator of BRAF; upon binding to MAP2K1/MEK1 or MAP2K2/MEK2, dimerizes with BRAF and promotes BRAF-mediated phosphorylation of MAP2K1/MEK1 and/or MAP2K2/MEK2."
+"Protein kinase involved in the transduction of mitogenic signals from the cell membrane to the nucleus (Probable). Phosphorylates MAP2K1, and thereby activates the MAP kinase signal transduction pathway."
 ],
 [
 "Location",
-"Cytoplasm, Membrane, Cell membrane, Cell projection, ruffle membrane, Endoplasmic reticulum membrane"
+"Nucleus, Cytoplasm, Cell membrane"
 ],
 [
 "HGNC",
-"HGNC:6465"
+"HGNC:1097"
 ],
 [
 "HGNC symbol",
-"KSR1"
-],
-[
-"Previous symbols",
-"KSR"
+"BRAF"
 ],
 [
 "Alias symbols",
-"RSU2"
+"BRAF1, BRAF-1"
 ],
 [
 "Entrez",
-"8844"
+"673"
 ],
 [
 "Ensembl",
-"ENSG00000141068"
+"ENSG00000157764"
 ],
 [
 "RefSeq",
-"NM_014238"
+"NM_004333"
 ],
 [
 "UniProt",
-"Q8IVT5"
+"P15056"
 ]
+]
+},
+{
+"label": "14-3-3",
+"class": "Macromolecule",
+"box": [
+1872.5,
+179.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"14-3-3"
+],
+[
+"Members",
+"YWHAB; YWHAE; YWHAG; YWHAH; YWHAQ; YWHAZ; SFN"
+]
+],
+"members": [
+{
+"symbol": "YWHAB",
+"props": [
+[
+"Full name",
+"14-3-3 protein beta/alpha"
+],
+[
+"Alternative names",
+"Protein 1054; Protein kinase C inhibitor protein 1"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"Location",
+"Cytoplasm, Melanosome, Vacuole membrane"
+],
+[
+"HGNC",
+"HGNC:12849"
+],
+[
+"HGNC symbol",
+"YWHAB"
+],
+[
+"Previous symbols",
+"YWHAA"
+],
+[
+"Entrez",
+"7529"
+],
+[
+"Ensembl",
+"ENSG00000166913"
+],
+[
+"RefSeq",
+"NM_003404"
+],
+[
+"UniProt",
+"P31946"
+]
+]
+},
+{
+"symbol": "YWHAE",
+"props": [
+[
+"Full name",
+"14-3-3 protein epsilon"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Melanosome"
+],
+[
+"HGNC",
+"HGNC:12851"
+],
+[
+"HGNC symbol",
+"YWHAE"
+],
+[
+"Alias symbols",
+"FLJ45465"
+],
+[
+"Entrez",
+"7531"
+],
+[
+"Ensembl",
+"ENSG00000108953"
+],
+[
+"RefSeq",
+"NM_006761"
+],
+[
+"UniProt",
+"P62258"
+]
+]
+},
+{
+"symbol": "YWHAG",
+"props": [
+[
+"Full name",
+"14-3-3 protein gamma"
+],
+[
+"Alternative names",
+"Protein kinase C inhibitor protein 1"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Mitochondrion matrix"
+],
+[
+"HGNC",
+"HGNC:12852"
+],
+[
+"HGNC symbol",
+"YWHAG"
+],
+[
+"Alias symbols",
+"PPP1R170, 14-3-3GAMMA, 14-3-3γ"
+],
+[
+"Entrez",
+"7532"
+],
+[
+"Ensembl",
+"ENSG00000170027"
+],
+[
+"RefSeq",
+"NM_012479"
+],
+[
+"UniProt",
+"P61981"
+]
+]
+},
+{
+"symbol": "YWHAH",
+"props": [
+[
+"Full name",
+"14-3-3 protein eta"
+],
+[
+"Alternative names",
+"Protein AS1"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"HGNC",
+"HGNC:12853"
+],
+[
+"HGNC symbol",
+"YWHAH"
+],
+[
+"Previous symbols",
+"YWHA1"
+],
+[
+"Entrez",
+"7533"
+],
+[
+"Ensembl",
+"ENSG00000128245"
+],
+[
+"RefSeq",
+"NM_003405"
+],
+[
+"UniProt",
+"Q04917"
+]
+]
+},
+{
+"symbol": "YWHAQ",
+"props": [
+[
+"Full name",
+"14-3-3 protein theta"
+],
+[
+"Alternative names",
+"14-3-3 protein T-cell; 14-3-3 protein tau; Protein HS1"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:12854"
+],
+[
+"HGNC symbol",
+"YWHAQ"
+],
+[
+"Alias symbols",
+"HS1, 14-3-3"
+],
+[
+"Entrez",
+"10971"
+],
+[
+"Ensembl",
+"ENSG00000134308"
+],
+[
+"RefSeq",
+"NM_006826"
+],
+[
+"UniProt",
+"P27348"
+]
+]
+},
+{
+"symbol": "YWHAZ",
+"props": [
+[
+"Full name",
+"14-3-3 protein zeta/delta"
+],
+[
+"Alternative names",
+"Protein kinase C inhibitor protein 1"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"Location",
+"Cytoplasm, Melanosome"
+],
+[
+"HGNC",
+"HGNC:12855"
+],
+[
+"HGNC symbol",
+"YWHAZ"
+],
+[
+"Previous symbols",
+"YWHAD"
+],
+[
+"Alias symbols",
+"KCIP-1, 14-3-3-zeta"
+],
+[
+"Entrez",
+"7534"
+],
+[
+"Ensembl",
+"ENSG00000164924"
+],
+[
+"RefSeq",
+"NM_145690"
+],
+[
+"UniProt",
+"P63104"
+]
+]
+},
+{
+"symbol": "SFN",
+"props": [
+[
+"Full name",
+"14-3-3 protein sigma"
+],
+[
+"Alternative names",
+"Epithelial cell marker protein 1; Stratifin"
+],
+[
+"Function",
+"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Secreted"
+],
+[
+"HGNC",
+"HGNC:10773"
+],
+[
+"HGNC symbol",
+"SFN"
+],
+[
+"Alias symbols",
+"YWHAS"
+],
+[
+"Entrez",
+"2810"
+],
+[
+"Ensembl",
+"ENSG00000175793"
+],
+[
+"RefSeq",
+"NM_006142"
+],
+[
+"UniProt",
+"P31947"
+]
+]
+}
 ]
 },
 {
@@ -4753,8 +5383,8 @@
 "label": "",
 "class": "Process",
 "box": [
-920.0,
-185.0,
+1135.0,
+174.0,
 24.0,
 24.0
 ],
@@ -4789,17 +5419,17 @@
 },
 {
 "authors": "Ritt DA et al.",
-"year": "2010",
-"title": "Impact of feedback phosphorylation and Raf heterodimerization on normal and mutant B-Raf signaling.",
 "journal": "Mol Cell Biol",
+"title": "Impact of feedback phosphorylation and Raf heterodimerization on normal and mutant B-Raf signaling.",
+"year": "2010",
 "db": "pubmed",
 "id": "19933846"
 },
 {
 "authors": "Lake D et al.",
-"year": "2016",
-"title": "Negative feedback regulation of the ERK1/2 MAPK pathway.",
 "journal": "Cell Mol Life Sci",
+"title": "Negative feedback regulation of the ERK1/2 MAPK pathway.",
+"year": "2016",
 "db": "pubmed",
 "id": "27342992"
 }
@@ -4810,8 +5440,8 @@
 "label": "",
 "class": "Process",
 "box": [
-1320.0,
-185.0,
+1615.0,
+174.0,
 24.0,
 24.0
 ],
@@ -4837,641 +5467,11 @@
 },
 {
 "authors": "Lake D et al.",
-"year": "2016",
-"title": "Negative feedback regulation of the ERK1/2 MAPK pathway.",
 "journal": "Cell Mol Life Sci",
+"title": "Negative feedback regulation of the ERK1/2 MAPK pathway.",
+"year": "2016",
 "db": "pubmed",
 "id": "27342992"
-}
-]
-},
-{
-"label": "GTP",
-"class": "SimpleChemical",
-"box": [
-1513.5,
-83.2,
-40.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"GTP(4-)"
-],
-[
-"Synonyms",
-"GTP; guanosine 5'-triphosphate(4-)"
-],
-[
-"Definition",
-"A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of GTP; major species present at pH 7.3."
-],
-[
-"Formula",
-"C10H12N5O14P3"
-],
-[
-"ChEBI",
-"CHEBI:37565"
-],
-[
-"InChI",
-"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/p-4/t3-,5-,6-,9-/m1/s1"
-],
-[
-"InChIKey",
-"XKMLYUALXHKNFT-UUOKFMHZSA-J"
-]
-]
-},
-{
-"label": "RAS",
-"class": "Macromolecule",
-"box": [
-1493.5,
-131.2,
-80.0,
-40.0
-],
-"props": [
-[
-"Family",
-"RAS"
-],
-[
-"Members",
-"HRAS; KRAS; NRAS"
-]
-],
-"members": [
-{
-"symbol": "HRAS",
-"props": [
-[
-"Full name",
-"GTPase HRas"
-],
-[
-"Alternative names",
-"H-Ras-1; Ha-Ras; Transforming protein p21; c-H-ras; p21ras"
-],
-[
-"Function",
-"Signal transducer in the Ras-MAPK signaling pathway that regulates cell proliferation and survival. Ras proteins bind GDP/GTP and possess intrinsic GTPase activity."
-],
-[
-"Location",
-"Cell membrane, Golgi apparatus, Golgi apparatus membrane, Nucleus, Cytoplasm, Cytoplasm, perinuclear region"
-],
-[
-"HGNC",
-"HGNC:5173"
-],
-[
-"HGNC symbol",
-"HRAS"
-],
-[
-"Previous symbols",
-"HRAS1"
-],
-[
-"Entrez",
-"3265"
-],
-[
-"Ensembl",
-"ENSG00000174775"
-],
-[
-"RefSeq",
-"NM_176795"
-],
-[
-"UniProt",
-"P01112"
-]
-]
-},
-{
-"symbol": "KRAS",
-"props": [
-[
-"Full name",
-"GTPase KRas"
-],
-[
-"Alternative names",
-"K-Ras 2; Ki-Ras; c-K-ras; c-Ki-ras"
-],
-[
-"Function",
-"Signal transducer in the Ras-MAPK signaling pathway that regulates cell proliferation and survival. Ras proteins bind GDP/GTP and possess intrinsic GTPase activity."
-],
-[
-"Location",
-"Cell membrane, Endomembrane system, Cytoplasm"
-],
-[
-"HGNC",
-"HGNC:6407"
-],
-[
-"HGNC symbol",
-"KRAS"
-],
-[
-"Previous symbols",
-"KRAS2"
-],
-[
-"Alias symbols",
-"KRAS1, K-Ras4B"
-],
-[
-"Entrez",
-"3845"
-],
-[
-"Ensembl",
-"ENSG00000133703"
-],
-[
-"RefSeq",
-"NM_033360"
-],
-[
-"UniProt",
-"P01116"
-]
-]
-},
-{
-"symbol": "NRAS",
-"props": [
-[
-"Full name",
-"GTPase NRas"
-],
-[
-"Alternative names",
-"Transforming protein N-Ras"
-],
-[
-"Function",
-"Signal transducer in the Ras-MAPK signaling pathway that regulates cell proliferation and survival. Ras proteins bind GDP/GTP and possess intrinsic GTPase activity."
-],
-[
-"Location",
-"Cell membrane, Golgi apparatus membrane"
-],
-[
-"HGNC",
-"HGNC:7989"
-],
-[
-"HGNC symbol",
-"NRAS"
-],
-[
-"Alias symbols",
-"N-ras"
-],
-[
-"Entrez",
-"4893"
-],
-[
-"Ensembl",
-"ENSG00000213281"
-],
-[
-"RefSeq",
-"NM_002524"
-],
-[
-"UniProt",
-"P01111"
-]
-]
-}
-]
-},
-{
-"label": "BRAF",
-"class": "Macromolecule",
-"box": [
-1493.5,
-179.2,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Serine/threonine-protein kinase B-raf"
-],
-[
-"Alternative names",
-"Proto-oncogene B-Raf; p94; v-Raf murine sarcoma viral oncogene homolog B1"
-],
-[
-"Function",
-"Protein kinase involved in the transduction of mitogenic signals from the cell membrane to the nucleus (Probable). Phosphorylates MAP2K1, and thereby activates the MAP kinase signal transduction pathway."
-],
-[
-"Location",
-"Nucleus, Cytoplasm, Cell membrane"
-],
-[
-"HGNC",
-"HGNC:1097"
-],
-[
-"HGNC symbol",
-"BRAF"
-],
-[
-"Alias symbols",
-"BRAF1, BRAF-1"
-],
-[
-"Entrez",
-"673"
-],
-[
-"Ensembl",
-"ENSG00000157764"
-],
-[
-"RefSeq",
-"NM_004333"
-],
-[
-"UniProt",
-"P15056"
-]
-]
-},
-{
-"label": "14-3-3",
-"class": "Macromolecule",
-"box": [
-1493.5,
-244.2,
-80.0,
-40.0
-],
-"props": [
-[
-"Family",
-"14-3-3"
-],
-[
-"Members",
-"YWHAB; YWHAE; YWHAG; YWHAH; YWHAQ; YWHAZ; SFN"
-]
-],
-"members": [
-{
-"symbol": "YWHAB",
-"props": [
-[
-"Full name",
-"14-3-3 protein beta/alpha"
-],
-[
-"Alternative names",
-"Protein 1054; Protein kinase C inhibitor protein 1"
-],
-[
-"Function",
-"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
-],
-[
-"Location",
-"Cytoplasm, Melanosome, Vacuole membrane"
-],
-[
-"HGNC",
-"HGNC:12849"
-],
-[
-"HGNC symbol",
-"YWHAB"
-],
-[
-"Previous symbols",
-"YWHAA"
-],
-[
-"Entrez",
-"7529"
-],
-[
-"Ensembl",
-"ENSG00000166913"
-],
-[
-"RefSeq",
-"NM_003404"
-],
-[
-"UniProt",
-"P31946"
-]
-]
-},
-{
-"symbol": "YWHAE",
-"props": [
-[
-"Full name",
-"14-3-3 protein epsilon"
-],
-[
-"Function",
-"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
-],
-[
-"Location",
-"Nucleus, Cytoplasm, Melanosome"
-],
-[
-"HGNC",
-"HGNC:12851"
-],
-[
-"HGNC symbol",
-"YWHAE"
-],
-[
-"Alias symbols",
-"FLJ45465"
-],
-[
-"Entrez",
-"7531"
-],
-[
-"Ensembl",
-"ENSG00000108953"
-],
-[
-"RefSeq",
-"NM_006761"
-],
-[
-"UniProt",
-"P62258"
-]
-]
-},
-{
-"symbol": "YWHAG",
-"props": [
-[
-"Full name",
-"14-3-3 protein gamma"
-],
-[
-"Alternative names",
-"Protein kinase C inhibitor protein 1"
-],
-[
-"Function",
-"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
-],
-[
-"Location",
-"Cytoplasm, cytosol, Mitochondrion matrix"
-],
-[
-"HGNC",
-"HGNC:12852"
-],
-[
-"HGNC symbol",
-"YWHAG"
-],
-[
-"Alias symbols",
-"PPP1R170, 14-3-3GAMMA, 14-3-3γ"
-],
-[
-"Entrez",
-"7532"
-],
-[
-"Ensembl",
-"ENSG00000170027"
-],
-[
-"RefSeq",
-"NM_012479"
-],
-[
-"UniProt",
-"P61981"
-]
-]
-},
-{
-"symbol": "YWHAH",
-"props": [
-[
-"Full name",
-"14-3-3 protein eta"
-],
-[
-"Alternative names",
-"Protein AS1"
-],
-[
-"Function",
-"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
-],
-[
-"HGNC",
-"HGNC:12853"
-],
-[
-"HGNC symbol",
-"YWHAH"
-],
-[
-"Previous symbols",
-"YWHA1"
-],
-[
-"Entrez",
-"7533"
-],
-[
-"Ensembl",
-"ENSG00000128245"
-],
-[
-"RefSeq",
-"NM_003405"
-],
-[
-"UniProt",
-"Q04917"
-]
-]
-},
-{
-"symbol": "YWHAQ",
-"props": [
-[
-"Full name",
-"14-3-3 protein theta"
-],
-[
-"Alternative names",
-"14-3-3 protein T-cell; 14-3-3 protein tau; Protein HS1"
-],
-[
-"Function",
-"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
-],
-[
-"Location",
-"Cytoplasm"
-],
-[
-"HGNC",
-"HGNC:12854"
-],
-[
-"HGNC symbol",
-"YWHAQ"
-],
-[
-"Alias symbols",
-"HS1, 14-3-3"
-],
-[
-"Entrez",
-"10971"
-],
-[
-"Ensembl",
-"ENSG00000134308"
-],
-[
-"RefSeq",
-"NM_006826"
-],
-[
-"UniProt",
-"P27348"
-]
-]
-},
-{
-"symbol": "YWHAZ",
-"props": [
-[
-"Full name",
-"14-3-3 protein zeta/delta"
-],
-[
-"Alternative names",
-"Protein kinase C inhibitor protein 1"
-],
-[
-"Function",
-"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
-],
-[
-"Location",
-"Cytoplasm, Melanosome"
-],
-[
-"HGNC",
-"HGNC:12855"
-],
-[
-"HGNC symbol",
-"YWHAZ"
-],
-[
-"Previous symbols",
-"YWHAD"
-],
-[
-"Alias symbols",
-"KCIP-1, 14-3-3-zeta"
-],
-[
-"Entrez",
-"7534"
-],
-[
-"Ensembl",
-"ENSG00000164924"
-],
-[
-"RefSeq",
-"NM_145690"
-],
-[
-"UniProt",
-"P63104"
-]
-]
-},
-{
-"symbol": "SFN",
-"props": [
-[
-"Full name",
-"14-3-3 protein sigma"
-],
-[
-"Alternative names",
-"Epithelial cell marker protein 1; Stratifin"
-],
-[
-"Function",
-"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif."
-],
-[
-"Location",
-"Cytoplasm, Nucleus, Secreted"
-],
-[
-"HGNC",
-"HGNC:10773"
-],
-[
-"HGNC symbol",
-"SFN"
-],
-[
-"Alias symbols",
-"YWHAS"
-],
-[
-"Entrez",
-"2810"
-],
-[
-"Ensembl",
-"ENSG00000175793"
-],
-[
-"RefSeq",
-"NM_006142"
-],
-[
-"UniProt",
-"P31947"
-]
-]
 }
 ]
 }
