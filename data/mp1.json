@@ -24,17 +24,17 @@
 "references": [
 {
 "authors": "Nada S et al.",
-"year": "2009",
-"title": "The novel lipid raft adaptor p18 controls endosome dynamics by anchoring the MEK-ERK pathway to late endosomes.",
 "journal": "EMBO J",
+"title": "The novel lipid raft adaptor p18 controls endosome dynamics by anchoring the MEK-ERK pathway to late endosomes.",
+"year": "2009",
 "db": "pubmed",
 "id": "19177150"
 },
 {
 "authors": "Teis D et al.",
-"year": "2002",
-"title": "Localization of the MP1-MAPK scaffold complex to endosomes is mediated by p14 and required for signal transduction.",
 "journal": "Dev Cell",
+"title": "Localization of the MP1-MAPK scaffold complex to endosomes is mediated by p14 and required for signal transduction.",
+"year": "2002",
 "db": "pubmed",
 "id": "12479806"
 }
@@ -305,25 +305,25 @@
 "references": [
 {
 "authors": "Schaeffer HJ et al.",
-"year": "1998",
-"title": "MP1: a MEK binding partner that enhances enzymatic activation of the MAP kinase cascade.",
 "journal": "Science",
+"title": "MP1: a MEK binding partner that enhances enzymatic activation of the MAP kinase cascade.",
+"year": "1998",
 "db": "pubmed",
 "id": "9733512"
 },
 {
 "authors": "Kurzbauer R et al.",
-"year": "2004",
-"title": "Crystal structure of the p14/MP1 scaffolding complex: how a twin couple attaches mitogen-activated protein kinase signaling to late endosomes.",
 "journal": "Proc Natl Acad Sci U S A",
+"title": "Crystal structure of the p14/MP1 scaffolding complex: how a twin couple attaches mitogen-activated protein kinase signaling to late endosomes.",
+"year": "2004",
 "db": "pubmed",
 "id": "15263099"
 },
 {
 "authors": "Wunderlich W et al.",
-"year": "2001",
-"title": "A novel 14-kilodalton protein interacts with the mitogen-activated protein kinase scaffold mp1 on a late endosomal/lysosomal compartment.",
 "journal": "J Cell Biol",
+"title": "A novel 14-kilodalton protein interacts with the mitogen-activated protein kinase scaffold mp1 on a late endosomal/lysosomal compartment.",
+"year": "2001",
 "db": "pubmed",
 "id": "11266467"
 }
@@ -652,25 +652,25 @@
 "references": [
 {
 "authors": "Schaeffer HJ et al.",
-"year": "1998",
-"title": "MP1: a MEK binding partner that enhances enzymatic activation of the MAP kinase cascade.",
 "journal": "Science",
+"title": "MP1: a MEK binding partner that enhances enzymatic activation of the MAP kinase cascade.",
+"year": "1998",
 "db": "pubmed",
 "id": "9733512"
 },
 {
 "authors": "Teis D et al.",
-"year": "2002",
-"title": "Localization of the MP1-MAPK scaffold complex to endosomes is mediated by p14 and required for signal transduction.",
 "journal": "Dev Cell",
+"title": "Localization of the MP1-MAPK scaffold complex to endosomes is mediated by p14 and required for signal transduction.",
+"year": "2002",
 "db": "pubmed",
 "id": "12479806"
 },
 {
 "authors": "Teis D et al.",
-"year": "2006",
-"title": "p14-MP1-MEK1 signaling regulates endosomal traffic and cellular proliferation during tissue homeostasis.",
 "journal": "J Cell Biol",
+"title": "p14-MP1-MEK1 signaling regulates endosomal traffic and cellular proliferation during tissue homeostasis.",
+"year": "2006",
 "db": "pubmed",
 "id": "17178906"
 }
@@ -1060,17 +1060,17 @@
 "references": [
 {
 "authors": "Wunderlich W et al.",
-"year": "2001",
-"title": "A novel 14-kilodalton protein interacts with the mitogen-activated protein kinase scaffold mp1 on a late endosomal/lysosomal compartment.",
 "journal": "J Cell Biol",
+"title": "A novel 14-kilodalton protein interacts with the mitogen-activated protein kinase scaffold mp1 on a late endosomal/lysosomal compartment.",
+"year": "2001",
 "db": "pubmed",
 "id": "11266467"
 },
 {
 "authors": "Kurzbauer R et al.",
-"year": "2004",
-"title": "Crystal structure of the p14/MP1 scaffolding complex: how a twin couple attaches mitogen-activated protein kinase signaling to late endosomes.",
 "journal": "Proc Natl Acad Sci U S A",
+"title": "Crystal structure of the p14/MP1 scaffolding complex: how a twin couple attaches mitogen-activated protein kinase signaling to late endosomes.",
+"year": "2004",
 "db": "pubmed",
 "id": "15263099"
 }
