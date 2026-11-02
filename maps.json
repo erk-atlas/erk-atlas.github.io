@@ -1,0 +1,353 @@
+[
+{
+"id": "erk-activation",
+"title": "ERK activation by MEK",
+"topic": "ERK activation by MEK",
+"group": "Core",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/erk-activation.svg",
+"width": 574.0,
+"height": 278.0,
+"scale": 1,
+"annotation": "data/erk-activation.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/erk-activation.graphml"
+},
+{
+"label": "SVG",
+"url": "files/erk-activation.svg"
+}
+],
+"data": "data/erk-activation-text.json",
+"hasText": true
+},
+{
+"id": "sm-canonical-m01",
+"title": "Canonical cascade, generic (2021)",
+"topic": "Canonical cascade (2021)",
+"group": "Starting material",
+"kind": null,
+"tag": null,
+"tab": "generic",
+"image": "files/sm-canonical-m01.svg",
+"width": 330.0,
+"height": 456.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/sm-canonical-m01.graphml"
+},
+{
+"label": "SVG",
+"url": "files/sm-canonical-m01.svg"
+}
+],
+"data": null,
+"hasText": false
+},
+{
+"id": "sm-canonical-m02",
+"title": "Canonical cascade, isoforms (2021)",
+"topic": "Canonical cascade (2021)",
+"group": "Starting material",
+"kind": null,
+"tag": null,
+"tab": "isoforms",
+"image": "files/sm-canonical-m02.svg",
+"width": 734.0,
+"height": 566.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/sm-canonical-m02.graphml"
+},
+{
+"label": "SVG",
+"url": "files/sm-canonical-m02.svg"
+}
+],
+"data": null,
+"hasText": false
+},
+{
+"id": "sm-dusp",
+"title": "DUSP3, DUSP4, DUSP6 and ERK shuttling (2021)",
+"topic": "DUSPs and ERK shuttling (2021)",
+"group": "Starting material",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/sm-dusp.svg",
+"width": 1450.0,
+"height": 890.0,
+"scale": 1,
+"annotation": "data/sm-dusp.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/sm-dusp.graphml"
+},
+{
+"label": "SVG",
+"url": "files/sm-dusp.svg"
+}
+],
+"data": null,
+"hasText": false
+},
+{
+"id": "sm-pxn",
+"title": "Paxillin scaffold (2021)",
+"topic": "Paxillin scaffold (2021)",
+"group": "Starting material",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/sm-pxn.svg",
+"width": 631.0,
+"height": 564.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/sm-pxn.graphml"
+},
+{
+"label": "SVG",
+"url": "files/sm-pxn.svg"
+}
+],
+"data": null,
+"hasText": false
+},
+{
+"id": "sm-ra-map",
+"title": "RAS-ERK subnetwork of the RA map (2021)",
+"topic": "RA map subnetwork (2021)",
+"group": "Starting material",
+"kind": null,
+"tag": null,
+"tab": null,
+"image": "files/sm-ra-map.svg",
+"width": 7230.0,
+"height": 3124.0,
+"scale": 1,
+"annotation": "data/sm-ra-map.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/sm-ra-map.graphml"
+},
+{
+"label": "SVG",
+"url": "files/sm-ra-map.svg"
+}
+],
+"data": null,
+"hasText": false
+},
+{
+"id": "sm-acsn-a",
+"title": "ACSN: immunity and CAF maps",
+"topic": "ACSN",
+"group": "Starting material",
+"kind": null,
+"tag": null,
+"tab": "A",
+"image": "files/sm-acsn-a.svg",
+"width": 221.0,
+"height": 328.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/sm-acsn-a.graphml"
+},
+{
+"label": "SVG",
+"url": "files/sm-acsn-a.svg"
+}
+],
+"data": null,
+"hasText": false
+},
+{
+"id": "sm-acsn-b",
+"title": "ACSN: RAF1 in apoptosis",
+"topic": "ACSN",
+"group": "Starting material",
+"kind": null,
+"tag": null,
+"tab": "B",
+"image": "files/sm-acsn-b.svg",
+"width": 230.0,
+"height": 150.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/sm-acsn-b.graphml"
+},
+{
+"label": "SVG",
+"url": "files/sm-acsn-b.svg"
+}
+],
+"data": null,
+"hasText": false
+},
+{
+"id": "sm-acsn-c",
+"title": "ACSN: cell survival (Sef, RASGRP1)",
+"topic": "ACSN",
+"group": "Starting material",
+"kind": null,
+"tag": null,
+"tab": "C",
+"image": "files/sm-acsn-c.svg",
+"width": 760.0,
+"height": 514.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/sm-acsn-c.graphml"
+},
+{
+"label": "SVG",
+"url": "files/sm-acsn-c.svg"
+}
+],
+"data": null,
+"hasText": false
+},
+{
+"id": "sm-acsn-d",
+"title": "ACSN: EMT and senescence (HRAS, 14-3-3)",
+"topic": "ACSN",
+"group": "Starting material",
+"kind": null,
+"tag": null,
+"tab": "D",
+"image": "files/sm-acsn-d.svg",
+"width": 1042.0,
+"height": 413.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/sm-acsn-d.graphml"
+},
+{
+"label": "SVG",
+"url": "files/sm-acsn-d.svg"
+}
+],
+"data": null,
+"hasText": false
+},
+{
+"id": "sm-panther-a",
+"title": "PANTHER: interleukin signalling",
+"topic": "PANTHER",
+"group": "Starting material",
+"kind": null,
+"tag": null,
+"tab": "A",
+"image": "files/sm-panther-a.svg",
+"width": 243.0,
+"height": 328.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/sm-panther-a.graphml"
+},
+{
+"label": "SVG",
+"url": "files/sm-panther-a.svg"
+}
+],
+"data": null,
+"hasText": false
+},
+{
+"id": "sm-panther-b",
+"title": "PANTHER: FGF signalling",
+"topic": "PANTHER",
+"group": "Starting material",
+"kind": null,
+"tag": null,
+"tab": "B",
+"image": "files/sm-panther-b.svg",
+"width": 252.0,
+"height": 330.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/sm-panther-b.graphml"
+},
+{
+"label": "SVG",
+"url": "files/sm-panther-b.svg"
+}
+],
+"data": null,
+"hasText": false
+},
+{
+"id": "sm-panther-c",
+"title": "PANTHER: B cell activation",
+"topic": "PANTHER",
+"group": "Starting material",
+"kind": null,
+"tag": null,
+"tab": "C",
+"image": "files/sm-panther-c.svg",
+"width": 538.0,
+"height": 325.0,
+"scale": 1,
+"annotation": null,
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/sm-panther-c.graphml"
+},
+{
+"label": "SVG",
+"url": "files/sm-panther-c.svg"
+}
+],
+"data": null,
+"hasText": false
+}
+]

@@ -1,0 +1,2014 @@
+{
+"nodes": [
+{
+"label": "TAB1",
+"class": "Macromolecule",
+"box": [
+1398.0,
+940.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"TGF-beta-activated kinase 1 and MAP3K7-binding protein 1"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase kinase kinase 7-interacting protein 1; TGF-beta-activated kinase 1-binding protein 1"
+],
+[
+"Function",
+"Key adapter protein that plays an essential role in JNK and NF-kappa-B activation and proinflammatory cytokines production in response to stimulation with TLRs and cytokines. Mechanistically, associates with the catalytic domain of MAP3K7/TAK1 to trigger MAP3K7/TAK1 autophosphorylation leading to its full activation."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:18157"
+],
+[
+"HGNC symbol",
+"TAB1"
+],
+[
+"Previous symbols",
+"MAP3K7IP1"
+],
+[
+"Entrez",
+"10454"
+],
+[
+"Ensembl",
+"ENSG00000100324"
+],
+[
+"RefSeq",
+"NM_153497"
+],
+[
+"UniProt",
+"Q15750"
+]
+]
+},
+{
+"label": "TAB2",
+"class": "Macromolecule",
+"box": [
+1502.0,
+944.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"TGF-beta-activated kinase 1 and MAP3K7-binding protein 2"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase kinase kinase 7-interacting protein 2; TAK1-binding protein 2; TGF-beta-activated kinase 1-binding protein 2"
+],
+[
+"Function",
+"Adapter required to activate the JNK and NF-kappa-B signaling pathways through the specific recognition of 'Lys-63'-linked polyubiquitin chains by its RanBP2-type zinc finger (NZF). Acts as an adapter linking MAP3K7/TAK1 and TRAF6 to 'Lys-63'-linked polyubiquitin chains."
+],
+[
+"Location",
+"Membrane, Endosome membrane, Lysosome membrane, Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:17075"
+],
+[
+"HGNC symbol",
+"TAB2"
+],
+[
+"Previous symbols",
+"MAP3K7IP2"
+],
+[
+"Alias symbols",
+"KIAA0733"
+],
+[
+"Entrez",
+"23118"
+],
+[
+"Ensembl",
+"ENSG00000055208"
+],
+[
+"RefSeq",
+"NM_001292034"
+],
+[
+"UniProt",
+"Q9NYJ8"
+]
+]
+},
+{
+"label": "MAP3K7",
+"class": "Macromolecule",
+"box": [
+1399.0,
+992.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase kinase kinase 7"
+],
+[
+"Alternative names",
+"Transforming growth factor-beta-activated kinase 1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. Plays an important role in the cascades of cellular responses evoked by changes in the environment."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:6859"
+],
+[
+"HGNC symbol",
+"MAP3K7"
+],
+[
+"Previous symbols",
+"TAK1"
+],
+[
+"Alias symbols",
+"MEKK7"
+],
+[
+"Entrez",
+"6885"
+],
+[
+"Ensembl",
+"ENSG00000135341"
+],
+[
+"RefSeq",
+"NM_145331"
+],
+[
+"UniProt",
+"O43318"
+]
+]
+},
+{
+"label": "MAPK8",
+"class": "Macromolecule",
+"box": [
+1502.0,
+992.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 8"
+],
+[
+"Alternative names",
+"JNK-46; Stress-activated protein kinase 1c; Stress-activated protein kinase JNK1; c-Jun N-terminal kinase 1"
+],
+[
+"Function",
+"Serine/threonine-protein kinase involved in various processes such as cell proliferation, differentiation, migration, transformation and programmed cell death. Extracellular stimuli such as pro-inflammatory cytokines or physical stress stimulate the stress-activated protein kinase/c-Jun N-terminal kinase (SAP/JNK) signaling pathway."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Synapse"
+],
+[
+"HGNC",
+"HGNC:6881"
+],
+[
+"HGNC symbol",
+"MAPK8"
+],
+[
+"Previous symbols",
+"PRKM8"
+],
+[
+"Alias symbols",
+"JNK, JNK1, SAPK1"
+],
+[
+"Entrez",
+"5599"
+],
+[
+"Ensembl",
+"ENSG00000107643"
+],
+[
+"RefSeq",
+"NM_001278547"
+],
+[
+"UniProt",
+"P45983"
+]
+]
+},
+{
+"label": "TAB2",
+"class": "Macromolecule",
+"box": [
+2298.0,
+1690.5,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"TGF-beta-activated kinase 1 and MAP3K7-binding protein 2"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase kinase kinase 7-interacting protein 2; TAK1-binding protein 2; TGF-beta-activated kinase 1-binding protein 2"
+],
+[
+"Function",
+"Adapter required to activate the JNK and NF-kappa-B signaling pathways through the specific recognition of 'Lys-63'-linked polyubiquitin chains by its RanBP2-type zinc finger (NZF). Acts as an adapter linking MAP3K7/TAK1 and TRAF6 to 'Lys-63'-linked polyubiquitin chains."
+],
+[
+"Location",
+"Membrane, Endosome membrane, Lysosome membrane, Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:17075"
+],
+[
+"HGNC symbol",
+"TAB2"
+],
+[
+"Previous symbols",
+"MAP3K7IP2"
+],
+[
+"Alias symbols",
+"KIAA0733"
+],
+[
+"Entrez",
+"23118"
+],
+[
+"Ensembl",
+"ENSG00000055208"
+],
+[
+"RefSeq",
+"NM_001292034"
+],
+[
+"UniProt",
+"Q9NYJ8"
+]
+]
+},
+{
+"label": "MAP3K7",
+"class": "Macromolecule",
+"box": [
+2301.5,
+1742.5,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase kinase kinase 7"
+],
+[
+"Alternative names",
+"Transforming growth factor-beta-activated kinase 1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. Plays an important role in the cascades of cellular responses evoked by changes in the environment."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:6859"
+],
+[
+"HGNC symbol",
+"MAP3K7"
+],
+[
+"Previous symbols",
+"TAK1"
+],
+[
+"Alias symbols",
+"MEKK7"
+],
+[
+"Entrez",
+"6885"
+],
+[
+"Ensembl",
+"ENSG00000135341"
+],
+[
+"RefSeq",
+"NM_145331"
+],
+[
+"UniProt",
+"O43318"
+]
+]
+},
+{
+"label": "TAB1",
+"class": "Macromolecule",
+"box": [
+2297.0,
+1642.5,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"TGF-beta-activated kinase 1 and MAP3K7-binding protein 1"
+],
+[
+"Alternative names",
+"Mitogen-activated protein kinase kinase kinase 7-interacting protein 1; TGF-beta-activated kinase 1-binding protein 1"
+],
+[
+"Function",
+"Key adapter protein that plays an essential role in JNK and NF-kappa-B activation and proinflammatory cytokines production in response to stimulation with TLRs and cytokines. Mechanistically, associates with the catalytic domain of MAP3K7/TAK1 to trigger MAP3K7/TAK1 autophosphorylation leading to its full activation."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:18157"
+],
+[
+"HGNC symbol",
+"TAB1"
+],
+[
+"Previous symbols",
+"MAP3K7IP1"
+],
+[
+"Entrez",
+"10454"
+],
+[
+"Ensembl",
+"ENSG00000100324"
+],
+[
+"RefSeq",
+"NM_153497"
+],
+[
+"UniProt",
+"Q15750"
+]
+]
+},
+{
+"label": "MAPK8",
+"class": "Macromolecule",
+"box": [
+1885.0,
+967.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 8"
+],
+[
+"Alternative names",
+"JNK-46; Stress-activated protein kinase 1c; Stress-activated protein kinase JNK1; c-Jun N-terminal kinase 1"
+],
+[
+"Function",
+"Serine/threonine-protein kinase involved in various processes such as cell proliferation, differentiation, migration, transformation and programmed cell death. Extracellular stimuli such as pro-inflammatory cytokines or physical stress stimulate the stress-activated protein kinase/c-Jun N-terminal kinase (SAP/JNK) signaling pathway."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Synapse"
+],
+[
+"HGNC",
+"HGNC:6881"
+],
+[
+"HGNC symbol",
+"MAPK8"
+],
+[
+"Previous symbols",
+"PRKM8"
+],
+[
+"Alias symbols",
+"JNK, JNK1, SAPK1"
+],
+[
+"Entrez",
+"5599"
+],
+[
+"Ensembl",
+"ENSG00000107643"
+],
+[
+"RefSeq",
+"NM_001278547"
+],
+[
+"UniProt",
+"P45983"
+]
+]
+},
+{
+"label": "MAP2K6",
+"class": "Macromolecule",
+"box": [
+2844.0,
+1251.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 6"
+],
+[
+"Alternative names",
+"MAPK/ERK kinase 6; Stress-activated protein kinase kinase 3"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. With MAP3K3/MKK3, catalyzes the concomitant phosphorylation of a threonine and a tyrosine residue in the MAP kinases p38 MAPK11, MAPK12, MAPK13 and MAPK14 and plays an important role in the regulation of cellular responses to cytokines and all kinds of stresses."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Cytoplasm, cytoskeleton"
+],
+[
+"HGNC",
+"HGNC:6846"
+],
+[
+"HGNC symbol",
+"MAP2K6"
+],
+[
+"Previous symbols",
+"PRKMK6"
+],
+[
+"Alias symbols",
+"MEK6, MKK6, SAPKK3, MAPKK6, CRCMSL"
+],
+[
+"Entrez",
+"5608"
+],
+[
+"Ensembl",
+"ENSG00000108984"
+],
+[
+"RefSeq",
+"NM_002758"
+],
+[
+"UniProt",
+"P52564"
+]
+]
+},
+{
+"label": "cGAS",
+"class": "Macromolecule",
+"box": [
+3015.0,
+1762.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Cyclic GMP-AMP synthase"
+],
+[
+"Alternative names",
+"2'3'-cGAMP synthase; Mab-21 domain-containing protein 1"
+],
+[
+"Function",
+"Nucleotidyltransferase that catalyzes the formation of cyclic GMP-AMP (2',3'-cGAMP) from ATP and GTP and plays a key role in innate immunity. Catalysis involves both the formation of a 2',5' phosphodiester linkage at the GpA step and the formation of a 3',5' phosphodiester linkage at the ApG step, producing c[G(2',5')pA(3',5')p]."
+],
+[
+"Location",
+"Nucleus, Chromosome, Cell membrane, Cytoplasm, cytosol"
+],
+[
+"HGNC",
+"HGNC:21367"
+],
+[
+"HGNC symbol",
+"CGAS"
+],
+[
+"Previous symbols",
+"C6orf150, MB21D1"
+],
+[
+"Alias symbols",
+"h-cGAS, D4"
+],
+[
+"Entrez",
+"115004"
+],
+[
+"Ensembl",
+"ENSG00000164430"
+],
+[
+"RefSeq",
+"NM_138441"
+],
+[
+"UniProt",
+"Q8N884"
+]
+]
+},
+{
+"label": "MAPK14",
+"class": "Macromolecule",
+"box": [
+2537.5,
+1682.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 14"
+],
+[
+"Alternative names",
+"Cytokine suppressive anti-inflammatory drug-binding protein; MAP kinase MXI2; MAX-interacting protein 2; Mitogen-activated protein kinase p38 alpha; Stress-activated protein kinase 2a"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK14 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6876"
+],
+[
+"HGNC symbol",
+"MAPK14"
+],
+[
+"Previous symbols",
+"CSPB1, CSBP1, CSBP2"
+],
+[
+"Alias symbols",
+"p38alpha, PRKM14, p38, Mxi2, PRKM15"
+],
+[
+"Entrez",
+"1432"
+],
+[
+"Ensembl",
+"ENSG00000112062"
+],
+[
+"RefSeq",
+"NM_001315"
+],
+[
+"UniProt",
+"Q16539"
+]
+]
+},
+{
+"label": "MAP2K3",
+"class": "Macromolecule",
+"box": [
+2898.5,
+1014.5,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 3"
+],
+[
+"Alternative names",
+"MAPK/ERK kinase 3; Stress-activated protein kinase kinase 2"
+],
+[
+"Function",
+"Dual specificity kinase. Is activated by cytokines and environmental stress in vivo."
+],
+[
+"HGNC",
+"HGNC:6843"
+],
+[
+"HGNC symbol",
+"MAP2K3"
+],
+[
+"Previous symbols",
+"PRKMK3"
+],
+[
+"Alias symbols",
+"MEK3, MKK3, MAPKK3, SAPKK2"
+],
+[
+"Entrez",
+"5606"
+],
+[
+"Ensembl",
+"ENSG00000034152"
+],
+[
+"RefSeq",
+"NM_145109"
+],
+[
+"UniProt",
+"P46734"
+]
+]
+},
+{
+"label": "MAP3K5",
+"class": "Macromolecule",
+"box": [
+1572.0,
+822.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase kinase kinase 5"
+],
+[
+"Alternative names",
+"Apoptosis signal-regulating kinase 1; MAPK/ERK kinase kinase 5"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. Plays an important role in the cascades of cellular responses evoked by changes in the environment."
+],
+[
+"Location",
+"Cytoplasm, Endoplasmic reticulum"
+],
+[
+"HGNC",
+"HGNC:6857"
+],
+[
+"HGNC symbol",
+"MAP3K5"
+],
+[
+"Previous symbols",
+"MEKK5"
+],
+[
+"Alias symbols",
+"MAPKKK5, ASK1"
+],
+[
+"Entrez",
+"4217"
+],
+[
+"Ensembl",
+"ENSG00000197442"
+],
+[
+"RefSeq",
+"NM_005923"
+],
+[
+"UniProt",
+"Q99683"
+]
+]
+},
+{
+"label": "DUSP4",
+"class": "Macromolecule",
+"box": [
+3265.0,
+1182.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity protein phosphatase 4"
+],
+[
+"Alternative names",
+"Dual specificity protein phosphatase hVH2; Mitogen-activated protein kinase phosphatase 2"
+],
+[
+"Function",
+"Regulates mitogenic signal transduction by dephosphorylating both Thr and Tyr residues on MAP kinases ERK1 and ERK2"
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:3070"
+],
+[
+"HGNC symbol",
+"DUSP4"
+],
+[
+"Alias symbols",
+"HVH2, MKP-2, TYP"
+],
+[
+"Entrez",
+"1846"
+],
+[
+"Ensembl",
+"ENSG00000120875"
+],
+[
+"RefSeq",
+"NM_001394"
+],
+[
+"UniProt",
+"Q13115"
+]
+]
+},
+{
+"label": "MAPK3",
+"class": "Macromolecule",
+"box": [
+1888.0,
+1580.5,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"label": "PRKCD",
+"class": "Macromolecule",
+"box": [
+2505.0,
+697.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Protein kinase C delta type"
+],
+[
+"Alternative names",
+"Tyrosine-protein kinase PRKCD; nPKC-delta"
+],
+[
+"Function",
+"Calcium-independent, phospholipid- and diacylglycerol (DAG)-dependent serine/threonine-protein kinase that plays contrasting roles in cell death and cell survival by functioning as a pro-apoptotic protein during DNA damage-induced apoptosis, but acting as an anti-apoptotic protein during cytokine receptor-initiated cell death, is involved in tumor suppression as well as survival of several cancers, is required for oxygen radical production by NADPH oxidase and acts as positive or negative regulator in platelet functional responses. Negatively regulates B cell proliferation and also has an important function in self-antigen induced B cell tolerance induction."
+],
+[
+"Location",
+"Cytoplasm, Cytoplasm, perinuclear region, Nucleus, Cell membrane, Mitochondrion, Endomembrane system"
+],
+[
+"HGNC",
+"HGNC:9399"
+],
+[
+"HGNC symbol",
+"PRKCD"
+],
+[
+"Alias symbols",
+"PKCδ"
+],
+[
+"Entrez",
+"5580"
+],
+[
+"Ensembl",
+"ENSG00000163932"
+],
+[
+"RefSeq",
+"NM_001316327"
+],
+[
+"UniProt",
+"Q05655"
+]
+]
+},
+{
+"label": "MAP3K7",
+"class": "Macromolecule",
+"box": [
+2305.0,
+492.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase kinase kinase 7"
+],
+[
+"Alternative names",
+"Transforming growth factor-beta-activated kinase 1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. Plays an important role in the cascades of cellular responses evoked by changes in the environment."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:6859"
+],
+[
+"HGNC symbol",
+"MAP3K7"
+],
+[
+"Previous symbols",
+"TAK1"
+],
+[
+"Alias symbols",
+"MEKK7"
+],
+[
+"Entrez",
+"6885"
+],
+[
+"Ensembl",
+"ENSG00000135341"
+],
+[
+"RefSeq",
+"NM_145331"
+],
+[
+"UniProt",
+"O43318"
+]
+]
+},
+{
+"label": "MAPK1",
+"class": "Macromolecule",
+"box": [
+3302.0,
+1326.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+},
+{
+"label": "MAP2K2",
+"class": "Macromolecule",
+"box": [
+1883.0,
+903.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 2"
+],
+[
+"Alternative names",
+"ERK activator kinase 2; MAPK/ERK kinase 2"
+],
+[
+"Function",
+"Catalyzes the concomitant phosphorylation of a threonine and a tyrosine residue in a Thr-Glu-Tyr sequence located in MAP kinases. Activates the ERK1 and ERK2 MAP kinases."
+],
+[
+"Location",
+"Cytoplasm, Membrane"
+],
+[
+"HGNC",
+"HGNC:6842"
+],
+[
+"HGNC symbol",
+"MAP2K2"
+],
+[
+"Previous symbols",
+"PRKMK2"
+],
+[
+"Alias symbols",
+"MEK2, MKK2"
+],
+[
+"Entrez",
+"5605"
+],
+[
+"Ensembl",
+"ENSG00000126934"
+],
+[
+"RefSeq",
+"NM_030662"
+],
+[
+"UniProt",
+"P36507"
+]
+]
+},
+{
+"label": "TRAF2",
+"class": "Macromolecule",
+"box": [
+2687.0,
+1002.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"TNF receptor-associated factor 2"
+],
+[
+"Alternative names",
+"E3 ubiquitin-protein ligase TRAF2; RING-type E3 ubiquitin transferase TRAF2; Tumor necrosis factor type 2 receptor-associated protein 3"
+],
+[
+"Function",
+"E3 ubiquitin-protein ligase that regulates activation of NF-kappa-B and JNK and plays a central role in the regulation of cell survival and apoptosis. Catalyzes 'Lys-63'-linked ubiquitination of target proteins, such as BIRC3, IKBKE, MLST8, RIPK1 and TICAM1."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:12032"
+],
+[
+"HGNC symbol",
+"TRAF2"
+],
+[
+"Alias symbols",
+"TRAP3, RNF117"
+],
+[
+"Entrez",
+"7186"
+],
+[
+"Ensembl",
+"ENSG00000127191"
+],
+[
+"RefSeq",
+"NM_021138"
+],
+[
+"UniProt",
+"Q12933"
+]
+]
+},
+{
+"label": "MAP2K2",
+"class": "Macromolecule",
+"box": [
+2135.0,
+906.8,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 2"
+],
+[
+"Alternative names",
+"ERK activator kinase 2; MAPK/ERK kinase 2"
+],
+[
+"Function",
+"Catalyzes the concomitant phosphorylation of a threonine and a tyrosine residue in a Thr-Glu-Tyr sequence located in MAP kinases. Activates the ERK1 and ERK2 MAP kinases."
+],
+[
+"Location",
+"Cytoplasm, Membrane"
+],
+[
+"HGNC",
+"HGNC:6842"
+],
+[
+"HGNC symbol",
+"MAP2K2"
+],
+[
+"Previous symbols",
+"PRKMK2"
+],
+[
+"Alias symbols",
+"MEK2, MKK2"
+],
+[
+"Entrez",
+"5605"
+],
+[
+"Ensembl",
+"ENSG00000126934"
+],
+[
+"RefSeq",
+"NM_030662"
+],
+[
+"UniProt",
+"P36507"
+]
+]
+},
+{
+"label": "RAF1",
+"class": "Macromolecule",
+"box": [
+1815.0,
+1242.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"RAF proto-oncogene serine/threonine-protein kinase"
+],
+[
+"Alternative names",
+"Proto-oncogene c-RAF; Raf-1"
+],
+[
+"Function",
+"Serine/threonine-protein kinase that acts as a regulatory link between the membrane-associated Ras GTPases and the MAPK/ERK cascade, and this critical regulatory link functions as a switch determining cell fate decisions including proliferation, differentiation, apoptosis, survival and oncogenic transformation. RAF1 activation initiates a mitogen-activated protein kinase (MAPK) cascade that comprises a sequential phosphorylation of the dual-specific MAPK kinases (MAP2K1/MEK1 and MAP2K2/MEK2) and the extracellular signal-regulated kinases (MAPK3/ERK1 and MAPK1/ERK2)."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Mitochondrion, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9829"
+],
+[
+"HGNC symbol",
+"RAF1"
+],
+[
+"Alias symbols",
+"Raf-1, c-Raf, CRAF"
+],
+[
+"Entrez",
+"5894"
+],
+[
+"Ensembl",
+"ENSG00000132155"
+],
+[
+"RefSeq",
+"NM_002880"
+],
+[
+"UniProt",
+"P04049"
+]
+]
+},
+{
+"label": "MAP3K8",
+"class": "Macromolecule",
+"box": [
+3537.5,
+1732.8,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase kinase kinase 8"
+],
+[
+"Alternative names",
+"Cancer Osaka thyroid oncogene; Proto-oncogene c-Cot; Serine/threonine-protein kinase cot; Tumor progression locus 2"
+],
+[
+"Function",
+"Required for lipopolysaccharide (LPS)-induced, TLR4-mediated activation of the MAPK/ERK pathway in macrophages, thus being critical for production of the pro-inflammatory cytokine TNF (TNF) during immune responses. Involved in the regulation of T-helper cell differentiation and IFNG expression in T-cells."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:6860"
+],
+[
+"HGNC symbol",
+"MAP3K8"
+],
+[
+"Previous symbols",
+"COT, ESTF"
+],
+[
+"Alias symbols",
+"Tpl-2, EST, c-COT, MEKK8"
+],
+[
+"Entrez",
+"1326"
+],
+[
+"Ensembl",
+"ENSG00000107968"
+],
+[
+"RefSeq",
+"NM_005204"
+],
+[
+"UniProt",
+"P41279"
+]
+]
+},
+{
+"label": "MAP2K4",
+"class": "Macromolecule",
+"box": [
+2365.0,
+988.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 4"
+],
+[
+"Alternative names",
+"JNK-activating kinase 1; MAPK/ERK kinase 4; SAPK/ERK kinase 1; Stress-activated protein kinase kinase 1; c-Jun N-terminal kinase kinase 1"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Essential component of the stress-activated protein kinase/c-Jun N-terminal kinase (SAP/JNK) signaling pathway."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6844"
+],
+[
+"HGNC symbol",
+"MAP2K4"
+],
+[
+"Previous symbols",
+"SERK1"
+],
+[
+"Alias symbols",
+"MEK4, JNKK1, PRKMK4, MKK4, MAPKK4, SAPKK1, SKK1, JNKK, SEK1"
+],
+[
+"Entrez",
+"6416"
+],
+[
+"Ensembl",
+"ENSG00000065559"
+],
+[
+"RefSeq",
+"NM_001281435"
+],
+[
+"UniProt",
+"P45985"
+]
+]
+},
+{
+"label": "MAPK3",
+"class": "Macromolecule",
+"box": [
+2152.0,
+1580.5,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"label": "RAP1B",
+"class": "Macromolecule",
+"box": [
+1695.0,
+702.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Ras-related protein Rap-1b"
+],
+[
+"Alternative names",
+"GTP-binding protein smg p21B"
+],
+[
+"Function",
+"GTP-binding protein that possesses intrinsic GTPase activity. Contributes to the polarizing activity of KRIT1 and CDH5 in the establishment and maintenance of correct endothelial cell polarity and vascular lumen."
+],
+[
+"Location",
+"Cell membrane, Cytoplasm, cytosol, Cell junction"
+],
+[
+"HGNC",
+"HGNC:9857"
+],
+[
+"HGNC symbol",
+"RAP1B"
+],
+[
+"Alias symbols",
+"K-REV, RAL1B, DKFZp586H0723"
+],
+[
+"Entrez",
+"5908"
+],
+[
+"Ensembl",
+"ENSG00000127314"
+],
+[
+"RefSeq",
+"NM_001010942"
+],
+[
+"UniProt",
+"P61224"
+]
+]
+},
+{
+"label": "MAP2K1",
+"class": "Macromolecule",
+"box": [
+2458.0,
+1324.5,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 1"
+],
+[
+"Alternative names",
+"ERK activator kinase 1; MAPK/ERK kinase 1"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Binding of extracellular ligands such as growth factors, cytokines and hormones to their cell-surface receptors activates RAS and this initiates RAF1 activation."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, microtubule organizing center, spindle pole body, Cytoplasm, Nucleus, Membrane"
+],
+[
+"HGNC",
+"HGNC:6840"
+],
+[
+"HGNC symbol",
+"MAP2K1"
+],
+[
+"Previous symbols",
+"PRKMK1"
+],
+[
+"Alias symbols",
+"MEK1, MAPKK1, MKK1"
+],
+[
+"Entrez",
+"5604"
+],
+[
+"Ensembl",
+"ENSG00000169032"
+],
+[
+"RefSeq",
+"NM_001411065"
+],
+[
+"UniProt",
+"Q02750"
+]
+]
+},
+{
+"label": "MAPK1",
+"class": "Macromolecule",
+"box": [
+2779.5,
+1322.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+},
+{
+"label": "MAP2K1",
+"class": "Macromolecule",
+"box": [
+2097.5,
+1323.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 1"
+],
+[
+"Alternative names",
+"ERK activator kinase 1; MAPK/ERK kinase 1"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Binding of extracellular ligands such as growth factors, cytokines and hormones to their cell-surface receptors activates RAS and this initiates RAF1 activation."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, microtubule organizing center, spindle pole body, Cytoplasm, Nucleus, Membrane"
+],
+[
+"HGNC",
+"HGNC:6840"
+],
+[
+"HGNC symbol",
+"MAP2K1"
+],
+[
+"Previous symbols",
+"PRKMK1"
+],
+[
+"Alias symbols",
+"MEK1, MAPKK1, MKK1"
+],
+[
+"Entrez",
+"5604"
+],
+[
+"Ensembl",
+"ENSG00000169032"
+],
+[
+"RefSeq",
+"NM_001411065"
+],
+[
+"UniProt",
+"Q02750"
+]
+]
+},
+{
+"label": "MAPK14",
+"class": "Macromolecule",
+"box": [
+2776.5,
+1681.5,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 14"
+],
+[
+"Alternative names",
+"Cytokine suppressive anti-inflammatory drug-binding protein; MAP kinase MXI2; MAX-interacting protein 2; Mitogen-activated protein kinase p38 alpha; Stress-activated protein kinase 2a"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK14 is one of the four p38 MAPKs which play an important role in the cascades of cellular responses evoked by extracellular stimuli such as pro-inflammatory cytokines or physical stress leading to direct activation of transcription factors."
+],
+[
+"Location",
+"Cytoplasm, Nucleus"
+],
+[
+"HGNC",
+"HGNC:6876"
+],
+[
+"HGNC symbol",
+"MAPK14"
+],
+[
+"Previous symbols",
+"CSPB1, CSBP1, CSBP2"
+],
+[
+"Alias symbols",
+"p38alpha, PRKM14, p38, Mxi2, PRKM15"
+],
+[
+"Entrez",
+"1432"
+],
+[
+"Ensembl",
+"ENSG00000112062"
+],
+[
+"RefSeq",
+"NM_001315"
+],
+[
+"UniProt",
+"Q16539"
+]
+]
+},
+{
+"label": "PRKACG",
+"class": "Macromolecule",
+"box": [
+3085.0,
+872.0,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase catalytic subunit gamma"
+],
+[
+"Function",
+"Phosphorylates a large number of substrates in the cytoplasm and the nucleus"
+],
+[
+"HGNC",
+"HGNC:9382"
+],
+[
+"HGNC symbol",
+"PRKACG"
+],
+[
+"Alias symbols",
+"PKACg"
+],
+[
+"Entrez",
+"5568"
+],
+[
+"Ensembl",
+"ENSG00000165059"
+],
+[
+"RefSeq",
+"NM_002732"
+],
+[
+"UniProt",
+"P22612"
+]
+]
+},
+{
+"label": "BRAF",
+"class": "Macromolecule",
+"box": [
+3130.0,
+650.5,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Serine/threonine-protein kinase B-raf"
+],
+[
+"Alternative names",
+"Proto-oncogene B-Raf; p94; v-Raf murine sarcoma viral oncogene homolog B1"
+],
+[
+"Function",
+"Protein kinase involved in the transduction of mitogenic signals from the cell membrane to the nucleus (Probable). Phosphorylates MAP2K1, and thereby activates the MAP kinase signal transduction pathway."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:1097"
+],
+[
+"HGNC symbol",
+"BRAF"
+],
+[
+"Alias symbols",
+"BRAF1, BRAF-1"
+],
+[
+"Entrez",
+"673"
+],
+[
+"Ensembl",
+"ENSG00000157764"
+],
+[
+"RefSeq",
+"NM_004333"
+],
+[
+"UniProt",
+"P15056"
+]
+]
+},
+{
+"label": "MAP2K7",
+"class": "Macromolecule",
+"box": [
+3422.0,
+1247.5,
+100.0,
+50.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 7"
+],
+[
+"Alternative names",
+"JNK-activating kinase 2; MAPK/ERK kinase 7; Stress-activated protein kinase kinase 4; c-Jun N-terminal kinase kinase 2"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Essential component of the stress-activated protein kinase/c-Jun N-terminal kinase (SAP/JNK) signaling pathway."
+],
+[
+"Location",
+"Nucleus, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:6847"
+],
+[
+"HGNC symbol",
+"MAP2K7"
+],
+[
+"Previous symbols",
+"PRKMK7"
+],
+[
+"Alias symbols",
+"MKK7, Jnkk2, SAPKK4"
+],
+[
+"Entrez",
+"5609"
+],
+[
+"Ensembl",
+"ENSG00000076984"
+],
+[
+"RefSeq",
+"NM_001297555"
+],
+[
+"UniProt",
+"O14733"
+]
+]
+},
+{
+"id": "re48",
+"label": "",
+"class": "Process",
+"box": [
+2695.0,
+1694.8,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MAPK14"
+],
+"out": [
+"MAPK14"
+],
+"by": [
+"MAP2K6",
+"MAP2K3",
+"MAPK1"
+]
+},
+"references": [
+{
+"authors": "Shimo T et al.",
+"journal": "J Cell Commun Signal",
+"title": "Specific inhibitor of MEK-mediated cross-talk between ERK and p38 MAPK during differentiation of human osteosarcoma cells.",
+"year": "2007",
+"db": "pubmed",
+"id": "18481201"
+},
+{
+"authors": "Xiao YQ et al.",
+"journal": "J Biol Chem",
+"title": "Cross-talk between ERK and p38 MAPK mediates selective suppression of pro-inflammatory cytokines by transforming growth factor-beta.",
+"year": "2002",
+"db": "pubmed",
+"id": "11842088"
+}
+]
+},
+{
+"id": "re408",
+"label": "",
+"class": "Process",
+"box": [
+2058.0,
+1593.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MAPK3"
+],
+"out": [
+"MAPK3"
+],
+"by": [
+"cGAS",
+"TRAF2",
+"MAP2K1"
+]
+},
+"references": [
+{
+"authors": "Wang Y et al.",
+"journal": "Mediators Inflamm",
+"title": "Cyclic GMP-AMP Synthase Is Required for Cell Proliferation and Inflammatory Responses in Rheumatoid Arthritis Synoviocytes.",
+"year": "2015",
+"db": "pubmed",
+"id": "26819496"
+}
+]
+}
+]
+}
