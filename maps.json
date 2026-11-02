@@ -216,6 +216,33 @@
 "hasText": true
 },
 {
+"id": "erk-export",
+"title": "MEK holds ERK and takes it out of the nucleus",
+"topic": "MEK holds ERK and takes it out of the nucleus",
+"group": "Core",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/erk-export.svg",
+"width": 1230.0,
+"height": 411.0,
+"scale": 1,
+"annotation": "data/erk-export.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/erk-export.graphml"
+},
+{
+"label": "SVG",
+"url": "files/erk-export.svg"
+}
+],
+"data": "data/erk-export-text.json",
+"hasText": true
+},
+{
 "id": "ksr1-scaffold",
 "title": "KSR1 scaffold, scaffold model",
 "topic": "KSR1 scaffold (pilot)",
@@ -267,6 +294,60 @@
 }
 ],
 "data": "data/ksr1-braf-text.json",
+"hasText": true
+},
+{
+"id": "pea15",
+"title": "PEA15 holds ERK in the cytoplasm",
+"topic": "PEA15 holds ERK in the cytoplasm",
+"group": "Spatial",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/pea15.svg",
+"width": 1470.0,
+"height": 386.0,
+"scale": 1,
+"annotation": "data/pea15.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/pea15.graphml"
+},
+{
+"label": "SVG",
+"url": "files/pea15.svg"
+}
+],
+"data": "data/pea15-text.json",
+"hasText": true
+},
+{
+"id": "rkip",
+"title": "RKIP holds RAF1 away from MEK",
+"topic": "RKIP holds RAF1 away from MEK",
+"group": "Spatial",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/rkip.svg",
+"width": 842.0,
+"height": 542.0,
+"scale": 1,
+"annotation": "data/rkip.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/rkip.graphml"
+},
+{
+"label": "SVG",
+"url": "files/rkip.svg"
+}
+],
+"data": "data/rkip-text.json",
 "hasText": true
 },
 {
