@@ -9,7 +9,7 @@
 "tab": null,
 "image": "files/core.svg",
 "width": 1838.0,
-"height": 830.0,
+"height": 910.0,
 "scale": 1,
 "annotation": "data/core.json",
 "imageError": null,
@@ -62,8 +62,8 @@
 "tag": "new",
 "tab": null,
 "image": "files/raf-activation.svg",
-"width": 1157.0,
-"height": 731.0,
+"width": 1159.0,
+"height": 811.0,
 "scale": 1,
 "annotation": "data/raf-activation.json",
 "imageError": null,
@@ -267,6 +267,33 @@
 }
 ],
 "data": "data/ksr1-braf-text.json",
+"hasText": true
+},
+{
+"id": "raf-feedback",
+"title": "RAF feedback and reset",
+"topic": "RAF feedback and reset",
+"group": "Temporal",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/raf-feedback.svg",
+"width": 1424.0,
+"height": 843.0,
+"scale": 1,
+"annotation": "data/raf-feedback.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/raf-feedback.graphml"
+},
+{
+"label": "SVG",
+"url": "files/raf-feedback.svg"
+}
+],
+"data": "data/raf-feedback-text.json",
 "hasText": true
 },
 {

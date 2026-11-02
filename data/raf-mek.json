@@ -4,7 +4,7 @@
 "label": "GTP",
 "class": "SimpleChemical",
 "box": [
-168.0,
+166.5,
 83.2,
 40.0,
 40.0
@@ -44,7 +44,7 @@
 "label": "RAS",
 "class": "Macromolecule",
 "box": [
-148.0,
+146.5,
 139.2,
 80.0,
 40.0
@@ -217,7 +217,7 @@
 "label": "RAF",
 "class": "Macromolecule",
 "box": [
-148.0,
+146.5,
 201.2,
 80.0,
 40.0
@@ -386,7 +386,7 @@
 "label": "14-3-3",
 "class": "Macromolecule",
 "box": [
-148.0,
+146.5,
 266.2,
 80.0,
 40.0

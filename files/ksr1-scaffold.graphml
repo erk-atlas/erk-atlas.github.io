@@ -601,7 +601,7 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
-              <y:Geometry height="281.5" width="110.0" x="1105.0" y="-204.75"/>
+              <y:Geometry height="281.5" width="113.0" x="1103.5" y="-204.75"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="85.5" x="9.25" y="195.5">RAF dimer</y:NodeLabel>
@@ -631,7 +631,7 @@
       </data>
       <graph edgedefault="directed" id="rd:"><node id="rd_n"><data key="d103">CHEBI:37565</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-          <y:Geometry height="40.0" width="40.0" x="1137.0" y="-188.75"/>
+          <y:Geometry height="40.0" width="40.0" x="1135.5" y="-188.75"/>
           <y:Fill color="#DBEBDB" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="5.75" xml:space="preserve" y="9.75" hasText="true">GTP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -639,7 +639,7 @@
       </data>
     </node><node id="rd_r"><data key="d104">RAS</data><data key="d105">HRAS; KRAS; NRAS</data><data key="d106">[{"symbol": "HRAS", "props": [["HGNC", "HGNC:5173"], ["HGNC symbol", "HRAS"], ["UniProt", "P01112"]]}, {"symbol": "KRAS", "props": [["HGNC", "HGNC:6407"], ["HGNC symbol", "KRAS"], ["UniProt", "P01116"]]}, {"symbol": "NRAS", "props": [["HGNC", "HGNC:7989"], ["HGNC symbol", "NRAS"], ["UniProt", "P01111"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="1117.0" y="-132.75"/>
+              <y:Geometry height="40.0" width="80.0" x="1115.5" y="-132.75"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">RAS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -658,7 +658,7 @@
           </data>
         </node><node id="rd_f"><data key="d104">RAF</data><data key="d105">ARAF; BRAF; RAF1</data><data key="d106">[{"symbol": "ARAF", "props": [["HGNC", "HGNC:646"], ["HGNC symbol", "ARAF"], ["UniProt", "P10398"]]}, {"symbol": "BRAF", "props": [["HGNC", "HGNC:1097"], ["HGNC symbol", "BRAF"], ["UniProt", "P15056"]]}, {"symbol": "RAF1", "props": [["HGNC", "HGNC:9829"], ["HGNC symbol", "RAF1"], ["UniProt", "P04049"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="1117.0" y="-70.75"/>
+              <y:Geometry height="40.0" width="80.0" x="1115.5" y="-70.75"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="28.5" x="25.75" xml:space="preserve" y="9.75" hasText="true">RAF<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -678,6 +678,14 @@
                   <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.25" nodeRatioY="0.5" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
                 </y:ModelParameter>
               </y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="18.0" horizontalTextPosition="center" iconData="2" iconTextGap="0" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="18.0" x="71.0" y="11.0">
+                <y:LabelModel>
+                  <y:SmartNodeLabelModel distance="4.0"/>
+                </y:LabelModel>
+                <y:ModelParameter>
+                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.5" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                </y:ModelParameter>
+              </y:NodeLabel>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" bottomInset="0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="16.0" horizontalTextPosition="center" iconData="3" iconTextGap="0" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="25.0" x="27.5" y="-8.0">
                 <y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -693,7 +701,7 @@
           </data>
         </node><node id="rd_y"><data key="d104">14-3-3</data><data key="d105">YWHAB; YWHAE; YWHAG; YWHAH; YWHAQ; YWHAZ; SFN</data><data key="d106">[{"symbol": "YWHAB", "props": [["HGNC", "HGNC:12849"], ["HGNC symbol", "YWHAB"], ["UniProt", "P31946"]]}, {"symbol": "YWHAE", "props": [["HGNC", "HGNC:12851"], ["HGNC symbol", "YWHAE"], ["UniProt", "P62258"]]}, {"symbol": "YWHAG", "props": [["HGNC", "HGNC:12852"], ["HGNC symbol", "YWHAG"], ["UniProt", "P61981"]]}, {"symbol": "YWHAH", "props": [["HGNC", "HGNC:12853"], ["HGNC symbol", "YWHAH"], ["UniProt", "Q04917"]]}, {"symbol": "YWHAQ", "props": [["HGNC", "HGNC:12854"], ["HGNC symbol", "YWHAQ"], ["UniProt", "P27348"]]}, {"symbol": "YWHAZ", "props": [["HGNC", "HGNC:12855"], ["HGNC symbol", "YWHAZ"], ["UniProt", "P63104"]]}, {"symbol": "SFN", "props": [["HGNC", "HGNC:10773"], ["HGNC symbol", "SFN"], ["UniProt", "P31947"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="1117.0" y="-5.75"/>
+              <y:Geometry height="40.0" width="80.0" x="1115.5" y="-5.75"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="57.0" x="11.5" xml:space="preserve" y="9.75" hasText="true">14-3-3<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>

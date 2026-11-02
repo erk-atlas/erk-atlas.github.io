@@ -153,25 +153,25 @@
 "references": [
 {
 "authors": "Mandl M et al.",
-"year": "2005",
-"title": "Specific inactivation and nuclear anchoring of extracellular signal-regulated kinase 2 by the inducible dual-specificity protein phosphatase DUSP5.",
 "journal": "Mol Cell Biol",
+"title": "Specific inactivation and nuclear anchoring of extracellular signal-regulated kinase 2 by the inducible dual-specificity protein phosphatase DUSP5.",
+"year": "2005",
 "db": "pubmed",
 "id": "15713638"
 },
 {
 "authors": "Kidger AM et al.",
-"year": "2017",
-"title": "Dual-specificity phosphatase 5 controls the localized inhibition, propagation, and transforming potential of ERK signaling.",
 "journal": "Proc Natl Acad Sci U S A",
+"title": "Dual-specificity phosphatase 5 controls the localized inhibition, propagation, and transforming potential of ERK signaling.",
+"year": "2017",
 "db": "pubmed",
 "id": "28053233"
 },
 {
 "authors": "Kucharska A et al.",
-"year": "2009",
-"title": "Regulation of the inducible nuclear dual-specificity phosphatase DUSP5 by ERK MAPK.",
 "journal": "Cell Signal",
+"title": "Regulation of the inducible nuclear dual-specificity phosphatase DUSP5 by ERK MAPK.",
+"year": "2009",
 "db": "pubmed",
 "id": "19666109"
 }
@@ -329,25 +329,25 @@
 "references": [
 {
 "authors": "Mandl M et al.",
-"year": "2005",
-"title": "Specific inactivation and nuclear anchoring of extracellular signal-regulated kinase 2 by the inducible dual-specificity protein phosphatase DUSP5.",
 "journal": "Mol Cell Biol",
+"title": "Specific inactivation and nuclear anchoring of extracellular signal-regulated kinase 2 by the inducible dual-specificity protein phosphatase DUSP5.",
+"year": "2005",
 "db": "pubmed",
 "id": "15713638"
 },
 {
 "authors": "Kucharska A et al.",
-"year": "2009",
-"title": "Regulation of the inducible nuclear dual-specificity phosphatase DUSP5 by ERK MAPK.",
 "journal": "Cell Signal",
+"title": "Regulation of the inducible nuclear dual-specificity phosphatase DUSP5 by ERK MAPK.",
+"year": "2009",
 "db": "pubmed",
 "id": "19666109"
 },
 {
 "authors": "Kidger AM et al.",
-"year": "2017",
-"title": "Dual-specificity phosphatase 5 controls the localized inhibition, propagation, and transforming potential of ERK signaling.",
 "journal": "Proc Natl Acad Sci U S A",
+"title": "Dual-specificity phosphatase 5 controls the localized inhibition, propagation, and transforming potential of ERK signaling.",
+"year": "2017",
 "db": "pubmed",
 "id": "28053233"
 }
@@ -746,25 +746,25 @@
 "references": [
 {
 "authors": "Zhao Y et al.",
-"year": "2001",
-"title": "The mechanism of dephosphorylation of extracellular signal-regulated kinase 2 by mitogen-activated protein kinase phosphatase 3.",
 "journal": "J Biol Chem",
+"title": "The mechanism of dephosphorylation of extracellular signal-regulated kinase 2 by mitogen-activated protein kinase phosphatase 3.",
+"year": "2001",
 "db": "pubmed",
 "id": "11432864"
 },
 {
 "authors": "Camps M et al.",
-"year": "1998",
-"title": "Catalytic activation of the phosphatase MKP-3 by ERK2 mitogen-activated protein kinase.",
 "journal": "Science",
+"title": "Catalytic activation of the phosphatase MKP-3 by ERK2 mitogen-activated protein kinase.",
+"year": "1998",
 "db": "pubmed",
 "id": "9596579"
 },
 {
 "authors": "Groom LA et al.",
-"year": "1996",
-"title": "Differential regulation of the MAP, SAP and RK/p38 kinases by Pyst1, a novel cytosolic dual-specificity phosphatase.",
 "journal": "EMBO J",
+"title": "Differential regulation of the MAP, SAP and RK/p38 kinases by Pyst1, a novel cytosolic dual-specificity phosphatase.",
+"year": "1996",
 "db": "pubmed",
 "id": "8670865"
 }
@@ -923,25 +923,25 @@
 "references": [
 {
 "authors": "Zhao Y et al.",
-"year": "2001",
-"title": "The mechanism of dephosphorylation of extracellular signal-regulated kinase 2 by mitogen-activated protein kinase phosphatase 3.",
 "journal": "J Biol Chem",
+"title": "The mechanism of dephosphorylation of extracellular signal-regulated kinase 2 by mitogen-activated protein kinase phosphatase 3.",
+"year": "2001",
 "db": "pubmed",
 "id": "11432864"
 },
 {
 "authors": "Camps M et al.",
-"year": "1998",
-"title": "Catalytic activation of the phosphatase MKP-3 by ERK2 mitogen-activated protein kinase.",
 "journal": "Science",
+"title": "Catalytic activation of the phosphatase MKP-3 by ERK2 mitogen-activated protein kinase.",
+"year": "1998",
 "db": "pubmed",
 "id": "9596579"
 },
 {
 "authors": "Groom LA et al.",
-"year": "1996",
-"title": "Differential regulation of the MAP, SAP and RK/p38 kinases by Pyst1, a novel cytosolic dual-specificity phosphatase.",
 "journal": "EMBO J",
+"title": "Differential regulation of the MAP, SAP and RK/p38 kinases by Pyst1, a novel cytosolic dual-specificity phosphatase.",
+"year": "1996",
 "db": "pubmed",
 "id": "8670865"
 }
