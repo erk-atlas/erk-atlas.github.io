@@ -41,9 +41,9 @@
 },
 {
 "authors": "Murphy LO et al.",
-"year": "2004",
-"title": "A network of immediate early gene products propagates subtle differences in mitogen-activated protein kinase signal amplitude and duration.",
 "journal": "Mol Cell Biol",
+"title": "A network of immediate early gene products propagates subtle differences in mitogen-activated protein kinase signal amplitude and duration.",
+"year": "2004",
 "db": "pubmed",
 "id": "14673150"
 }
@@ -557,25 +557,25 @@
 "references": [
 {
 "authors": "Chen RH et al.",
-"year": "1996",
-"title": "Phosphorylation of c-Fos at the C-terminus enhances its transforming activity.",
 "journal": "Oncogene",
+"title": "Phosphorylation of c-Fos at the C-terminus enhances its transforming activity.",
+"year": "1996",
 "db": "pubmed",
 "id": "8622865"
 },
 {
 "authors": "Murphy LO et al.",
-"year": "2002",
-"title": "Molecular interpretation of ERK signal duration by immediate early gene products.",
 "journal": "Nat Cell Biol",
+"title": "Molecular interpretation of ERK signal duration by immediate early gene products.",
+"year": "2002",
 "db": "pubmed",
 "id": "12134156"
 },
 {
 "authors": "Ferrara P et al.",
-"year": "2003",
-"title": "The structural determinants responsible for c-Fos protein proteasomal degradation differ according to the conditions of expression.",
 "journal": "Oncogene",
+"title": "The structural determinants responsible for c-Fos protein proteasomal degradation differ according to the conditions of expression.",
+"year": "2003",
 "db": "pubmed",
 "id": "12629509"
 }
@@ -607,25 +607,25 @@
 "references": [
 {
 "authors": "Murphy LO et al.",
-"year": "2002",
-"title": "Molecular interpretation of ERK signal duration by immediate early gene products.",
 "journal": "Nat Cell Biol",
+"title": "Molecular interpretation of ERK signal duration by immediate early gene products.",
+"year": "2002",
 "db": "pubmed",
 "id": "12134156"
 },
 {
 "authors": "Chen RH et al.",
-"year": "1996",
-"title": "Phosphorylation of c-Fos at the C-terminus enhances its transforming activity.",
 "journal": "Oncogene",
+"title": "Phosphorylation of c-Fos at the C-terminus enhances its transforming activity.",
+"year": "1996",
 "db": "pubmed",
 "id": "8622865"
 },
 {
 "authors": "Okazaki K et al.",
-"year": "1995",
-"title": "The Mos/MAP kinase pathway stabilizes c-Fos by phosphorylation and augments its transforming activity in NIH 3T3 cells.",
 "journal": "EMBO J",
+"title": "The Mos/MAP kinase pathway stabilizes c-Fos by phosphorylation and augments its transforming activity in NIH 3T3 cells.",
+"year": "1995",
 "db": "pubmed",
 "id": "7588633"
 }
@@ -1013,17 +1013,17 @@
 "references": [
 {
 "authors": "Murphy LO et al.",
-"year": "2002",
-"title": "Molecular interpretation of ERK signal duration by immediate early gene products.",
 "journal": "Nat Cell Biol",
+"title": "Molecular interpretation of ERK signal duration by immediate early gene products.",
+"year": "2002",
 "db": "pubmed",
 "id": "12134156"
 },
 {
 "authors": "Monje P et al.",
-"year": "2003",
-"title": "Phosphorylation of the carboxyl-terminal transactivation domain of c-Fos by extracellular signal-regulated kinase mediates the transcriptional activation of AP-1 and cellular transformation induced by platelet-derived growth factor.",
 "journal": "Mol Cell Biol",
+"title": "Phosphorylation of the carboxyl-terminal transactivation domain of c-Fos by extracellular signal-regulated kinase mediates the transcriptional activation of AP-1 and cellular transformation induced by platelet-derived growth factor.",
+"year": "2003",
 "db": "pubmed",
 "id": "12972619"
 }
@@ -1348,9 +1348,9 @@
 "references": [
 {
 "authors": "Murphy LO et al.",
-"year": "2002",
-"title": "Molecular interpretation of ERK signal duration by immediate early gene products.",
 "journal": "Nat Cell Biol",
+"title": "Molecular interpretation of ERK signal duration by immediate early gene products.",
+"year": "2002",
 "db": "pubmed",
 "id": "12134156"
 }
