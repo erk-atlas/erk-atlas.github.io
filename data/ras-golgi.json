@@ -1,0 +1,1255 @@
+{
+"nodes": [
+{
+"id": "p_t1",
+"label": "",
+"class": "Process",
+"box": [
+295.0,
+386.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"RASA4"
+],
+"out": [
+"RASA4"
+],
+"by": [
+"Ca2+"
+]
+},
+"references": [
+{
+"authors": "Bivona TG et al.",
+"year": "2003",
+"title": "Phospholipase Cgamma activates Ras on the Golgi apparatus by means of RasGRP1.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "12845332"
+}
+]
+},
+{
+"label": "RASA4",
+"class": "Macromolecule",
+"box": [
+267.0,
+498.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Ras GTPase-activating protein 4"
+],
+[
+"Alternative names",
+"Calcium-promoted Ras inactivator; Ras p21 protein activator 4; RasGAP-activating-like protein 2"
+],
+[
+"Function",
+"Ca(2+)-dependent Ras GTPase-activating protein, that switches off the Ras-MAPK pathway following a stimulus that elevates intracellular calcium. Functions as an adaptor for Cdc42 and Rac1 during FcR-mediated phagocytosis"
+],
+[
+"Location",
+"Cytoplasm, cytosol, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:23181"
+],
+[
+"HGNC symbol",
+"RASA4"
+],
+[
+"Alias symbols",
+"KIAA0538, CAPRI, GAPL"
+],
+[
+"Entrez",
+"10156"
+],
+[
+"Ensembl",
+"ENSG00000105808"
+],
+[
+"RefSeq",
+"NM_006989"
+],
+[
+"UniProt",
+"O43374"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+167.0,
+378.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "RASGRP1",
+"class": "Macromolecule",
+"box": [
+867.0,
+498.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"RAS guanyl-releasing protein 1"
+],
+[
+"Alternative names",
+"Calcium and DAG-regulated guanine nucleotide exchange factor II; Ras guanyl-releasing protein"
+],
+[
+"Function",
+"Functions as a calcium- and diacylglycerol (DAG)-regulated nucleotide exchange factor specifically activating Ras through the exchange of bound GDP for GTP. Activates the Erk/MAP kinase cascade."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Cell membrane, Golgi apparatus membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:9878"
+],
+[
+"HGNC symbol",
+"RASGRP1"
+],
+[
+"Alias symbols",
+"CalDAG-GEFII, RASGRP"
+],
+[
+"Entrez",
+"10125"
+],
+[
+"Ensembl",
+"ENSG00000172575"
+],
+[
+"RefSeq",
+"NM_005739"
+],
+[
+"UniProt",
+"O95267"
+]
+]
+},
+{
+"id": "p_t2",
+"label": "",
+"class": "Process",
+"box": [
+895.0,
+646.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"RASGRP1"
+],
+"out": [
+"RASGRP1"
+],
+"by": [
+"PLCG1"
+]
+},
+"references": [
+{
+"authors": "Bivona TG et al.",
+"year": "2003",
+"title": "Phospholipase Cgamma activates Ras on the Golgi apparatus by means of RasGRP1.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "12845332"
+}
+]
+},
+{
+"label": "PLCG1",
+"class": "Macromolecule",
+"box": [
+1007.0,
+638.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1"
+],
+[
+"Alternative names",
+"PLC-148; Phosphoinositide phospholipase C-gamma-1; Phospholipase C-II; Phospholipase C-gamma-1"
+],
+[
+"Function",
+"Mediates the production of the second messenger molecules diacylglycerol (DAG) and inositol 1,4,5-trisphosphate (IP3). Plays an important role in the regulation of intracellular signaling cascades."
+],
+[
+"Location",
+"Cell projection, lamellipodium, Cell projection, ruffle"
+],
+[
+"HGNC",
+"HGNC:9065"
+],
+[
+"HGNC symbol",
+"PLCG1"
+],
+[
+"Previous symbols",
+"PLC1"
+],
+[
+"Alias symbols",
+"PLC148, PLC-II, PLCgamma1, NCKAP3"
+],
+[
+"Entrez",
+"5335"
+],
+[
+"Ensembl",
+"ENSG00000124181"
+],
+[
+"RefSeq",
+"NM_182811"
+],
+[
+"UniProt",
+"P19174"
+]
+]
+},
+{
+"label": "RASGRP1",
+"class": "Macromolecule",
+"box": [
+867.0,
+818.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"RAS guanyl-releasing protein 1"
+],
+[
+"Alternative names",
+"Calcium and DAG-regulated guanine nucleotide exchange factor II; Ras guanyl-releasing protein"
+],
+[
+"Function",
+"Functions as a calcium- and diacylglycerol (DAG)-regulated nucleotide exchange factor specifically activating Ras through the exchange of bound GDP for GTP. Activates the Erk/MAP kinase cascade."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Cell membrane, Golgi apparatus membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:9878"
+],
+[
+"HGNC symbol",
+"RASGRP1"
+],
+[
+"Alias symbols",
+"CalDAG-GEFII, RASGRP"
+],
+[
+"Entrez",
+"10125"
+],
+[
+"Ensembl",
+"ENSG00000172575"
+],
+[
+"RefSeq",
+"NM_005739"
+],
+[
+"UniProt",
+"O95267"
+]
+]
+},
+{
+"label": "Ca2+",
+"class": "SimpleChemical",
+"box": [
+1027.0,
+818.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "GDP",
+"class": "SimpleChemical",
+"box": [
+687.0,
+923.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"GDP(3-)"
+],
+[
+"Synonyms",
+"5'-O-[(phosphonatooxy)phosphinato]guanosine; GDP; GDP trianion; guanosine 5'-diphosphate; guanosine 5'-diphosphate trianion; guanosine 5'-diphosphate(3-)"
+],
+[
+"Definition",
+"A nucleoside 5'-diphosphate(3−) obtained by deprotonation of the three diphosphate OH groups of guanosine 5'-diphosphate (GMP); major species at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O11P2"
+],
+[
+"ChEBI",
+"CHEBI:58189"
+],
+[
+"InChI",
+"InChI=1S/C10H15N5O11P2/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(25-9)1-24-28(22,23)26-27(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H2,19,20,21)(H3,11,13,14,18)/p-3/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"QGWNDRXFNXRZMB-UUOKFMHZSA-K"
+]
+]
+},
+{
+"label": "HRAS/NRAS",
+"class": "Macromolecule",
+"box": [
+667.0,
+971.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"HRAS/NRAS"
+],
+[
+"Members",
+"HRAS; NRAS"
+]
+],
+"members": [
+{
+"symbol": "HRAS",
+"props": [
+[
+"Full name",
+"GTPase HRas"
+],
+[
+"Alternative names",
+"H-Ras-1; Ha-Ras; Transforming protein p21; c-H-ras; p21ras"
+],
+[
+"Function",
+"Signal transducer in the Ras-MAPK signaling pathway that regulates cell proliferation and survival. Ras proteins bind GDP/GTP and possess intrinsic GTPase activity."
+],
+[
+"Location",
+"Cell membrane, Golgi apparatus, Golgi apparatus membrane, Nucleus, Cytoplasm, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:5173"
+],
+[
+"HGNC symbol",
+"HRAS"
+],
+[
+"Previous symbols",
+"HRAS1"
+],
+[
+"Entrez",
+"3265"
+],
+[
+"Ensembl",
+"ENSG00000174775"
+],
+[
+"RefSeq",
+"NM_176795"
+],
+[
+"UniProt",
+"P01112"
+]
+]
+},
+{
+"symbol": "NRAS",
+"props": [
+[
+"Full name",
+"GTPase NRas"
+],
+[
+"Alternative names",
+"Transforming protein N-Ras"
+],
+[
+"Function",
+"Signal transducer in the Ras-MAPK signaling pathway that regulates cell proliferation and survival. Ras proteins bind GDP/GTP and possess intrinsic GTPase activity."
+],
+[
+"Location",
+"Cell membrane, Golgi apparatus membrane"
+],
+[
+"HGNC",
+"HGNC:7989"
+],
+[
+"HGNC symbol",
+"NRAS"
+],
+[
+"Alias symbols",
+"N-ras"
+],
+[
+"Entrez",
+"4893"
+],
+[
+"Ensembl",
+"ENSG00000213281"
+],
+[
+"RefSeq",
+"NM_002524"
+],
+[
+"UniProt",
+"P01111"
+]
+]
+}
+]
+},
+{
+"id": "p_grp",
+"label": "",
+"class": "Process",
+"box": [
+895.0,
+966.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"HRAS/NRAS:GDP"
+],
+"out": [
+"HRAS/NRAS:GTP"
+],
+"by": [
+"RASGRP1",
+"Ca2+"
+]
+},
+"references": [
+{
+"authors": "Bivona TG et al.",
+"year": "2003",
+"title": "Phospholipase Cgamma activates Ras on the Golgi apparatus by means of RasGRP1.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "12845332"
+},
+{
+"authors": "Chiu VK et al.",
+"year": "2002",
+"title": "Ras signalling on the endoplasmic reticulum and the Golgi.",
+"journal": "Nat Cell Biol",
+"db": "pubmed",
+"id": "11988737"
+}
+]
+},
+{
+"label": "GTP",
+"class": "SimpleChemical",
+"box": [
+1087.0,
+923.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"GTP(4-)"
+],
+[
+"Synonyms",
+"GTP; guanosine 5'-triphosphate(4-)"
+],
+[
+"Definition",
+"A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of GTP; major species present at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O14P3"
+],
+[
+"ChEBI",
+"CHEBI:37565"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/p-4/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"XKMLYUALXHKNFT-UUOKFMHZSA-J"
+]
+]
+},
+{
+"label": "HRAS/NRAS",
+"class": "Macromolecule",
+"box": [
+1067.0,
+971.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"HRAS/NRAS"
+],
+[
+"Members",
+"HRAS; NRAS"
+]
+],
+"members": [
+{
+"symbol": "HRAS",
+"props": [
+[
+"Full name",
+"GTPase HRas"
+],
+[
+"Alternative names",
+"H-Ras-1; Ha-Ras; Transforming protein p21; c-H-ras; p21ras"
+],
+[
+"Function",
+"Signal transducer in the Ras-MAPK signaling pathway that regulates cell proliferation and survival. Ras proteins bind GDP/GTP and possess intrinsic GTPase activity."
+],
+[
+"Location",
+"Cell membrane, Golgi apparatus, Golgi apparatus membrane, Nucleus, Cytoplasm, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:5173"
+],
+[
+"HGNC symbol",
+"HRAS"
+],
+[
+"Previous symbols",
+"HRAS1"
+],
+[
+"Entrez",
+"3265"
+],
+[
+"Ensembl",
+"ENSG00000174775"
+],
+[
+"RefSeq",
+"NM_176795"
+],
+[
+"UniProt",
+"P01112"
+]
+]
+},
+{
+"symbol": "NRAS",
+"props": [
+[
+"Full name",
+"GTPase NRas"
+],
+[
+"Alternative names",
+"Transforming protein N-Ras"
+],
+[
+"Function",
+"Signal transducer in the Ras-MAPK signaling pathway that regulates cell proliferation and survival. Ras proteins bind GDP/GTP and possess intrinsic GTPase activity."
+],
+[
+"Location",
+"Cell membrane, Golgi apparatus membrane"
+],
+[
+"HGNC",
+"HGNC:7989"
+],
+[
+"HGNC symbol",
+"NRAS"
+],
+[
+"Alias symbols",
+"N-ras"
+],
+[
+"Entrez",
+"4893"
+],
+[
+"Ensembl",
+"ENSG00000213281"
+],
+[
+"RefSeq",
+"NM_002524"
+],
+[
+"UniProt",
+"P01111"
+]
+]
+}
+]
+},
+{
+"label": "GTP",
+"class": "SimpleChemical",
+"box": [
+87.0,
+83.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"GTP(4-)"
+],
+[
+"Synonyms",
+"GTP; guanosine 5'-triphosphate(4-)"
+],
+[
+"Definition",
+"A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of GTP; major species present at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O14P3"
+],
+[
+"ChEBI",
+"CHEBI:37565"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O14P3/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(27-9)1-26-31(22,23)29-32(24,25)28-30(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H,24,25)(H2,19,20,21)(H3,11,13,14,18)/p-4/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"XKMLYUALXHKNFT-UUOKFMHZSA-J"
+]
+]
+},
+{
+"label": "RAS",
+"class": "Macromolecule",
+"box": [
+67.0,
+131.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"RAS"
+],
+[
+"Members",
+"HRAS; KRAS; NRAS"
+]
+],
+"members": [
+{
+"symbol": "HRAS",
+"props": [
+[
+"Full name",
+"GTPase HRas"
+],
+[
+"Alternative names",
+"H-Ras-1; Ha-Ras; Transforming protein p21; c-H-ras; p21ras"
+],
+[
+"Function",
+"Signal transducer in the Ras-MAPK signaling pathway that regulates cell proliferation and survival. Ras proteins bind GDP/GTP and possess intrinsic GTPase activity."
+],
+[
+"Location",
+"Cell membrane, Golgi apparatus, Golgi apparatus membrane, Nucleus, Cytoplasm, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:5173"
+],
+[
+"HGNC symbol",
+"HRAS"
+],
+[
+"Previous symbols",
+"HRAS1"
+],
+[
+"Entrez",
+"3265"
+],
+[
+"Ensembl",
+"ENSG00000174775"
+],
+[
+"RefSeq",
+"NM_176795"
+],
+[
+"UniProt",
+"P01112"
+]
+]
+},
+{
+"symbol": "KRAS",
+"props": [
+[
+"Full name",
+"GTPase KRas"
+],
+[
+"Alternative names",
+"K-Ras 2; Ki-Ras; c-K-ras; c-Ki-ras"
+],
+[
+"Function",
+"Signal transducer in the Ras-MAPK signaling pathway that regulates cell proliferation and survival. Ras proteins bind GDP/GTP and possess intrinsic GTPase activity."
+],
+[
+"Location",
+"Cell membrane, Endomembrane system, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:6407"
+],
+[
+"HGNC symbol",
+"KRAS"
+],
+[
+"Previous symbols",
+"KRAS2"
+],
+[
+"Alias symbols",
+"KRAS1, K-Ras4B"
+],
+[
+"Entrez",
+"3845"
+],
+[
+"Ensembl",
+"ENSG00000133703"
+],
+[
+"RefSeq",
+"NM_033360"
+],
+[
+"UniProt",
+"P01116"
+]
+]
+},
+{
+"symbol": "NRAS",
+"props": [
+[
+"Full name",
+"GTPase NRas"
+],
+[
+"Alternative names",
+"Transforming protein N-Ras"
+],
+[
+"Function",
+"Signal transducer in the Ras-MAPK signaling pathway that regulates cell proliferation and survival. Ras proteins bind GDP/GTP and possess intrinsic GTPase activity."
+],
+[
+"Location",
+"Cell membrane, Golgi apparatus membrane"
+],
+[
+"HGNC",
+"HGNC:7989"
+],
+[
+"HGNC symbol",
+"NRAS"
+],
+[
+"Alias symbols",
+"N-ras"
+],
+[
+"Entrez",
+"4893"
+],
+[
+"Ensembl",
+"ENSG00000213281"
+],
+[
+"RefSeq",
+"NM_002524"
+],
+[
+"UniProt",
+"P01111"
+]
+]
+}
+]
+},
+{
+"id": "p_cap",
+"label": "",
+"class": "Process",
+"box": [
+295.0,
+126.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"RAS:GTP"
+],
+"out": [
+"RAS:GDP"
+],
+"by": [
+"RASA4"
+]
+},
+"references": [
+{
+"authors": "Bivona TG et al.",
+"year": "2003",
+"title": "Phospholipase Cgamma activates Ras on the Golgi apparatus by means of RasGRP1.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "12845332"
+}
+]
+},
+{
+"label": "GDP",
+"class": "SimpleChemical",
+"box": [
+487.0,
+83.8,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"GDP(3-)"
+],
+[
+"Synonyms",
+"5'-O-[(phosphonatooxy)phosphinato]guanosine; GDP; GDP trianion; guanosine 5'-diphosphate; guanosine 5'-diphosphate trianion; guanosine 5'-diphosphate(3-)"
+],
+[
+"Definition",
+"A nucleoside 5'-diphosphate(3−) obtained by deprotonation of the three diphosphate OH groups of guanosine 5'-diphosphate (GMP); major species at pH 7.3."
+],
+[
+"Formula",
+"C10H12N5O11P2"
+],
+[
+"ChEBI",
+"CHEBI:58189"
+],
+[
+"InChI",
+"InChI=1S/C10H15N5O11P2/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(25-9)1-24-28(22,23)26-27(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H2,19,20,21)(H3,11,13,14,18)/p-3/t3-,5-,6-,9-/m1/s1"
+],
+[
+"InChIKey",
+"QGWNDRXFNXRZMB-UUOKFMHZSA-K"
+]
+]
+},
+{
+"label": "RAS",
+"class": "Macromolecule",
+"box": [
+467.0,
+131.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"RAS"
+],
+[
+"Members",
+"HRAS; KRAS; NRAS"
+]
+],
+"members": [
+{
+"symbol": "HRAS",
+"props": [
+[
+"Full name",
+"GTPase HRas"
+],
+[
+"Alternative names",
+"H-Ras-1; Ha-Ras; Transforming protein p21; c-H-ras; p21ras"
+],
+[
+"Function",
+"Signal transducer in the Ras-MAPK signaling pathway that regulates cell proliferation and survival. Ras proteins bind GDP/GTP and possess intrinsic GTPase activity."
+],
+[
+"Location",
+"Cell membrane, Golgi apparatus, Golgi apparatus membrane, Nucleus, Cytoplasm, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:5173"
+],
+[
+"HGNC symbol",
+"HRAS"
+],
+[
+"Previous symbols",
+"HRAS1"
+],
+[
+"Entrez",
+"3265"
+],
+[
+"Ensembl",
+"ENSG00000174775"
+],
+[
+"RefSeq",
+"NM_176795"
+],
+[
+"UniProt",
+"P01112"
+]
+]
+},
+{
+"symbol": "KRAS",
+"props": [
+[
+"Full name",
+"GTPase KRas"
+],
+[
+"Alternative names",
+"K-Ras 2; Ki-Ras; c-K-ras; c-Ki-ras"
+],
+[
+"Function",
+"Signal transducer in the Ras-MAPK signaling pathway that regulates cell proliferation and survival. Ras proteins bind GDP/GTP and possess intrinsic GTPase activity."
+],
+[
+"Location",
+"Cell membrane, Endomembrane system, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:6407"
+],
+[
+"HGNC symbol",
+"KRAS"
+],
+[
+"Previous symbols",
+"KRAS2"
+],
+[
+"Alias symbols",
+"KRAS1, K-Ras4B"
+],
+[
+"Entrez",
+"3845"
+],
+[
+"Ensembl",
+"ENSG00000133703"
+],
+[
+"RefSeq",
+"NM_033360"
+],
+[
+"UniProt",
+"P01116"
+]
+]
+},
+{
+"symbol": "NRAS",
+"props": [
+[
+"Full name",
+"GTPase NRas"
+],
+[
+"Alternative names",
+"Transforming protein N-Ras"
+],
+[
+"Function",
+"Signal transducer in the Ras-MAPK signaling pathway that regulates cell proliferation and survival. Ras proteins bind GDP/GTP and possess intrinsic GTPase activity."
+],
+[
+"Location",
+"Cell membrane, Golgi apparatus membrane"
+],
+[
+"HGNC",
+"HGNC:7989"
+],
+[
+"HGNC symbol",
+"NRAS"
+],
+[
+"Alias symbols",
+"N-ras"
+],
+[
+"Entrez",
+"4893"
+],
+[
+"Ensembl",
+"ENSG00000213281"
+],
+[
+"RefSeq",
+"NM_002524"
+],
+[
+"UniProt",
+"P01111"
+]
+]
+}
+]
+},
+{
+"label": "RASA4",
+"class": "Macromolecule",
+"box": [
+267.0,
+238.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Ras GTPase-activating protein 4"
+],
+[
+"Alternative names",
+"Calcium-promoted Ras inactivator; Ras p21 protein activator 4; RasGAP-activating-like protein 2"
+],
+[
+"Function",
+"Ca(2+)-dependent Ras GTPase-activating protein, that switches off the Ras-MAPK pathway following a stimulus that elevates intracellular calcium. Functions as an adaptor for Cdc42 and Rac1 during FcR-mediated phagocytosis"
+],
+[
+"Location",
+"Cytoplasm, cytosol, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:23181"
+],
+[
+"HGNC symbol",
+"RASA4"
+],
+[
+"Alias symbols",
+"KIAA0538, CAPRI, GAPL"
+],
+[
+"Entrez",
+"10156"
+],
+[
+"Ensembl",
+"ENSG00000105808"
+],
+[
+"RefSeq",
+"NM_006989"
+],
+[
+"UniProt",
+"O43374"
+]
+]
+}
+]
+}

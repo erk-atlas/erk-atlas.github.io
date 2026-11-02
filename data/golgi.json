@@ -81,9 +81,9 @@
 "references": [
 {
 "authors": "Torii S et al.",
-"year": "2004",
-"title": "Sef is a spatial regulator for Ras/MAP kinase signaling.",
 "journal": "Dev Cell",
+"title": "Sef is a spatial regulator for Ras/MAP kinase signaling.",
+"year": "2004",
 "db": "pubmed",
 "id": "15239952"
 }
@@ -477,9 +477,9 @@
 "references": [
 {
 "authors": "Feng L et al.",
-"year": "2007",
-"title": "Spatial regulation of Raf kinase signaling by RKTG.",
 "journal": "Proc Natl Acad Sci U S A",
+"title": "Spatial regulation of Raf kinase signaling by RKTG.",
+"year": "2007",
 "db": "pubmed",
 "id": "17724343"
 }

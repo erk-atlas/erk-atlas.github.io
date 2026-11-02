@@ -432,6 +432,87 @@
 "hasText": true
 },
 {
+"id": "ras-golgi",
+"title": "RAS by membrane: the Golgi and the plasma membrane",
+"topic": "RAS by membrane",
+"group": "Spatial",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/ras-golgi.svg",
+"width": 1217.0,
+"height": 1104.0,
+"scale": 1,
+"annotation": "data/ras-golgi.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/ras-golgi.graphml"
+},
+{
+"label": "SVG",
+"url": "files/ras-golgi.svg"
+}
+],
+"data": "data/ras-golgi-text.json",
+"hasText": true
+},
+{
+"id": "mp1",
+"title": "Late endosomes: the MP1-p14-p18 scaffold",
+"topic": "Late endosomes: MP1-p14-p18",
+"group": "Spatial",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/mp1.svg",
+"width": 1506.0,
+"height": 765.0,
+"scale": 1,
+"annotation": "data/mp1.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/mp1.graphml"
+},
+{
+"label": "SVG",
+"url": "files/mp1.svg"
+}
+],
+"data": "data/mp1-text.json",
+"hasText": true
+},
+{
+"id": "arrestin",
+"title": "Beta-arrestin scaffolds ERK on endosomes",
+"topic": "Beta-arrestin on endosomes",
+"group": "Spatial",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/arrestin.svg",
+"width": 2045.0,
+"height": 1150.0,
+"scale": 1,
+"annotation": "data/arrestin.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/arrestin.graphml"
+},
+{
+"label": "SVG",
+"url": "files/arrestin.svg"
+}
+],
+"data": "data/arrestin-text.json",
+"hasText": true
+},
+{
 "id": "raf-feedback",
 "title": "RAF feedback and reset",
 "topic": "RAF feedback and reset",

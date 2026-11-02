@@ -1,0 +1,1380 @@
+{
+"nodes": [
+{
+"id": "p_anchor",
+"label": "",
+"class": "Process",
+"box": [
+403.0,
+465.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"LAMTOR2:LAMTOR3",
+"LAMTOR1"
+],
+"out": [
+"LAMTOR"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Nada S et al.",
+"year": "2009",
+"title": "The novel lipid raft adaptor p18 controls endosome dynamics by anchoring the MEK-ERK pathway to late endosomes.",
+"journal": "EMBO J",
+"db": "pubmed",
+"id": "19177150"
+},
+{
+"authors": "Teis D et al.",
+"year": "2002",
+"title": "Localization of the MP1-MAPK scaffold complex to endosomes is mediated by p14 and required for signal transduction.",
+"journal": "Dev Cell",
+"db": "pubmed",
+"id": "12479806"
+}
+]
+},
+{
+"label": "LAMTOR1",
+"class": "Macromolecule",
+"box": [
+195.0,
+457.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Ragulator complex protein LAMTOR1"
+],
+[
+"Alternative names",
+"Late endosomal/lysosomal adaptor and MAPK and MTOR activator 1; Lipid raft adaptor protein p18; Protein associated with DRMs and endosomes; p27Kip1-releasing factor from RhoA"
+],
+[
+"Function",
+"Key component of the Ragulator complex, a multiprotein complex involved in amino acid sensing and activation of mTORC1, a signaling complex promoting cell growth in response to growth factors, energy levels, and amino acids. Activated by amino acids through a mechanism involving the lysosomal V-ATPase, the Ragulator plays a dual role for the small GTPases Rag (RagA/RRAGA, RagB/RRAGB, RagC/RRAGC and/or RagD/RRAGD): it (1) acts as a guanine nucleotide exchange factor (GEF), activating the small GTPases Rag and (2) mediates recruitment of Rag GTPases to the lysosome membrane."
+],
+[
+"Location",
+"Lysosome membrane, Late endosome membrane"
+],
+[
+"HGNC",
+"HGNC:26068"
+],
+[
+"HGNC symbol",
+"LAMTOR1"
+],
+[
+"Previous symbols",
+"C11orf59"
+],
+[
+"Alias symbols",
+"FLJ20625, p18, p27RF-Rho, Pdro, Ragulator1"
+],
+[
+"Entrez",
+"55004"
+],
+[
+"Ensembl",
+"ENSG00000149357"
+],
+[
+"RefSeq",
+"NM_017907"
+],
+[
+"UniProt",
+"Q6IAA8"
+]
+]
+},
+{
+"label": "LAMTOR3",
+"class": "Macromolecule",
+"box": [
+375.0,
+536.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Ragulator complex protein LAMTOR3"
+],
+[
+"Alternative names",
+"Late endosomal/lysosomal adaptor and MAPK and MTOR activator 3; MEK-binding partner 1; Mitogen-activated protein kinase kinase 1-interacting protein 1; Mitogen-activated protein kinase scaffold protein 1"
+],
+[
+"Function",
+"As part of the Ragulator complex it is involved in amino acid sensing and activation of mTORC1, a signaling complex promoting cell growth in response to growth factors, energy levels, and amino acids. Activated by amino acids through a mechanism involving the lysosomal V-ATPase, the Ragulator plays a dual role for the small GTPases Rag (RagA/RRAGA, RagB/RRAGB, RagC/RRAGC and/or RagD/RRAGD): it (1) acts as a guanine nucleotide exchange factor (GEF), activating the small GTPases Rag and (2) mediates recruitment of Rag GTPases to the lysosome membrane."
+],
+[
+"Location",
+"Late endosome membrane"
+],
+[
+"HGNC",
+"HGNC:15606"
+],
+[
+"HGNC symbol",
+"LAMTOR3"
+],
+[
+"Previous symbols",
+"MAP2K1IP1, MAPKSP1"
+],
+[
+"Alias symbols",
+"MP1, MAPBP, Ragulator3"
+],
+[
+"Entrez",
+"8649"
+],
+[
+"Ensembl",
+"ENSG00000109270"
+],
+[
+"RefSeq",
+"NM_021970"
+],
+[
+"UniProt",
+"Q9UHA4"
+]
+]
+},
+{
+"label": "LAMTOR2",
+"class": "Macromolecule",
+"box": [
+375.0,
+584.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Ragulator complex protein LAMTOR2"
+],
+[
+"Alternative names",
+"Endosomal adaptor protein p14; Late endosomal/lysosomal Mp1-interacting protein; Late endosomal/lysosomal adaptor and MAPK and MTOR activator 2; Mitogen-activated protein-binding protein-interacting protein; Roadblock domain-containing protein 3"
+],
+[
+"Function",
+"As part of the Ragulator complex it is involved in amino acid sensing and activation of mTORC1, a signaling complex promoting cell growth in response to growth factors, energy levels, and amino acids. Activated by amino acids through a mechanism involving the lysosomal V-ATPase, the Ragulator plays a dual role for the small GTPases Rag (RagA/RRAGA, RagB/RRAGB, RagC/RRAGC and/or RagD/RRAGD): it (1) acts as a guanine nucleotide exchange factor (GEF), activating the small GTPases Rag and (2) mediates recruitment of Rag GTPases to the lysosome membrane."
+],
+[
+"Location",
+"Late endosome membrane, Lysosome membrane"
+],
+[
+"HGNC",
+"HGNC:29796"
+],
+[
+"HGNC symbol",
+"LAMTOR2"
+],
+[
+"Previous symbols",
+"ROBLD3"
+],
+[
+"Alias symbols",
+"MAPBPIP, MAPKSP1AP, p14, ENDAP, Ragulator2"
+],
+[
+"Entrez",
+"28956"
+],
+[
+"Ensembl",
+"ENSG00000116586"
+],
+[
+"RefSeq",
+"NM_014017"
+],
+[
+"UniProt",
+"Q9Y2Q5"
+]
+]
+},
+{
+"label": "LAMTOR1",
+"class": "Macromolecule",
+"box": [
+375.0,
+632.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Ragulator complex protein LAMTOR1"
+],
+[
+"Alternative names",
+"Late endosomal/lysosomal adaptor and MAPK and MTOR activator 1; Lipid raft adaptor protein p18; Protein associated with DRMs and endosomes; p27Kip1-releasing factor from RhoA"
+],
+[
+"Function",
+"Key component of the Ragulator complex, a multiprotein complex involved in amino acid sensing and activation of mTORC1, a signaling complex promoting cell growth in response to growth factors, energy levels, and amino acids. Activated by amino acids through a mechanism involving the lysosomal V-ATPase, the Ragulator plays a dual role for the small GTPases Rag (RagA/RRAGA, RagB/RRAGB, RagC/RRAGC and/or RagD/RRAGD): it (1) acts as a guanine nucleotide exchange factor (GEF), activating the small GTPases Rag and (2) mediates recruitment of Rag GTPases to the lysosome membrane."
+],
+[
+"Location",
+"Lysosome membrane, Late endosome membrane"
+],
+[
+"HGNC",
+"HGNC:26068"
+],
+[
+"HGNC symbol",
+"LAMTOR1"
+],
+[
+"Previous symbols",
+"C11orf59"
+],
+[
+"Alias symbols",
+"FLJ20625, p18, p27RF-Rho, Pdro, Ragulator1"
+],
+[
+"Entrez",
+"55004"
+],
+[
+"Ensembl",
+"ENSG00000149357"
+],
+[
+"RefSeq",
+"NM_017907"
+],
+[
+"UniProt",
+"Q6IAA8"
+]
+]
+},
+{
+"id": "p_dock",
+"label": "",
+"class": "Process",
+"box": [
+623.0,
+603.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"LAMTOR",
+"MEK1",
+"ERK1"
+],
+"out": [
+"LAMTOR:MEK1:ERK1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Schaeffer HJ et al.",
+"year": "1998",
+"title": "MP1: a MEK binding partner that enhances enzymatic activation of the MAP kinase cascade.",
+"journal": "Science",
+"db": "pubmed",
+"id": "9733512"
+},
+{
+"authors": "Kurzbauer R et al.",
+"year": "2004",
+"title": "Crystal structure of the p14/MP1 scaffolding complex: how a twin couple attaches mitogen-activated protein kinase signaling to late endosomes.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "15263099"
+},
+{
+"authors": "Wunderlich W et al.",
+"year": "2001",
+"title": "A novel 14-kilodalton protein interacts with the mitogen-activated protein kinase scaffold mp1 on a late endosomal/lysosomal compartment.",
+"journal": "J Cell Biol",
+"db": "pubmed",
+"id": "11266467"
+}
+]
+},
+{
+"label": "LAMTOR3",
+"class": "Macromolecule",
+"box": [
+791.0,
+536.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Ragulator complex protein LAMTOR3"
+],
+[
+"Alternative names",
+"Late endosomal/lysosomal adaptor and MAPK and MTOR activator 3; MEK-binding partner 1; Mitogen-activated protein kinase kinase 1-interacting protein 1; Mitogen-activated protein kinase scaffold protein 1"
+],
+[
+"Function",
+"As part of the Ragulator complex it is involved in amino acid sensing and activation of mTORC1, a signaling complex promoting cell growth in response to growth factors, energy levels, and amino acids. Activated by amino acids through a mechanism involving the lysosomal V-ATPase, the Ragulator plays a dual role for the small GTPases Rag (RagA/RRAGA, RagB/RRAGB, RagC/RRAGC and/or RagD/RRAGD): it (1) acts as a guanine nucleotide exchange factor (GEF), activating the small GTPases Rag and (2) mediates recruitment of Rag GTPases to the lysosome membrane."
+],
+[
+"Location",
+"Late endosome membrane"
+],
+[
+"HGNC",
+"HGNC:15606"
+],
+[
+"HGNC symbol",
+"LAMTOR3"
+],
+[
+"Previous symbols",
+"MAP2K1IP1, MAPKSP1"
+],
+[
+"Alias symbols",
+"MP1, MAPBP, Ragulator3"
+],
+[
+"Entrez",
+"8649"
+],
+[
+"Ensembl",
+"ENSG00000109270"
+],
+[
+"RefSeq",
+"NM_021970"
+],
+[
+"UniProt",
+"Q9UHA4"
+]
+]
+},
+{
+"label": "LAMTOR2",
+"class": "Macromolecule",
+"box": [
+791.0,
+584.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Ragulator complex protein LAMTOR2"
+],
+[
+"Alternative names",
+"Endosomal adaptor protein p14; Late endosomal/lysosomal Mp1-interacting protein; Late endosomal/lysosomal adaptor and MAPK and MTOR activator 2; Mitogen-activated protein-binding protein-interacting protein; Roadblock domain-containing protein 3"
+],
+[
+"Function",
+"As part of the Ragulator complex it is involved in amino acid sensing and activation of mTORC1, a signaling complex promoting cell growth in response to growth factors, energy levels, and amino acids. Activated by amino acids through a mechanism involving the lysosomal V-ATPase, the Ragulator plays a dual role for the small GTPases Rag (RagA/RRAGA, RagB/RRAGB, RagC/RRAGC and/or RagD/RRAGD): it (1) acts as a guanine nucleotide exchange factor (GEF), activating the small GTPases Rag and (2) mediates recruitment of Rag GTPases to the lysosome membrane."
+],
+[
+"Location",
+"Late endosome membrane, Lysosome membrane"
+],
+[
+"HGNC",
+"HGNC:29796"
+],
+[
+"HGNC symbol",
+"LAMTOR2"
+],
+[
+"Previous symbols",
+"ROBLD3"
+],
+[
+"Alias symbols",
+"MAPBPIP, MAPKSP1AP, p14, ENDAP, Ragulator2"
+],
+[
+"Entrez",
+"28956"
+],
+[
+"Ensembl",
+"ENSG00000116586"
+],
+[
+"RefSeq",
+"NM_014017"
+],
+[
+"UniProt",
+"Q9Y2Q5"
+]
+]
+},
+{
+"label": "LAMTOR1",
+"class": "Macromolecule",
+"box": [
+791.0,
+632.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Ragulator complex protein LAMTOR1"
+],
+[
+"Alternative names",
+"Late endosomal/lysosomal adaptor and MAPK and MTOR activator 1; Lipid raft adaptor protein p18; Protein associated with DRMs and endosomes; p27Kip1-releasing factor from RhoA"
+],
+[
+"Function",
+"Key component of the Ragulator complex, a multiprotein complex involved in amino acid sensing and activation of mTORC1, a signaling complex promoting cell growth in response to growth factors, energy levels, and amino acids. Activated by amino acids through a mechanism involving the lysosomal V-ATPase, the Ragulator plays a dual role for the small GTPases Rag (RagA/RRAGA, RagB/RRAGB, RagC/RRAGC and/or RagD/RRAGD): it (1) acts as a guanine nucleotide exchange factor (GEF), activating the small GTPases Rag and (2) mediates recruitment of Rag GTPases to the lysosome membrane."
+],
+[
+"Location",
+"Lysosome membrane, Late endosome membrane"
+],
+[
+"HGNC",
+"HGNC:26068"
+],
+[
+"HGNC symbol",
+"LAMTOR1"
+],
+[
+"Previous symbols",
+"C11orf59"
+],
+[
+"Alias symbols",
+"FLJ20625, p18, p27RF-Rho, Pdro, Ragulator1"
+],
+[
+"Entrez",
+"55004"
+],
+[
+"Ensembl",
+"ENSG00000149357"
+],
+[
+"RefSeq",
+"NM_017907"
+],
+[
+"UniProt",
+"Q6IAA8"
+]
+]
+},
+{
+"label": "MEK1",
+"class": "Macromolecule",
+"box": [
+879.0,
+536.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 1"
+],
+[
+"Alternative names",
+"ERK activator kinase 1; MAPK/ERK kinase 1"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Binding of extracellular ligands such as growth factors, cytokines and hormones to their cell-surface receptors activates RAS and this initiates RAF1 activation."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, microtubule organizing center, spindle pole body, Cytoplasm, Nucleus, Membrane"
+],
+[
+"HGNC",
+"HGNC:6840"
+],
+[
+"HGNC symbol",
+"MAP2K1"
+],
+[
+"Previous symbols",
+"PRKMK1"
+],
+[
+"Alias symbols",
+"MEK1, MAPKK1, MKK1"
+],
+[
+"Entrez",
+"5604"
+],
+[
+"Ensembl",
+"ENSG00000169032"
+],
+[
+"RefSeq",
+"NM_001411065"
+],
+[
+"UniProt",
+"Q02750"
+]
+]
+},
+{
+"label": "ERK1",
+"class": "Macromolecule",
+"box": [
+879.0,
+593.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"id": "p_act",
+"label": "",
+"class": "Process",
+"box": [
+1103.0,
+603.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"LAMTOR:MEK1:ERK1"
+],
+"out": [
+"LAMTOR:MEK1:ERK1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Schaeffer HJ et al.",
+"year": "1998",
+"title": "MP1: a MEK binding partner that enhances enzymatic activation of the MAP kinase cascade.",
+"journal": "Science",
+"db": "pubmed",
+"id": "9733512"
+},
+{
+"authors": "Teis D et al.",
+"year": "2002",
+"title": "Localization of the MP1-MAPK scaffold complex to endosomes is mediated by p14 and required for signal transduction.",
+"journal": "Dev Cell",
+"db": "pubmed",
+"id": "12479806"
+},
+{
+"authors": "Teis D et al.",
+"year": "2006",
+"title": "p14-MP1-MEK1 signaling regulates endosomal traffic and cellular proliferation during tissue homeostasis.",
+"journal": "J Cell Biol",
+"db": "pubmed",
+"id": "17178906"
+}
+]
+},
+{
+"label": "LAMTOR3",
+"class": "Macromolecule",
+"box": [
+1271.0,
+536.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Ragulator complex protein LAMTOR3"
+],
+[
+"Alternative names",
+"Late endosomal/lysosomal adaptor and MAPK and MTOR activator 3; MEK-binding partner 1; Mitogen-activated protein kinase kinase 1-interacting protein 1; Mitogen-activated protein kinase scaffold protein 1"
+],
+[
+"Function",
+"As part of the Ragulator complex it is involved in amino acid sensing and activation of mTORC1, a signaling complex promoting cell growth in response to growth factors, energy levels, and amino acids. Activated by amino acids through a mechanism involving the lysosomal V-ATPase, the Ragulator plays a dual role for the small GTPases Rag (RagA/RRAGA, RagB/RRAGB, RagC/RRAGC and/or RagD/RRAGD): it (1) acts as a guanine nucleotide exchange factor (GEF), activating the small GTPases Rag and (2) mediates recruitment of Rag GTPases to the lysosome membrane."
+],
+[
+"Location",
+"Late endosome membrane"
+],
+[
+"HGNC",
+"HGNC:15606"
+],
+[
+"HGNC symbol",
+"LAMTOR3"
+],
+[
+"Previous symbols",
+"MAP2K1IP1, MAPKSP1"
+],
+[
+"Alias symbols",
+"MP1, MAPBP, Ragulator3"
+],
+[
+"Entrez",
+"8649"
+],
+[
+"Ensembl",
+"ENSG00000109270"
+],
+[
+"RefSeq",
+"NM_021970"
+],
+[
+"UniProt",
+"Q9UHA4"
+]
+]
+},
+{
+"label": "LAMTOR2",
+"class": "Macromolecule",
+"box": [
+1271.0,
+584.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Ragulator complex protein LAMTOR2"
+],
+[
+"Alternative names",
+"Endosomal adaptor protein p14; Late endosomal/lysosomal Mp1-interacting protein; Late endosomal/lysosomal adaptor and MAPK and MTOR activator 2; Mitogen-activated protein-binding protein-interacting protein; Roadblock domain-containing protein 3"
+],
+[
+"Function",
+"As part of the Ragulator complex it is involved in amino acid sensing and activation of mTORC1, a signaling complex promoting cell growth in response to growth factors, energy levels, and amino acids. Activated by amino acids through a mechanism involving the lysosomal V-ATPase, the Ragulator plays a dual role for the small GTPases Rag (RagA/RRAGA, RagB/RRAGB, RagC/RRAGC and/or RagD/RRAGD): it (1) acts as a guanine nucleotide exchange factor (GEF), activating the small GTPases Rag and (2) mediates recruitment of Rag GTPases to the lysosome membrane."
+],
+[
+"Location",
+"Late endosome membrane, Lysosome membrane"
+],
+[
+"HGNC",
+"HGNC:29796"
+],
+[
+"HGNC symbol",
+"LAMTOR2"
+],
+[
+"Previous symbols",
+"ROBLD3"
+],
+[
+"Alias symbols",
+"MAPBPIP, MAPKSP1AP, p14, ENDAP, Ragulator2"
+],
+[
+"Entrez",
+"28956"
+],
+[
+"Ensembl",
+"ENSG00000116586"
+],
+[
+"RefSeq",
+"NM_014017"
+],
+[
+"UniProt",
+"Q9Y2Q5"
+]
+]
+},
+{
+"label": "LAMTOR1",
+"class": "Macromolecule",
+"box": [
+1271.0,
+632.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Ragulator complex protein LAMTOR1"
+],
+[
+"Alternative names",
+"Late endosomal/lysosomal adaptor and MAPK and MTOR activator 1; Lipid raft adaptor protein p18; Protein associated with DRMs and endosomes; p27Kip1-releasing factor from RhoA"
+],
+[
+"Function",
+"Key component of the Ragulator complex, a multiprotein complex involved in amino acid sensing and activation of mTORC1, a signaling complex promoting cell growth in response to growth factors, energy levels, and amino acids. Activated by amino acids through a mechanism involving the lysosomal V-ATPase, the Ragulator plays a dual role for the small GTPases Rag (RagA/RRAGA, RagB/RRAGB, RagC/RRAGC and/or RagD/RRAGD): it (1) acts as a guanine nucleotide exchange factor (GEF), activating the small GTPases Rag and (2) mediates recruitment of Rag GTPases to the lysosome membrane."
+],
+[
+"Location",
+"Lysosome membrane, Late endosome membrane"
+],
+[
+"HGNC",
+"HGNC:26068"
+],
+[
+"HGNC symbol",
+"LAMTOR1"
+],
+[
+"Previous symbols",
+"C11orf59"
+],
+[
+"Alias symbols",
+"FLJ20625, p18, p27RF-Rho, Pdro, Ragulator1"
+],
+[
+"Entrez",
+"55004"
+],
+[
+"Ensembl",
+"ENSG00000149357"
+],
+[
+"RefSeq",
+"NM_017907"
+],
+[
+"UniProt",
+"Q6IAA8"
+]
+]
+},
+{
+"label": "MEK1",
+"class": "Macromolecule",
+"box": [
+1359.0,
+536.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 1"
+],
+[
+"Alternative names",
+"ERK activator kinase 1; MAPK/ERK kinase 1"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Binding of extracellular ligands such as growth factors, cytokines and hormones to their cell-surface receptors activates RAS and this initiates RAF1 activation."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, microtubule organizing center, spindle pole body, Cytoplasm, Nucleus, Membrane"
+],
+[
+"HGNC",
+"HGNC:6840"
+],
+[
+"HGNC symbol",
+"MAP2K1"
+],
+[
+"Previous symbols",
+"PRKMK1"
+],
+[
+"Alias symbols",
+"MEK1, MAPKK1, MKK1"
+],
+[
+"Entrez",
+"5604"
+],
+[
+"Ensembl",
+"ENSG00000169032"
+],
+[
+"RefSeq",
+"NM_001411065"
+],
+[
+"UniProt",
+"Q02750"
+]
+]
+},
+{
+"label": "ERK1",
+"class": "Macromolecule",
+"box": [
+1359.0,
+593.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"label": "LAMTOR3",
+"class": "Macromolecule",
+"box": [
+55.0,
+187.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Ragulator complex protein LAMTOR3"
+],
+[
+"Alternative names",
+"Late endosomal/lysosomal adaptor and MAPK and MTOR activator 3; MEK-binding partner 1; Mitogen-activated protein kinase kinase 1-interacting protein 1; Mitogen-activated protein kinase scaffold protein 1"
+],
+[
+"Function",
+"As part of the Ragulator complex it is involved in amino acid sensing and activation of mTORC1, a signaling complex promoting cell growth in response to growth factors, energy levels, and amino acids. Activated by amino acids through a mechanism involving the lysosomal V-ATPase, the Ragulator plays a dual role for the small GTPases Rag (RagA/RRAGA, RagB/RRAGB, RagC/RRAGC and/or RagD/RRAGD): it (1) acts as a guanine nucleotide exchange factor (GEF), activating the small GTPases Rag and (2) mediates recruitment of Rag GTPases to the lysosome membrane."
+],
+[
+"Location",
+"Late endosome membrane"
+],
+[
+"HGNC",
+"HGNC:15606"
+],
+[
+"HGNC symbol",
+"LAMTOR3"
+],
+[
+"Previous symbols",
+"MAP2K1IP1, MAPKSP1"
+],
+[
+"Alias symbols",
+"MP1, MAPBP, Ragulator3"
+],
+[
+"Entrez",
+"8649"
+],
+[
+"Ensembl",
+"ENSG00000109270"
+],
+[
+"RefSeq",
+"NM_021970"
+],
+[
+"UniProt",
+"Q9UHA4"
+]
+]
+},
+{
+"id": "p_pair",
+"label": "",
+"class": "Process",
+"box": [
+243.0,
+195.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"LAMTOR3",
+"LAMTOR2"
+],
+"out": [
+"LAMTOR2:LAMTOR3"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Wunderlich W et al.",
+"year": "2001",
+"title": "A novel 14-kilodalton protein interacts with the mitogen-activated protein kinase scaffold mp1 on a late endosomal/lysosomal compartment.",
+"journal": "J Cell Biol",
+"db": "pubmed",
+"id": "11266467"
+},
+{
+"authors": "Kurzbauer R et al.",
+"year": "2004",
+"title": "Crystal structure of the p14/MP1 scaffolding complex: how a twin couple attaches mitogen-activated protein kinase signaling to late endosomes.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "15263099"
+}
+]
+},
+{
+"label": "LAMTOR2",
+"class": "Macromolecule",
+"box": [
+215.0,
+67.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Ragulator complex protein LAMTOR2"
+],
+[
+"Alternative names",
+"Endosomal adaptor protein p14; Late endosomal/lysosomal Mp1-interacting protein; Late endosomal/lysosomal adaptor and MAPK and MTOR activator 2; Mitogen-activated protein-binding protein-interacting protein; Roadblock domain-containing protein 3"
+],
+[
+"Function",
+"As part of the Ragulator complex it is involved in amino acid sensing and activation of mTORC1, a signaling complex promoting cell growth in response to growth factors, energy levels, and amino acids. Activated by amino acids through a mechanism involving the lysosomal V-ATPase, the Ragulator plays a dual role for the small GTPases Rag (RagA/RRAGA, RagB/RRAGB, RagC/RRAGC and/or RagD/RRAGD): it (1) acts as a guanine nucleotide exchange factor (GEF), activating the small GTPases Rag and (2) mediates recruitment of Rag GTPases to the lysosome membrane."
+],
+[
+"Location",
+"Late endosome membrane, Lysosome membrane"
+],
+[
+"HGNC",
+"HGNC:29796"
+],
+[
+"HGNC symbol",
+"LAMTOR2"
+],
+[
+"Previous symbols",
+"ROBLD3"
+],
+[
+"Alias symbols",
+"MAPBPIP, MAPKSP1AP, p14, ENDAP, Ragulator2"
+],
+[
+"Entrez",
+"28956"
+],
+[
+"Ensembl",
+"ENSG00000116586"
+],
+[
+"RefSeq",
+"NM_014017"
+],
+[
+"UniProt",
+"Q9Y2Q5"
+]
+]
+},
+{
+"label": "LAMTOR3",
+"class": "Macromolecule",
+"box": [
+375.0,
+144.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Ragulator complex protein LAMTOR3"
+],
+[
+"Alternative names",
+"Late endosomal/lysosomal adaptor and MAPK and MTOR activator 3; MEK-binding partner 1; Mitogen-activated protein kinase kinase 1-interacting protein 1; Mitogen-activated protein kinase scaffold protein 1"
+],
+[
+"Function",
+"As part of the Ragulator complex it is involved in amino acid sensing and activation of mTORC1, a signaling complex promoting cell growth in response to growth factors, energy levels, and amino acids. Activated by amino acids through a mechanism involving the lysosomal V-ATPase, the Ragulator plays a dual role for the small GTPases Rag (RagA/RRAGA, RagB/RRAGB, RagC/RRAGC and/or RagD/RRAGD): it (1) acts as a guanine nucleotide exchange factor (GEF), activating the small GTPases Rag and (2) mediates recruitment of Rag GTPases to the lysosome membrane."
+],
+[
+"Location",
+"Late endosome membrane"
+],
+[
+"HGNC",
+"HGNC:15606"
+],
+[
+"HGNC symbol",
+"LAMTOR3"
+],
+[
+"Previous symbols",
+"MAP2K1IP1, MAPKSP1"
+],
+[
+"Alias symbols",
+"MP1, MAPBP, Ragulator3"
+],
+[
+"Entrez",
+"8649"
+],
+[
+"Ensembl",
+"ENSG00000109270"
+],
+[
+"RefSeq",
+"NM_021970"
+],
+[
+"UniProt",
+"Q9UHA4"
+]
+]
+},
+{
+"label": "LAMTOR2",
+"class": "Macromolecule",
+"box": [
+375.0,
+192.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Ragulator complex protein LAMTOR2"
+],
+[
+"Alternative names",
+"Endosomal adaptor protein p14; Late endosomal/lysosomal Mp1-interacting protein; Late endosomal/lysosomal adaptor and MAPK and MTOR activator 2; Mitogen-activated protein-binding protein-interacting protein; Roadblock domain-containing protein 3"
+],
+[
+"Function",
+"As part of the Ragulator complex it is involved in amino acid sensing and activation of mTORC1, a signaling complex promoting cell growth in response to growth factors, energy levels, and amino acids. Activated by amino acids through a mechanism involving the lysosomal V-ATPase, the Ragulator plays a dual role for the small GTPases Rag (RagA/RRAGA, RagB/RRAGB, RagC/RRAGC and/or RagD/RRAGD): it (1) acts as a guanine nucleotide exchange factor (GEF), activating the small GTPases Rag and (2) mediates recruitment of Rag GTPases to the lysosome membrane."
+],
+[
+"Location",
+"Late endosome membrane, Lysosome membrane"
+],
+[
+"HGNC",
+"HGNC:29796"
+],
+[
+"HGNC symbol",
+"LAMTOR2"
+],
+[
+"Previous symbols",
+"ROBLD3"
+],
+[
+"Alias symbols",
+"MAPBPIP, MAPKSP1AP, p14, ENDAP, Ragulator2"
+],
+[
+"Entrez",
+"28956"
+],
+[
+"Ensembl",
+"ENSG00000116586"
+],
+[
+"RefSeq",
+"NM_014017"
+],
+[
+"UniProt",
+"Q9Y2Q5"
+]
+]
+},
+{
+"label": "MEK1",
+"class": "Macromolecule",
+"box": [
+535.0,
+307.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 1"
+],
+[
+"Alternative names",
+"ERK activator kinase 1; MAPK/ERK kinase 1"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Binding of extracellular ligands such as growth factors, cytokines and hormones to their cell-surface receptors activates RAS and this initiates RAF1 activation."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, microtubule organizing center, spindle pole body, Cytoplasm, Nucleus, Membrane"
+],
+[
+"HGNC",
+"HGNC:6840"
+],
+[
+"HGNC symbol",
+"MAP2K1"
+],
+[
+"Previous symbols",
+"PRKMK1"
+],
+[
+"Alias symbols",
+"MEK1, MAPKK1, MKK1"
+],
+[
+"Entrez",
+"5604"
+],
+[
+"Ensembl",
+"ENSG00000169032"
+],
+[
+"RefSeq",
+"NM_001411065"
+],
+[
+"UniProt",
+"Q02750"
+]
+]
+},
+{
+"label": "ERK1",
+"class": "Macromolecule",
+"box": [
+655.0,
+307.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+}
+]
+}

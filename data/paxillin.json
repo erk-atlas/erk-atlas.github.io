@@ -72,9 +72,9 @@
 "references": [
 {
 "authors": "Ishibe S et al.",
-"year": "2003",
-"title": "Phosphorylation-dependent paxillin-ERK association mediates hepatocyte growth factor-stimulated epithelial morphogenesis.",
 "journal": "Mol Cell",
+"title": "Phosphorylation-dependent paxillin-ERK association mediates hepatocyte growth factor-stimulated epithelial morphogenesis.",
+"year": "2003",
 "db": "pubmed",
 "id": "14636584"
 }
@@ -281,9 +281,9 @@
 "references": [
 {
 "authors": "Ishibe S et al.",
-"year": "2003",
-"title": "Phosphorylation-dependent paxillin-ERK association mediates hepatocyte growth factor-stimulated epithelial morphogenesis.",
 "journal": "Mol Cell",
+"title": "Phosphorylation-dependent paxillin-ERK association mediates hepatocyte growth factor-stimulated epithelial morphogenesis.",
+"year": "2003",
 "db": "pubmed",
 "id": "14636584"
 }
@@ -785,9 +785,9 @@
 "references": [
 {
 "authors": "Ishibe S et al.",
-"year": "2003",
-"title": "Phosphorylation-dependent paxillin-ERK association mediates hepatocyte growth factor-stimulated epithelial morphogenesis.",
 "journal": "Mol Cell",
+"title": "Phosphorylation-dependent paxillin-ERK association mediates hepatocyte growth factor-stimulated epithelial morphogenesis.",
+"year": "2003",
 "db": "pubmed",
 "id": "14636584"
 }
@@ -1289,17 +1289,17 @@
 "references": [
 {
 "authors": "Ishibe S et al.",
-"year": "2004",
-"title": "Paxillin serves as an ERK-regulated scaffold for coordinating FAK and Rac activation in epithelial morphogenesis.",
 "journal": "Mol Cell",
+"title": "Paxillin serves as an ERK-regulated scaffold for coordinating FAK and Rac activation in epithelial morphogenesis.",
+"year": "2004",
 "db": "pubmed",
 "id": "15494312"
 },
 {
 "authors": "Sen A et al.",
-"year": "2010",
-"title": "Paxillin regulates androgen- and epidermal growth factor-induced MAPK signaling and cell proliferation in prostate cancer cells.",
 "journal": "J Biol Chem",
+"title": "Paxillin regulates androgen- and epidermal growth factor-induced MAPK signaling and cell proliferation in prostate cancer cells.",
+"year": "2010",
 "db": "pubmed",
 "id": "20628053"
 }
@@ -1802,9 +1802,9 @@
 "references": [
 {
 "authors": "Ishibe S et al.",
-"year": "2004",
-"title": "Paxillin serves as an ERK-regulated scaffold for coordinating FAK and Rac activation in epithelial morphogenesis.",
 "journal": "Mol Cell",
+"title": "Paxillin serves as an ERK-regulated scaffold for coordinating FAK and Rac activation in epithelial morphogenesis.",
+"year": "2004",
 "db": "pubmed",
 "id": "15494312"
 }
@@ -2414,6 +2414,10 @@
 },
 "references": [
 {
+"authors": "Yin G et al.",
+"year": "2005",
+"title": "GIT1 is a scaffold for ERK1/2 activation in focal adhesions.",
+"journal": "J Biol Chem",
 "db": "pubmed",
 "id": "15923189"
 }
