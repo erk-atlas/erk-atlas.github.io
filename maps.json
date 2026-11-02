@@ -135,6 +135,60 @@
 "hasText": true
 },
 {
+"id": "erk-nucleus",
+"title": "ERK enters the nucleus, through the pore",
+"topic": "ERK enters the nucleus",
+"group": "Core",
+"kind": null,
+"tag": "new",
+"tab": "through the pore",
+"image": "files/erk-nucleus.svg",
+"width": 590.0,
+"height": 275.0,
+"scale": 1,
+"annotation": "data/erk-nucleus.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/erk-nucleus.graphml"
+},
+{
+"label": "SVG",
+"url": "files/erk-nucleus.svg"
+}
+],
+"data": "data/erk-nucleus-text.json",
+"hasText": true
+},
+{
+"id": "erk-nucleus-nts",
+"title": "ERK enters the nucleus, importin 7 route",
+"topic": "ERK enters the nucleus",
+"group": "Core",
+"kind": null,
+"tag": "new",
+"tab": "importin 7 route",
+"image": "files/erk-nucleus-nts.svg",
+"width": 950.0,
+"height": 302.0,
+"scale": 1,
+"annotation": "data/erk-nucleus-nts.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/erk-nucleus-nts.graphml"
+},
+{
+"label": "SVG",
+"url": "files/erk-nucleus-nts.svg"
+}
+],
+"data": "data/erk-nucleus-nts-text.json",
+"hasText": true
+},
+{
 "id": "ksr1-scaffold",
 "title": "KSR1 scaffold, scaffold model",
 "topic": "KSR1 scaffold (pilot)",
