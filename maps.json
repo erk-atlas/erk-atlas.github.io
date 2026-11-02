@@ -1,5 +1,113 @@
 [
 {
+"id": "core",
+"title": "Core cascade, composed from the modules",
+"topic": "Core cascade (composed)",
+"group": "Core",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/core.svg",
+"width": 1710.0,
+"height": 854.0,
+"scale": 1,
+"annotation": "data/core.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/core.graphml"
+},
+{
+"label": "SVG",
+"url": "files/core.svg"
+}
+],
+"data": "data/core-text.json",
+"hasText": true
+},
+{
+"id": "ras-cycle",
+"title": "RAS cycle",
+"topic": "RAS cycle",
+"group": "Core",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/ras-cycle.svg",
+"width": 478.0,
+"height": 366.0,
+"scale": 1,
+"annotation": "data/ras-cycle.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/ras-cycle.graphml"
+},
+{
+"label": "SVG",
+"url": "files/ras-cycle.svg"
+}
+],
+"data": "data/ras-cycle-text.json",
+"hasText": true
+},
+{
+"id": "raf-activation",
+"title": "RAF activation",
+"topic": "RAF activation",
+"group": "Core",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/raf-activation.svg",
+"width": 1157.0,
+"height": 731.0,
+"scale": 1,
+"annotation": "data/raf-activation.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/raf-activation.graphml"
+},
+{
+"label": "SVG",
+"url": "files/raf-activation.svg"
+}
+],
+"data": "data/raf-activation-text.json",
+"hasText": true
+},
+{
+"id": "raf-mek",
+"title": "RAF activates MEK",
+"topic": "RAF activates MEK",
+"group": "Core",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/raf-mek.svg",
+"width": 382.0,
+"height": 675.0,
+"scale": 1,
+"annotation": "data/raf-mek.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/raf-mek.graphml"
+},
+{
+"label": "SVG",
+"url": "files/raf-mek.svg"
+}
+],
+"data": "data/raf-mek-text.json",
+"hasText": true
+},
+{
 "id": "erk-activation",
 "title": "ERK activation by MEK",
 "topic": "ERK activation by MEK",
