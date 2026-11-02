@@ -621,6 +621,33 @@
 "hasText": true
 },
 {
+"id": "sprouty",
+"title": "Sprouty: the induced brake at the receptor",
+"topic": "Sprouty",
+"group": "Temporal",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/sprouty.svg",
+"width": 1729.0,
+"height": 1384.0,
+"scale": 1,
+"annotation": "data/sprouty.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/sprouty.graphml"
+},
+{
+"label": "SVG",
+"url": "files/sprouty.svg"
+}
+],
+"data": "data/sprouty-text.json",
+"hasText": true
+},
+{
 "id": "sm-canonical-m01",
 "title": "Canonical cascade, generic (2021)",
 "topic": "Canonical cascade (2021)",

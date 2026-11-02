@@ -25,25 +25,25 @@
 "references": [
 {
 "authors": "Ekerot M et al.",
-"year": "2008",
-"title": "Negative-feedback regulation of FGF signalling by DUSP6/MKP-3 is driven by ERK1/2 and mediated by Ets factor binding to a conserved site within the DUSP6/MKP-3 gene promoter.",
 "journal": "Biochem J",
+"title": "Negative-feedback regulation of FGF signalling by DUSP6/MKP-3 is driven by ERK1/2 and mediated by Ets factor binding to a conserved site within the DUSP6/MKP-3 gene promoter.",
+"year": "2008",
 "db": "pubmed",
 "id": "18321244"
 },
 {
 "authors": "Furukawa T et al.",
-"year": "2008",
-"title": "Feedback regulation of DUSP6 transcription responding to MAPK1 via ETS2 in human cells.",
 "journal": "Biochem Biophys Res Commun",
+"title": "Feedback regulation of DUSP6 transcription responding to MAPK1 via ETS2 in human cells.",
+"year": "2008",
 "db": "pubmed",
 "id": "18848526"
 },
 {
 "authors": "Zhang Z et al.",
-"year": "2010",
-"title": "Dual specificity phosphatase 6 (DUSP6) is an ETS-regulated negative feedback mediator of oncogenic ERK signaling in lung cancer cells.",
 "journal": "Carcinogenesis",
+"title": "Dual specificity phosphatase 6 (DUSP6) is an ETS-regulated negative feedback mediator of oncogenic ERK signaling in lung cancer cells.",
+"year": "2010",
 "db": "pubmed",
 "id": "20097731"
 }
@@ -186,9 +186,9 @@
 "references": [
 {
 "authors": "Buffet C et al.",
-"year": "2015",
-"title": "Dual Specificity Phosphatase 5, a Specific Negative Regulator of ERK Signaling, Is Induced by Serum Response Factor and Elk-1 Transcription Factor.",
 "journal": "PLoS One",
+"title": "Dual Specificity Phosphatase 5, a Specific Negative Regulator of ERK Signaling, Is Induced by Serum Response Factor and Elk-1 Transcription Factor.",
+"year": "2015",
 "db": "pubmed",
 "id": "26691724"
 },
@@ -455,17 +455,17 @@
 "references": [
 {
 "authors": "Zhang Z et al.",
-"year": "2010",
-"title": "Dual specificity phosphatase 6 (DUSP6) is an ETS-regulated negative feedback mediator of oncogenic ERK signaling in lung cancer cells.",
 "journal": "Carcinogenesis",
+"title": "Dual specificity phosphatase 6 (DUSP6) is an ETS-regulated negative feedback mediator of oncogenic ERK signaling in lung cancer cells.",
+"year": "2010",
 "db": "pubmed",
 "id": "20097731"
 },
 {
 "authors": "Ekerot M et al.",
-"year": "2008",
-"title": "Negative-feedback regulation of FGF signalling by DUSP6/MKP-3 is driven by ERK1/2 and mediated by Ets factor binding to a conserved site within the DUSP6/MKP-3 gene promoter.",
 "journal": "Biochem J",
+"title": "Negative-feedback regulation of FGF signalling by DUSP6/MKP-3 is driven by ERK1/2 and mediated by Ets factor binding to a conserved site within the DUSP6/MKP-3 gene promoter.",
+"year": "2008",
 "db": "pubmed",
 "id": "18321244"
 }
@@ -840,17 +840,17 @@
 "references": [
 {
 "authors": "Gille H et al.",
-"year": "1995",
-"title": "ERK phosphorylation potentiates Elk-1-mediated ternary complex formation and transactivation.",
 "journal": "EMBO J",
+"title": "ERK phosphorylation potentiates Elk-1-mediated ternary complex formation and transactivation.",
+"year": "1995",
 "db": "pubmed",
 "id": "7889942"
 },
 {
 "authors": "Marais R et al.",
-"year": "1993",
-"title": "The SRF accessory protein Elk-1 contains a growth factor-regulated transcriptional activation domain.",
 "journal": "Cell",
+"title": "The SRF accessory protein Elk-1 contains a growth factor-regulated transcriptional activation domain.",
+"year": "1993",
 "db": "pubmed",
 "id": "8386592"
 }
@@ -1337,9 +1337,9 @@
 "references": [
 {
 "authors": "Marchetti S et al.",
-"year": "2005",
-"title": "Extracellular signal-regulated kinases phosphorylate mitogen-activated protein kinase phosphatase 3/DUSP6 at serines 159 and 197, two sites critical for its proteasomal degradation.",
 "journal": "Mol Cell Biol",
+"title": "Extracellular signal-regulated kinases phosphorylate mitogen-activated protein kinase phosphatase 3/DUSP6 at serines 159 and 197, two sites critical for its proteasomal degradation.",
+"year": "2005",
 "db": "pubmed",
 "id": "15632084"
 }
@@ -1552,9 +1552,9 @@
 "references": [
 {
 "authors": "Marchetti S et al.",
-"year": "2005",
-"title": "Extracellular signal-regulated kinases phosphorylate mitogen-activated protein kinase phosphatase 3/DUSP6 at serines 159 and 197, two sites critical for its proteasomal degradation.",
 "journal": "Mol Cell Biol",
+"title": "Extracellular signal-regulated kinases phosphorylate mitogen-activated protein kinase phosphatase 3/DUSP6 at serines 159 and 197, two sites critical for its proteasomal degradation.",
+"year": "2005",
 "db": "pubmed",
 "id": "15632084"
 }
