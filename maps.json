@@ -135,57 +135,57 @@
 "hasText": true
 },
 {
-"id": "ksr1-v01",
+"id": "ksr1-scaffold",
 "title": "KSR1 scaffold, scaffold model",
 "topic": "KSR1 scaffold (pilot)",
 "group": "Spatial",
 "kind": null,
 "tag": "new",
 "tab": "scaffold model",
-"image": "files/ksr1-v01.svg",
-"width": 1284.0,
+"image": "files/ksr1-scaffold.svg",
+"width": 2047.0,
 "height": 1195.0,
 "scale": 1,
-"annotation": "data/ksr1-v01.json",
+"annotation": "data/ksr1-scaffold.json",
 "imageError": null,
 "downloads": [
 {
 "label": "GraphML",
-"url": "files/ksr1-v01.graphml"
+"url": "files/ksr1-scaffold.graphml"
 },
 {
 "label": "SVG",
-"url": "files/ksr1-v01.svg"
+"url": "files/ksr1-scaffold.svg"
 }
 ],
-"data": "data/ksr1-v01-text.json",
+"data": "data/ksr1-scaffold-text.json",
 "hasText": true
 },
 {
-"id": "ksr1-v02",
+"id": "ksr1-braf",
 "title": "KSR1 scaffold, BRAF model",
 "topic": "KSR1 scaffold (pilot)",
 "group": "Spatial",
 "kind": null,
 "tag": "new",
 "tab": "BRAF model",
-"image": "files/ksr1-v02.svg",
-"width": 921.0,
+"image": "files/ksr1-braf.svg",
+"width": 1647.0,
 "height": 920.0,
 "scale": 1,
-"annotation": "data/ksr1-v02.json",
+"annotation": "data/ksr1-braf.json",
 "imageError": null,
 "downloads": [
 {
 "label": "GraphML",
-"url": "files/ksr1-v02.graphml"
+"url": "files/ksr1-braf.graphml"
 },
 {
 "label": "SVG",
-"url": "files/ksr1-v02.svg"
+"url": "files/ksr1-braf.svg"
 }
 ],
-"data": "data/ksr1-v02-text.json",
+"data": "data/ksr1-braf-text.json",
 "hasText": true
 },
 {
