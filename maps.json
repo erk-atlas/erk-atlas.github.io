@@ -135,6 +135,60 @@
 "hasText": true
 },
 {
+"id": "ksr1-v01",
+"title": "KSR1 scaffold, scaffold model",
+"topic": "KSR1 scaffold (pilot)",
+"group": "Spatial",
+"kind": null,
+"tag": "new",
+"tab": "scaffold model",
+"image": "files/ksr1-v01.svg",
+"width": 1284.0,
+"height": 1195.0,
+"scale": 1,
+"annotation": "data/ksr1-v01.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/ksr1-v01.graphml"
+},
+{
+"label": "SVG",
+"url": "files/ksr1-v01.svg"
+}
+],
+"data": "data/ksr1-v01-text.json",
+"hasText": true
+},
+{
+"id": "ksr1-v02",
+"title": "KSR1 scaffold, BRAF model",
+"topic": "KSR1 scaffold (pilot)",
+"group": "Spatial",
+"kind": null,
+"tag": "new",
+"tab": "BRAF model",
+"image": "files/ksr1-v02.svg",
+"width": 921.0,
+"height": 920.0,
+"scale": 1,
+"annotation": "data/ksr1-v02.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/ksr1-v02.graphml"
+},
+{
+"label": "SVG",
+"url": "files/ksr1-v02.svg"
+}
+],
+"data": "data/ksr1-v02-text.json",
+"hasText": true
+},
+{
 "id": "sm-canonical-m01",
 "title": "Canonical cascade, generic (2021)",
 "topic": "Canonical cascade (2021)",
