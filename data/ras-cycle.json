@@ -5,7 +5,7 @@
 "class": "SimpleChemical",
 "box": [
 79.0,
-124.8,
+328.8,
 40.0,
 40.0
 ],
@@ -45,7 +45,7 @@
 "class": "Macromolecule",
 "box": [
 59.0,
-172.8,
+376.8,
 80.0,
 40.0
 ],
@@ -219,7 +219,7 @@
 "class": "Process",
 "box": [
 227.0,
-155.0,
+359.0,
 24.0,
 24.0
 ],
@@ -232,7 +232,7 @@
 "RAS:GTP"
 ],
 "by": [
-"SOS1"
+"EGFR:GRB2:SOS1"
 ]
 },
 "references": [
@@ -268,7 +268,7 @@
 "class": "Process",
 "box": [
 227.0,
-179.0,
+383.0,
 24.0,
 24.0
 ],
@@ -325,7 +325,7 @@
 "class": "SimpleChemical",
 "box": [
 359.0,
-124.8,
+328.8,
 40.0,
 40.0
 ],
@@ -365,7 +365,7 @@
 "class": "Macromolecule",
 "box": [
 339.0,
-172.8,
+376.8,
 80.0,
 40.0
 ],
@@ -534,11 +534,175 @@
 ]
 },
 {
+"label": "EGF",
+"class": "Macromolecule",
+"box": [
+196.0,
+64.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Pro-epidermal growth factor"
+],
+[
+"Function",
+"EGF stimulates the growth of various epidermal and epithelial tissues in vivo and in vitro and of some fibroblasts in cell culture. Magnesiotropic hormone that stimulates magnesium reabsorption in the renal distal convoluted tubule via engagement of EGFR and activation of the magnesium channel TRPM6."
+],
+[
+"Location",
+"Membrane"
+],
+[
+"HGNC",
+"HGNC:3229"
+],
+[
+"HGNC symbol",
+"EGF"
+],
+[
+"Entrez",
+"1950"
+],
+[
+"Ensembl",
+"ENSG00000138798"
+],
+[
+"RefSeq",
+"NM_001178130"
+],
+[
+"UniProt",
+"P01133"
+]
+]
+},
+{
+"label": "EGFR",
+"class": "Macromolecule",
+"box": [
+196.0,
+126.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Epidermal growth factor receptor"
+],
+[
+"Alternative names",
+"Proto-oncogene c-ErbB-1; Receptor tyrosine-protein kinase erbB-1"
+],
+[
+"Function",
+"Receptor tyrosine kinase binding ligands of the EGF family and activating several signaling cascades to convert extracellular cues into appropriate cellular responses. Known ligands include EGF, TGFA/TGF-alpha, AREG, epigen/EPGN, BTC/betacellulin, epiregulin/EREG and HBEGF/heparin-binding EGF."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Golgi apparatus membrane, Nucleus membrane, Endosome, Endosome membrane, Nucleus, Secreted"
+],
+[
+"HGNC",
+"HGNC:3236"
+],
+[
+"HGNC symbol",
+"EGFR"
+],
+[
+"Previous symbols",
+"ERBB"
+],
+[
+"Alias symbols",
+"ERBB1, ERRP"
+],
+[
+"Entrez",
+"1956"
+],
+[
+"Ensembl",
+"ENSG00000146648"
+],
+[
+"RefSeq",
+"NM_005228"
+],
+[
+"UniProt",
+"P00533"
+]
+]
+},
+{
+"label": "GRB2",
+"class": "Macromolecule",
+"box": [
+196.0,
+183.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Growth factor receptor-bound protein 2"
+],
+[
+"Alternative names",
+"Adapter protein GRB2; Protein Ash; SH2/SH3 adapter GRB2"
+],
+[
+"Function",
+"Non-enzymatic adapter protein that plays a pivotal role in precisely regulated signaling cascades from cell surface receptors to cellular responses, including signaling transduction and gene expression. Thus, participates in many biological processes including regulation of innate and adaptive immunity, autophagy, DNA repair or necroptosis."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Endosome, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:4566"
+],
+[
+"HGNC symbol",
+"GRB2"
+],
+[
+"Alias symbols",
+"NCKAP2"
+],
+[
+"Entrez",
+"2885"
+],
+[
+"Ensembl",
+"ENSG00000177885"
+],
+[
+"RefSeq",
+"NM_002086"
+],
+[
+"UniProt",
+"P62993"
+]
+]
+},
+{
 "label": "SOS1",
 "class": "Macromolecule",
 "box": [
-199.0,
-47.0,
+196.0,
+231.8,
 80.0,
 40.0
 ],
@@ -590,7 +754,7 @@
 "class": "Macromolecule",
 "box": [
 151.0,
-279.0,
+483.0,
 80.0,
 40.0
 ],
@@ -642,7 +806,7 @@
 "class": "Macromolecule",
 "box": [
 247.0,
-279.0,
+483.0,
 80.0,
 40.0
 ],

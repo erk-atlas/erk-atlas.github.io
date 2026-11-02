@@ -8,8 +8,8 @@
 "tag": "new",
 "tab": null,
 "image": "files/core.svg",
-"width": 1838.0,
-"height": 910.0,
+"width": 3086.0,
+"height": 1111.0,
 "scale": 1,
 "annotation": "data/core.json",
 "imageError": null,
@@ -27,6 +27,33 @@
 "hasText": true
 },
 {
+"id": "receptor",
+"title": "Receptor interface: EGF to SOS1 at the membrane",
+"topic": "Receptor interface",
+"group": "Core",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/receptor.svg",
+"width": 1605.0,
+"height": 1111.0,
+"scale": 1,
+"annotation": "data/receptor.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/receptor.graphml"
+},
+{
+"label": "SVG",
+"url": "files/receptor.svg"
+}
+],
+"data": "data/receptor-text.json",
+"hasText": true
+},
+{
 "id": "ras-cycle",
 "title": "RAS cycle",
 "topic": "RAS cycle",
@@ -36,7 +63,7 @@
 "tab": null,
 "image": "files/ras-cycle.svg",
 "width": 478.0,
-"height": 366.0,
+"height": 570.0,
 "scale": 1,
 "annotation": "data/ras-cycle.json",
 "imageError": null,

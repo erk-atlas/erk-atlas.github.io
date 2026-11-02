@@ -1,0 +1,1090 @@
+{
+"nodes": [
+{
+"label": "EGFR",
+"class": "Macromolecule",
+"box": [
+55.0,
+327.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Epidermal growth factor receptor"
+],
+[
+"Alternative names",
+"Proto-oncogene c-ErbB-1; Receptor tyrosine-protein kinase erbB-1"
+],
+[
+"Function",
+"Receptor tyrosine kinase binding ligands of the EGF family and activating several signaling cascades to convert extracellular cues into appropriate cellular responses. Known ligands include EGF, TGFA/TGF-alpha, AREG, epigen/EPGN, BTC/betacellulin, epiregulin/EREG and HBEGF/heparin-binding EGF."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Golgi apparatus membrane, Nucleus membrane, Endosome, Endosome membrane, Nucleus, Secreted"
+],
+[
+"HGNC",
+"HGNC:3236"
+],
+[
+"HGNC symbol",
+"EGFR"
+],
+[
+"Previous symbols",
+"ERBB"
+],
+[
+"Alias symbols",
+"ERBB1, ERRP"
+],
+[
+"Entrez",
+"1956"
+],
+[
+"Ensembl",
+"ENSG00000146648"
+],
+[
+"RefSeq",
+"NM_005228"
+],
+[
+"UniProt",
+"P00533"
+]
+]
+},
+{
+"id": "p_lig",
+"label": "",
+"class": "Process",
+"box": [
+243.0,
+335.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"EGFR",
+"EGF"
+],
+"out": [
+"EGF:EGFR"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ogiso H et al.",
+"year": "2002",
+"title": "Crystal structure of the complex of human epidermal growth factor and receptor extracellular domains.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "12297050"
+}
+]
+},
+{
+"label": "EGF",
+"class": "Macromolecule",
+"box": [
+375.0,
+288.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Pro-epidermal growth factor"
+],
+[
+"Function",
+"EGF stimulates the growth of various epidermal and epithelial tissues in vivo and in vitro and of some fibroblasts in cell culture. Magnesiotropic hormone that stimulates magnesium reabsorption in the renal distal convoluted tubule via engagement of EGFR and activation of the magnesium channel TRPM6."
+],
+[
+"Location",
+"Membrane"
+],
+[
+"HGNC",
+"HGNC:3229"
+],
+[
+"HGNC symbol",
+"EGF"
+],
+[
+"Entrez",
+"1950"
+],
+[
+"Ensembl",
+"ENSG00000138798"
+],
+[
+"RefSeq",
+"NM_001178130"
+],
+[
+"UniProt",
+"P01133"
+]
+]
+},
+{
+"label": "EGFR",
+"class": "Macromolecule",
+"box": [
+375.0,
+336.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Epidermal growth factor receptor"
+],
+[
+"Alternative names",
+"Proto-oncogene c-ErbB-1; Receptor tyrosine-protein kinase erbB-1"
+],
+[
+"Function",
+"Receptor tyrosine kinase binding ligands of the EGF family and activating several signaling cascades to convert extracellular cues into appropriate cellular responses. Known ligands include EGF, TGFA/TGF-alpha, AREG, epigen/EPGN, BTC/betacellulin, epiregulin/EREG and HBEGF/heparin-binding EGF."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Golgi apparatus membrane, Nucleus membrane, Endosome, Endosome membrane, Nucleus, Secreted"
+],
+[
+"HGNC",
+"HGNC:3236"
+],
+[
+"HGNC symbol",
+"EGFR"
+],
+[
+"Previous symbols",
+"ERBB"
+],
+[
+"Alias symbols",
+"ERBB1, ERRP"
+],
+[
+"Entrez",
+"1956"
+],
+[
+"Ensembl",
+"ENSG00000146648"
+],
+[
+"RefSeq",
+"NM_005228"
+],
+[
+"UniProt",
+"P00533"
+]
+]
+},
+{
+"id": "p_dim",
+"label": "",
+"class": "Process",
+"box": [
+563.0,
+335.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"EGF:EGFR"
+],
+"out": [
+"EGF:EGFR dimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ogiso H et al.",
+"year": "2002",
+"title": "Crystal structure of the complex of human epidermal growth factor and receptor extracellular domains.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "12297050"
+}
+]
+},
+{
+"label": "EGF",
+"class": "Macromolecule",
+"box": [
+692.0,
+281.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Pro-epidermal growth factor"
+],
+[
+"Function",
+"EGF stimulates the growth of various epidermal and epithelial tissues in vivo and in vitro and of some fibroblasts in cell culture. Magnesiotropic hormone that stimulates magnesium reabsorption in the renal distal convoluted tubule via engagement of EGFR and activation of the magnesium channel TRPM6."
+],
+[
+"Location",
+"Membrane"
+],
+[
+"HGNC",
+"HGNC:3229"
+],
+[
+"HGNC symbol",
+"EGF"
+],
+[
+"Entrez",
+"1950"
+],
+[
+"Ensembl",
+"ENSG00000138798"
+],
+[
+"RefSeq",
+"NM_001178130"
+],
+[
+"UniProt",
+"P01133"
+]
+]
+},
+{
+"label": "EGFR",
+"class": "Macromolecule",
+"box": [
+692.0,
+343.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Epidermal growth factor receptor"
+],
+[
+"Alternative names",
+"Proto-oncogene c-ErbB-1; Receptor tyrosine-protein kinase erbB-1"
+],
+[
+"Function",
+"Receptor tyrosine kinase binding ligands of the EGF family and activating several signaling cascades to convert extracellular cues into appropriate cellular responses. Known ligands include EGF, TGFA/TGF-alpha, AREG, epigen/EPGN, BTC/betacellulin, epiregulin/EREG and HBEGF/heparin-binding EGF."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Golgi apparatus membrane, Nucleus membrane, Endosome, Endosome membrane, Nucleus, Secreted"
+],
+[
+"HGNC",
+"HGNC:3236"
+],
+[
+"HGNC symbol",
+"EGFR"
+],
+[
+"Previous symbols",
+"ERBB"
+],
+[
+"Alias symbols",
+"ERBB1, ERRP"
+],
+[
+"Entrez",
+"1956"
+],
+[
+"Ensembl",
+"ENSG00000146648"
+],
+[
+"RefSeq",
+"NM_005228"
+],
+[
+"UniProt",
+"P00533"
+]
+]
+},
+{
+"id": "p_ap",
+"label": "",
+"class": "Process",
+"box": [
+883.0,
+335.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"EGF:EGFR dimer"
+],
+"out": [
+"EGF:EGFR dimer"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Batzer AG et al.",
+"year": "1994",
+"title": "Hierarchy of binding sites for Grb2 and Shc on the epidermal growth factor receptor.",
+"journal": "Mol Cell Biol",
+"db": "pubmed",
+"id": "7518560"
+},
+{
+"authors": "Okutani T et al.",
+"year": "1994",
+"title": "Grb2/Ash binds directly to tyrosines 1068 and 1086 and indirectly to tyrosine 1148 of activated human epidermal growth factor receptors in intact cells.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "7527043"
+},
+{
+"authors": "Lowenstein EJ et al.",
+"year": "1992",
+"title": "The SH2 and SH3 domain-containing protein GRB2 links receptor tyrosine kinases to ras signaling.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "1322798"
+}
+]
+},
+{
+"label": "EGF",
+"class": "Macromolecule",
+"box": [
+1012.0,
+281.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Pro-epidermal growth factor"
+],
+[
+"Function",
+"EGF stimulates the growth of various epidermal and epithelial tissues in vivo and in vitro and of some fibroblasts in cell culture. Magnesiotropic hormone that stimulates magnesium reabsorption in the renal distal convoluted tubule via engagement of EGFR and activation of the magnesium channel TRPM6."
+],
+[
+"Location",
+"Membrane"
+],
+[
+"HGNC",
+"HGNC:3229"
+],
+[
+"HGNC symbol",
+"EGF"
+],
+[
+"Entrez",
+"1950"
+],
+[
+"Ensembl",
+"ENSG00000138798"
+],
+[
+"RefSeq",
+"NM_001178130"
+],
+[
+"UniProt",
+"P01133"
+]
+]
+},
+{
+"label": "EGFR",
+"class": "Macromolecule",
+"box": [
+1012.0,
+343.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Epidermal growth factor receptor"
+],
+[
+"Alternative names",
+"Proto-oncogene c-ErbB-1; Receptor tyrosine-protein kinase erbB-1"
+],
+[
+"Function",
+"Receptor tyrosine kinase binding ligands of the EGF family and activating several signaling cascades to convert extracellular cues into appropriate cellular responses. Known ligands include EGF, TGFA/TGF-alpha, AREG, epigen/EPGN, BTC/betacellulin, epiregulin/EREG and HBEGF/heparin-binding EGF."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Golgi apparatus membrane, Nucleus membrane, Endosome, Endosome membrane, Nucleus, Secreted"
+],
+[
+"HGNC",
+"HGNC:3236"
+],
+[
+"HGNC symbol",
+"EGFR"
+],
+[
+"Previous symbols",
+"ERBB"
+],
+[
+"Alias symbols",
+"ERBB1, ERRP"
+],
+[
+"Entrez",
+"1956"
+],
+[
+"Ensembl",
+"ENSG00000146648"
+],
+[
+"RefSeq",
+"NM_005228"
+],
+[
+"UniProt",
+"P00533"
+]
+]
+},
+{
+"id": "p_gs",
+"label": "",
+"class": "Process",
+"box": [
+1203.0,
+335.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"EGF:EGFR dimer",
+"GRB2:SOS1"
+],
+"out": [
+"EGFR:GRB2:SOS1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Rozakis-Adcock M et al.",
+"year": "1993",
+"title": "The SH2 and SH3 domains of mammalian Grb2 couple the EGF receptor to the Ras activator mSos1.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "8479540"
+},
+{
+"authors": "Buday L et al.",
+"journal": "Cell",
+"title": "Epidermal growth factor regulates p21ras through the formation of a complex of receptor, Grb2 adapter protein, and Sos nucleotide exchange factor.",
+"year": "1993",
+"db": "pubmed",
+"id": "8490966"
+},
+{
+"authors": "Lowenstein EJ et al.",
+"year": "1992",
+"title": "The SH2 and SH3 domain-containing protein GRB2 links receptor tyrosine kinases to ras signaling.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "1322798"
+},
+{
+"authors": "Aronheim A et al.",
+"year": "1994",
+"title": "Membrane targeting of the nucleotide exchange factor Sos is sufficient for activating the Ras signaling pathway.",
+"journal": "Cell",
+"db": "pubmed",
+"id": "7923364"
+}
+]
+},
+{
+"label": "EGF",
+"class": "Macromolecule",
+"box": [
+1452.0,
+228.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Pro-epidermal growth factor"
+],
+[
+"Function",
+"EGF stimulates the growth of various epidermal and epithelial tissues in vivo and in vitro and of some fibroblasts in cell culture. Magnesiotropic hormone that stimulates magnesium reabsorption in the renal distal convoluted tubule via engagement of EGFR and activation of the magnesium channel TRPM6."
+],
+[
+"Location",
+"Membrane"
+],
+[
+"HGNC",
+"HGNC:3229"
+],
+[
+"HGNC symbol",
+"EGF"
+],
+[
+"Entrez",
+"1950"
+],
+[
+"Ensembl",
+"ENSG00000138798"
+],
+[
+"RefSeq",
+"NM_001178130"
+],
+[
+"UniProt",
+"P01133"
+]
+]
+},
+{
+"label": "EGFR",
+"class": "Macromolecule",
+"box": [
+1452.0,
+290.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Epidermal growth factor receptor"
+],
+[
+"Alternative names",
+"Proto-oncogene c-ErbB-1; Receptor tyrosine-protein kinase erbB-1"
+],
+[
+"Function",
+"Receptor tyrosine kinase binding ligands of the EGF family and activating several signaling cascades to convert extracellular cues into appropriate cellular responses. Known ligands include EGF, TGFA/TGF-alpha, AREG, epigen/EPGN, BTC/betacellulin, epiregulin/EREG and HBEGF/heparin-binding EGF."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Golgi apparatus membrane, Nucleus membrane, Endosome, Endosome membrane, Nucleus, Secreted"
+],
+[
+"HGNC",
+"HGNC:3236"
+],
+[
+"HGNC symbol",
+"EGFR"
+],
+[
+"Previous symbols",
+"ERBB"
+],
+[
+"Alias symbols",
+"ERBB1, ERRP"
+],
+[
+"Entrez",
+"1956"
+],
+[
+"Ensembl",
+"ENSG00000146648"
+],
+[
+"RefSeq",
+"NM_005228"
+],
+[
+"UniProt",
+"P00533"
+]
+]
+},
+{
+"label": "GRB2",
+"class": "Macromolecule",
+"box": [
+1452.0,
+347.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Growth factor receptor-bound protein 2"
+],
+[
+"Alternative names",
+"Adapter protein GRB2; Protein Ash; SH2/SH3 adapter GRB2"
+],
+[
+"Function",
+"Non-enzymatic adapter protein that plays a pivotal role in precisely regulated signaling cascades from cell surface receptors to cellular responses, including signaling transduction and gene expression. Thus, participates in many biological processes including regulation of innate and adaptive immunity, autophagy, DNA repair or necroptosis."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Endosome, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:4566"
+],
+[
+"HGNC symbol",
+"GRB2"
+],
+[
+"Alias symbols",
+"NCKAP2"
+],
+[
+"Entrez",
+"2885"
+],
+[
+"Ensembl",
+"ENSG00000177885"
+],
+[
+"RefSeq",
+"NM_002086"
+],
+[
+"UniProt",
+"P62993"
+]
+]
+},
+{
+"label": "SOS1",
+"class": "Macromolecule",
+"box": [
+1452.0,
+395.8,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Son of sevenless homolog 1"
+],
+[
+"Function",
+"Promotes the exchange of Ras-bound GDP by GTP. Probably by promoting Ras activation, regulates phosphorylation of MAP kinase MAPK3/ERK1 in response to EGF."
+],
+[
+"HGNC",
+"HGNC:11187"
+],
+[
+"HGNC symbol",
+"SOS1"
+],
+[
+"Previous symbols",
+"GINGF"
+],
+[
+"Alias symbols",
+"HGF, GF1"
+],
+[
+"Entrez",
+"6654"
+],
+[
+"Ensembl",
+"ENSG00000115904"
+],
+[
+"RefSeq",
+"NM_005633"
+],
+[
+"UniProt",
+"Q07889"
+]
+]
+},
+{
+"label": "GRB2",
+"class": "Macromolecule",
+"box": [
+855.0,
+887.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Growth factor receptor-bound protein 2"
+],
+[
+"Alternative names",
+"Adapter protein GRB2; Protein Ash; SH2/SH3 adapter GRB2"
+],
+[
+"Function",
+"Non-enzymatic adapter protein that plays a pivotal role in precisely regulated signaling cascades from cell surface receptors to cellular responses, including signaling transduction and gene expression. Thus, participates in many biological processes including regulation of innate and adaptive immunity, autophagy, DNA repair or necroptosis."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Endosome, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:4566"
+],
+[
+"HGNC symbol",
+"GRB2"
+],
+[
+"Alias symbols",
+"NCKAP2"
+],
+[
+"Entrez",
+"2885"
+],
+[
+"Ensembl",
+"ENSG00000177885"
+],
+[
+"RefSeq",
+"NM_002086"
+],
+[
+"UniProt",
+"P62993"
+]
+]
+},
+{
+"id": "p_gb",
+"label": "",
+"class": "Process",
+"box": [
+1043.0,
+895.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GRB2",
+"SOS1"
+],
+"out": [
+"GRB2:SOS1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Rozakis-Adcock M et al.",
+"year": "1993",
+"title": "The SH2 and SH3 domains of mammalian Grb2 couple the EGF receptor to the Ras activator mSos1.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "8479540"
+},
+{
+"authors": "Li N et al.",
+"year": "1993",
+"title": "Guanine-nucleotide-releasing factor hSos1 binds to Grb2 and links receptor tyrosine kinases to Ras signalling.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "8479541"
+},
+{
+"authors": "Egan SE et al.",
+"year": "1993",
+"title": "Association of Sos Ras exchange protein with Grb2 is implicated in tyrosine kinase signal transduction and transformation.",
+"journal": "Nature",
+"db": "pubmed",
+"id": "8479536"
+},
+{
+"authors": "Chardin P et al.",
+"journal": "Science",
+"title": "Human Sos1: a guanine nucleotide exchange factor for Ras that binds to GRB2.",
+"year": "1993",
+"db": "pubmed",
+"id": "8493579"
+}
+]
+},
+{
+"label": "SOS1",
+"class": "Macromolecule",
+"box": [
+1015.0,
+1007.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Son of sevenless homolog 1"
+],
+[
+"Function",
+"Promotes the exchange of Ras-bound GDP by GTP. Probably by promoting Ras activation, regulates phosphorylation of MAP kinase MAPK3/ERK1 in response to EGF."
+],
+[
+"HGNC",
+"HGNC:11187"
+],
+[
+"HGNC symbol",
+"SOS1"
+],
+[
+"Previous symbols",
+"GINGF"
+],
+[
+"Alias symbols",
+"HGF, GF1"
+],
+[
+"Entrez",
+"6654"
+],
+[
+"Ensembl",
+"ENSG00000115904"
+],
+[
+"RefSeq",
+"NM_005633"
+],
+[
+"UniProt",
+"Q07889"
+]
+]
+},
+{
+"label": "GRB2",
+"class": "Macromolecule",
+"box": [
+1175.0,
+848.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Growth factor receptor-bound protein 2"
+],
+[
+"Alternative names",
+"Adapter protein GRB2; Protein Ash; SH2/SH3 adapter GRB2"
+],
+[
+"Function",
+"Non-enzymatic adapter protein that plays a pivotal role in precisely regulated signaling cascades from cell surface receptors to cellular responses, including signaling transduction and gene expression. Thus, participates in many biological processes including regulation of innate and adaptive immunity, autophagy, DNA repair or necroptosis."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Endosome, Golgi apparatus"
+],
+[
+"HGNC",
+"HGNC:4566"
+],
+[
+"HGNC symbol",
+"GRB2"
+],
+[
+"Alias symbols",
+"NCKAP2"
+],
+[
+"Entrez",
+"2885"
+],
+[
+"Ensembl",
+"ENSG00000177885"
+],
+[
+"RefSeq",
+"NM_002086"
+],
+[
+"UniProt",
+"P62993"
+]
+]
+},
+{
+"label": "SOS1",
+"class": "Macromolecule",
+"box": [
+1175.0,
+896.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Son of sevenless homolog 1"
+],
+[
+"Function",
+"Promotes the exchange of Ras-bound GDP by GTP. Probably by promoting Ras activation, regulates phosphorylation of MAP kinase MAPK3/ERK1 in response to EGF."
+],
+[
+"HGNC",
+"HGNC:11187"
+],
+[
+"HGNC symbol",
+"SOS1"
+],
+[
+"Previous symbols",
+"GINGF"
+],
+[
+"Alias symbols",
+"HGF, GF1"
+],
+[
+"Entrez",
+"6654"
+],
+[
+"Ensembl",
+"ENSG00000115904"
+],
+[
+"RefSeq",
+"NM_005633"
+],
+[
+"UniProt",
+"Q07889"
+]
+]
+},
+{
+"label": "EGF",
+"class": "Macromolecule",
+"box": [
+215.0,
+67.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Pro-epidermal growth factor"
+],
+[
+"Function",
+"EGF stimulates the growth of various epidermal and epithelial tissues in vivo and in vitro and of some fibroblasts in cell culture. Magnesiotropic hormone that stimulates magnesium reabsorption in the renal distal convoluted tubule via engagement of EGFR and activation of the magnesium channel TRPM6."
+],
+[
+"Location",
+"Membrane"
+],
+[
+"HGNC",
+"HGNC:3229"
+],
+[
+"HGNC symbol",
+"EGF"
+],
+[
+"Entrez",
+"1950"
+],
+[
+"Ensembl",
+"ENSG00000138798"
+],
+[
+"RefSeq",
+"NM_001178130"
+],
+[
+"UniProt",
+"P01133"
+]
+]
+}
+]
+}

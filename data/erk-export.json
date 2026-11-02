@@ -152,25 +152,25 @@
 "references": [
 {
 "authors": "Fukuda M et al.",
-"year": "1997",
-"title": "Interaction of MAP kinase with MAP kinase kinase: its possible role in the control of nucleocytoplasmic transport of MAP kinase.",
 "journal": "EMBO J",
+"title": "Interaction of MAP kinase with MAP kinase kinase: its possible role in the control of nucleocytoplasmic transport of MAP kinase.",
+"year": "1997",
 "db": "pubmed",
 "id": "9155016"
 },
 {
 "authors": "Caunt CJ et al.",
-"year": "2010",
-"title": "Stimulus-induced uncoupling of extracellular signal-regulated kinase phosphorylation from nuclear localization is dependent on docking domain interactions.",
 "journal": "J Cell Sci",
+"title": "Stimulus-induced uncoupling of extracellular signal-regulated kinase phosphorylation from nuclear localization is dependent on docking domain interactions.",
+"year": "2010",
 "db": "pubmed",
 "id": "21123621"
 },
 {
 "authors": "Adachi M et al.",
-"year": "1999",
-"title": "Two co-existing mechanisms for nuclear import of MAP kinase: passive diffusion of a monomer and active transport of a dimer.",
 "journal": "EMBO J",
+"title": "Two co-existing mechanisms for nuclear import of MAP kinase: passive diffusion of a monomer and active transport of a dimer.",
+"year": "1999",
 "db": "pubmed",
 "id": "10508167"
 }
@@ -585,17 +585,17 @@
 "references": [
 {
 "authors": "Adachi M et al.",
-"year": "2000",
-"title": "Nuclear export of MAP kinase (ERK) involves a MAP kinase kinase (MEK)-dependent active transport mechanism.",
 "journal": "J Cell Biol",
+"title": "Nuclear export of MAP kinase (ERK) involves a MAP kinase kinase (MEK)-dependent active transport mechanism.",
+"year": "2000",
 "db": "pubmed",
 "id": "10704436"
 },
 {
 "authors": "Fukuda M et al.",
-"year": "1997",
-"title": "Interaction of MAP kinase with MAP kinase kinase: its possible role in the control of nucleocytoplasmic transport of MAP kinase.",
 "journal": "EMBO J",
+"title": "Interaction of MAP kinase with MAP kinase kinase: its possible role in the control of nucleocytoplasmic transport of MAP kinase.",
+"year": "1997",
 "db": "pubmed",
 "id": "9155016"
 }
@@ -937,17 +937,17 @@
 "references": [
 {
 "authors": "Adachi M et al.",
-"year": "2000",
-"title": "Nuclear export of MAP kinase (ERK) involves a MAP kinase kinase (MEK)-dependent active transport mechanism.",
 "journal": "J Cell Biol",
+"title": "Nuclear export of MAP kinase (ERK) involves a MAP kinase kinase (MEK)-dependent active transport mechanism.",
+"year": "2000",
 "db": "pubmed",
 "id": "10704436"
 },
 {
 "authors": "Fukuda M et al.",
-"year": "1997",
-"title": "Interaction of MAP kinase with MAP kinase kinase: its possible role in the control of nucleocytoplasmic transport of MAP kinase.",
 "journal": "EMBO J",
+"title": "Interaction of MAP kinase with MAP kinase kinase: its possible role in the control of nucleocytoplasmic transport of MAP kinase.",
+"year": "1997",
 "db": "pubmed",
 "id": "9155016"
 }

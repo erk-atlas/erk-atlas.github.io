@@ -152,25 +152,25 @@
 "references": [
 {
 "authors": "Formstecher E et al.",
-"year": "2001",
-"title": "PEA-15 mediates cytoplasmic sequestration of ERK MAP kinase.",
 "journal": "Dev Cell",
+"title": "PEA-15 mediates cytoplasmic sequestration of ERK MAP kinase.",
+"year": "2001",
 "db": "pubmed",
 "id": "11702783"
 },
 {
 "authors": "Whitehurst AW et al.",
-"year": "2004",
-"title": "The death effector domain protein PEA-15 prevents nuclear entry of ERK2 by inhibiting required interactions.",
 "journal": "J Biol Chem",
+"title": "The death effector domain protein PEA-15 prevents nuclear entry of ERK2 by inhibiting required interactions.",
+"year": "2004",
 "db": "pubmed",
 "id": "14707138"
 },
 {
 "authors": "Glading A et al.",
-"year": "2007",
-"title": "PEA-15 inhibits tumor cell invasion by binding to extracellular signal-regulated kinase 1/2.",
 "journal": "Cancer Res",
+"title": "PEA-15 inhibits tumor cell invasion by binding to extracellular signal-regulated kinase 1/2.",
+"year": "2007",
 "db": "pubmed",
 "id": "17308092"
 }
@@ -441,17 +441,17 @@
 "references": [
 {
 "authors": "Kubes M et al.",
-"year": "1998",
-"title": "Endothelin induces a calcium-dependent phosphorylation of PEA-15 in intact astrocytes: identification of Ser104 and Ser116 phosphorylated, respectively, by protein kinase C and calcium/calmodulin kinase II in vitro.",
 "journal": "J Neurochem",
+"title": "Endothelin induces a calcium-dependent phosphorylation of PEA-15 in intact astrocytes: identification of Ser104 and Ser116 phosphorylated, respectively, by protein kinase C and calcium/calmodulin kinase II in vitro.",
+"year": "1998",
 "db": "pubmed",
 "id": "9721757"
 },
 {
 "authors": "Krueger J et al.",
-"year": "2005",
-"title": "Phosphorylation of phosphoprotein enriched in astrocytes (PEA-15) regulates extracellular signal-regulated kinase-dependent transcription and cell proliferation.",
 "journal": "Mol Biol Cell",
+"title": "Phosphorylation of phosphoprotein enriched in astrocytes (PEA-15) regulates extracellular signal-regulated kinase-dependent transcription and cell proliferation.",
+"year": "2005",
 "db": "pubmed",
 "id": "15917297"
 }
@@ -836,25 +836,25 @@
 "references": [
 {
 "authors": "Kubes M et al.",
-"year": "1998",
-"title": "Endothelin induces a calcium-dependent phosphorylation of PEA-15 in intact astrocytes: identification of Ser104 and Ser116 phosphorylated, respectively, by protein kinase C and calcium/calmodulin kinase II in vitro.",
 "journal": "J Neurochem",
+"title": "Endothelin induces a calcium-dependent phosphorylation of PEA-15 in intact astrocytes: identification of Ser104 and Ser116 phosphorylated, respectively, by protein kinase C and calcium/calmodulin kinase II in vitro.",
+"year": "1998",
 "db": "pubmed",
 "id": "9721757"
 },
 {
 "authors": "Trencia A et al.",
-"year": "2003",
-"title": "Protein kinase B/Akt binds and phosphorylates PED/PEA-15, stabilizing its antiapoptotic action.",
 "journal": "Mol Cell Biol",
+"title": "Protein kinase B/Akt binds and phosphorylates PED/PEA-15, stabilizing its antiapoptotic action.",
+"year": "2003",
 "db": "pubmed",
 "id": "12808093"
 },
 {
 "authors": "Krueger J et al.",
-"year": "2005",
-"title": "Phosphorylation of phosphoprotein enriched in astrocytes (PEA-15) regulates extracellular signal-regulated kinase-dependent transcription and cell proliferation.",
 "journal": "Mol Biol Cell",
+"title": "Phosphorylation of phosphoprotein enriched in astrocytes (PEA-15) regulates extracellular signal-regulated kinase-dependent transcription and cell proliferation.",
+"year": "2005",
 "db": "pubmed",
 "id": "15917297"
 }
@@ -1447,17 +1447,17 @@
 "references": [
 {
 "authors": "Krueger J et al.",
-"year": "2005",
-"title": "Phosphorylation of phosphoprotein enriched in astrocytes (PEA-15) regulates extracellular signal-regulated kinase-dependent transcription and cell proliferation.",
 "journal": "Mol Biol Cell",
+"title": "Phosphorylation of phosphoprotein enriched in astrocytes (PEA-15) regulates extracellular signal-regulated kinase-dependent transcription and cell proliferation.",
+"year": "2005",
 "db": "pubmed",
 "id": "15917297"
 },
 {
 "authors": "Formstecher E et al.",
-"year": "2001",
-"title": "PEA-15 mediates cytoplasmic sequestration of ERK MAP kinase.",
 "journal": "Dev Cell",
+"title": "PEA-15 mediates cytoplasmic sequestration of ERK MAP kinase.",
+"year": "2001",
 "db": "pubmed",
 "id": "11702783"
 }
