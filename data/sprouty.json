@@ -77,17 +77,17 @@
 "references": [
 {
 "authors": "Hanafusa H et al.",
-"year": "2002",
-"title": "Sprouty1 and Sprouty2 provide a control mechanism for the Ras/MAPK signalling pathway.",
 "journal": "Nat Cell Biol",
+"title": "Sprouty1 and Sprouty2 provide a control mechanism for the Ras/MAPK signalling pathway.",
+"year": "2002",
 "db": "pubmed",
 "id": "12402043"
 },
 {
 "authors": "Fong CW et al.",
-"year": "2003",
-"title": "Tyrosine phosphorylation of Sprouty2 enhances its interaction with c-Cbl and is crucial for its function.",
 "journal": "J Biol Chem",
+"title": "Tyrosine phosphorylation of Sprouty2 enhances its interaction with c-Cbl and is crucial for its function.",
+"year": "2003",
 "db": "pubmed",
 "id": "12815057"
 }
@@ -278,17 +278,17 @@
 "references": [
 {
 "authors": "Hanafusa H et al.",
-"year": "2002",
-"title": "Sprouty1 and Sprouty2 provide a control mechanism for the Ras/MAPK signalling pathway.",
 "journal": "Nat Cell Biol",
+"title": "Sprouty1 and Sprouty2 provide a control mechanism for the Ras/MAPK signalling pathway.",
+"year": "2002",
 "db": "pubmed",
 "id": "12402043"
 },
 {
 "authors": "Lao DH et al.",
-"year": "2006",
-"title": "A Src homology 3-binding sequence on the C terminus of Sprouty2 is necessary for inhibition of the Ras/ERK pathway downstream of fibroblast growth factor receptor stimulation.",
 "journal": "J Biol Chem",
+"title": "A Src homology 3-binding sequence on the C terminus of Sprouty2 is necessary for inhibition of the Ras/ERK pathway downstream of fibroblast growth factor receptor stimulation.",
+"year": "2006",
 "db": "pubmed",
 "id": "16893902"
 }
@@ -426,25 +426,25 @@
 "references": [
 {
 "authors": "Fong CW et al.",
-"year": "2003",
-"title": "Tyrosine phosphorylation of Sprouty2 enhances its interaction with c-Cbl and is crucial for its function.",
 "journal": "J Biol Chem",
+"title": "Tyrosine phosphorylation of Sprouty2 enhances its interaction with c-Cbl and is crucial for its function.",
+"year": "2003",
 "db": "pubmed",
 "id": "12815057"
 },
 {
 "authors": "Rubin C et al.",
-"year": "2003",
-"title": "Sprouty fine-tunes EGF signaling through interlinked positive and negative feedback loops.",
 "journal": "Curr Biol",
+"title": "Sprouty fine-tunes EGF signaling through interlinked positive and negative feedback loops.",
+"year": "2003",
 "db": "pubmed",
 "id": "12593795"
 },
 {
 "authors": "Hall AB et al.",
-"year": "2003",
-"title": "hSpry2 is targeted to the ubiquitin-dependent proteasome pathway by c-Cbl.",
 "journal": "Curr Biol",
+"title": "hSpry2 is targeted to the ubiquitin-dependent proteasome pathway by c-Cbl.",
+"year": "2003",
 "db": "pubmed",
 "id": "12593796"
 }
@@ -646,17 +646,17 @@
 "references": [
 {
 "authors": "Rubin C et al.",
-"year": "2003",
-"title": "Sprouty fine-tunes EGF signaling through interlinked positive and negative feedback loops.",
 "journal": "Curr Biol",
+"title": "Sprouty fine-tunes EGF signaling through interlinked positive and negative feedback loops.",
+"year": "2003",
 "db": "pubmed",
 "id": "12593795"
 },
 {
 "authors": "Hall AB et al.",
-"year": "2003",
-"title": "hSpry2 is targeted to the ubiquitin-dependent proteasome pathway by c-Cbl.",
 "journal": "Curr Biol",
+"title": "hSpry2 is targeted to the ubiquitin-dependent proteasome pathway by c-Cbl.",
+"year": "2003",
 "db": "pubmed",
 "id": "12593796"
 }
@@ -849,9 +849,9 @@
 "references": [
 {
 "authors": "Hanafusa H et al.",
-"year": "2002",
-"title": "Sprouty1 and Sprouty2 provide a control mechanism for the Ras/MAPK signalling pathway.",
 "journal": "Nat Cell Biol",
+"title": "Sprouty1 and Sprouty2 provide a control mechanism for the Ras/MAPK signalling pathway.",
+"year": "2002",
 "db": "pubmed",
 "id": "12402043"
 }
@@ -1043,17 +1043,17 @@
 "references": [
 {
 "authors": "Ozaki K et al.",
-"year": "2001",
-"title": "ERK pathway positively regulates the expression of Sprouty genes.",
 "journal": "Biochem Biophys Res Commun",
+"title": "ERK pathway positively regulates the expression of Sprouty genes.",
+"year": "2001",
 "db": "pubmed",
 "id": "11478764"
 },
 {
 "authors": "Pratilas CA et al.",
-"year": "2009",
-"title": "(V600E)BRAF is associated with disabled feedback inhibition of RAF-MEK signaling and elevated transcriptional output of the pathway.",
 "journal": "Proc Natl Acad Sci U S A",
+"title": "(V600E)BRAF is associated with disabled feedback inhibition of RAF-MEK signaling and elevated transcriptional output of the pathway.",
+"year": "2009",
 "db": "pubmed",
 "id": "19251651"
 }

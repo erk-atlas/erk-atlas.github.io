@@ -648,6 +648,33 @@
 "hasText": true
 },
 {
+"id": "cfos",
+"title": "c-Fos, the detector of sustained ERK",
+"topic": "c-Fos detects sustained ERK",
+"group": "Temporal",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/cfos.svg",
+"width": 1390.0,
+"height": 886.0,
+"scale": 1,
+"annotation": "data/cfos.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/cfos.graphml"
+},
+{
+"label": "SVG",
+"url": "files/cfos.svg"
+}
+],
+"data": "data/cfos-text.json",
+"hasText": true
+},
+{
 "id": "sm-canonical-m01",
 "title": "Canonical cascade, generic (2021)",
 "topic": "Canonical cascade (2021)",
