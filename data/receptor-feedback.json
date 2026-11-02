@@ -241,25 +241,25 @@
 "references": [
 {
 "authors": "Corbalan-Garcia S et al.",
-"year": "1996",
-"title": "Identification of the mitogen-activated protein kinase phosphorylation sites on human Sos1 that regulate interaction with Grb2.",
 "journal": "Mol Cell Biol",
+"title": "Identification of the mitogen-activated protein kinase phosphorylation sites on human Sos1 that regulate interaction with Grb2.",
+"year": "1996",
 "db": "pubmed",
 "id": "8816480"
 },
 {
 "authors": "Waters SB et al.",
-"year": "1995",
-"title": "Desensitization of Ras activation by a feedback disassociation of the SOS-Grb2 complex.",
 "journal": "J Biol Chem",
+"title": "Desensitization of Ras activation by a feedback disassociation of the SOS-Grb2 complex.",
+"year": "1995",
 "db": "pubmed",
 "id": "7673108"
 },
 {
 "authors": "Dong Chen et al.",
-"year": "1996",
-"title": "SOS phosphorylation and disassociation of the Grb2-SOS complex by the ERK and JNK signaling pathways.",
 "journal": "J Biol Chem",
+"title": "SOS phosphorylation and disassociation of the Grb2-SOS complex by the ERK and JNK signaling pathways.",
+"year": "1996",
 "db": "pubmed",
 "id": "8626428"
 }
@@ -505,17 +505,17 @@
 "references": [
 {
 "authors": "Waters SB et al.",
-"year": "1995",
-"title": "Desensitization of Ras activation by a feedback disassociation of the SOS-Grb2 complex.",
 "journal": "J Biol Chem",
+"title": "Desensitization of Ras activation by a feedback disassociation of the SOS-Grb2 complex.",
+"year": "1995",
 "db": "pubmed",
 "id": "7673108"
 },
 {
 "authors": "Dong Chen et al.",
-"year": "1996",
-"title": "SOS phosphorylation and disassociation of the Grb2-SOS complex by the ERK and JNK signaling pathways.",
 "journal": "J Biol Chem",
+"title": "SOS phosphorylation and disassociation of the Grb2-SOS complex by the ERK and JNK signaling pathways.",
+"year": "1996",
 "db": "pubmed",
 "id": "8626428"
 }
@@ -710,17 +710,17 @@
 "references": [
 {
 "authors": "Saha M et al.",
-"year": "2012",
-"title": "RSK phosphorylates SOS1 creating 14-3-3-docking sites and negatively regulating MAPK activation.",
 "journal": "Biochem J",
+"title": "RSK phosphorylates SOS1 creating 14-3-3-docking sites and negatively regulating MAPK activation.",
+"year": "2012",
 "db": "pubmed",
 "id": "22827337"
 },
 {
 "authors": "Douville E et al.",
-"year": "1997",
-"title": "EGF induced SOS phosphorylation in PC12 cells involves P90 RSK-2.",
 "journal": "Oncogene",
+"title": "EGF induced SOS phosphorylation in PC12 cells involves P90 RSK-2.",
+"year": "1997",
 "db": "pubmed",
 "id": "9242373"
 }
@@ -966,9 +966,9 @@
 "references": [
 {
 "authors": "Saha M et al.",
-"year": "2012",
-"title": "RSK phosphorylates SOS1 creating 14-3-3-docking sites and negatively regulating MAPK activation.",
 "journal": "Biochem J",
+"title": "RSK phosphorylates SOS1 creating 14-3-3-docking sites and negatively regulating MAPK activation.",
+"year": "2012",
 "db": "pubmed",
 "id": "22827337"
 }

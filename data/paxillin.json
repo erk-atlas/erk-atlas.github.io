@@ -1,0 +1,3076 @@
+{
+"nodes": [
+{
+"label": "PXN",
+"class": "Macromolecule",
+"box": [
+64.0,
+98.0,
+80.0,
+168.0
+],
+"props": [
+[
+"Full name",
+"Paxillin"
+],
+[
+"Function",
+"Cytoskeletal protein involved in actin-membrane attachment at sites of cell adhesion to the extracellular matrix (focal adhesion). Recruits other proteins such as TRIM15 to focal adhesion"
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, Cell junction, focal adhesion, Cytoplasm, cell cortex"
+],
+[
+"HGNC",
+"HGNC:9718"
+],
+[
+"HGNC symbol",
+"PXN"
+],
+[
+"Entrez",
+"5829"
+],
+[
+"Ensembl",
+"ENSG00000089159"
+],
+[
+"RefSeq",
+"NM_002859"
+],
+[
+"UniProt",
+"P49023"
+]
+]
+},
+{
+"id": "p_e",
+"label": "",
+"class": "Process",
+"box": [
+252.0,
+170.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PXN",
+"ERK1/2"
+],
+"out": [
+"PXN:ERK"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ishibe S et al.",
+"year": "2003",
+"title": "Phosphorylation-dependent paxillin-ERK association mediates hepatocyte growth factor-stimulated epithelial morphogenesis.",
+"journal": "Mol Cell",
+"db": "pubmed",
+"id": "14636584"
+}
+]
+},
+{
+"label": "PXN",
+"class": "Macromolecule",
+"box": [
+364.5,
+83.2,
+80.0,
+168.0
+],
+"props": [
+[
+"Full name",
+"Paxillin"
+],
+[
+"Function",
+"Cytoskeletal protein involved in actin-membrane attachment at sites of cell adhesion to the extracellular matrix (focal adhesion). Recruits other proteins such as TRIM15 to focal adhesion"
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, Cell junction, focal adhesion, Cytoplasm, cell cortex"
+],
+[
+"HGNC",
+"HGNC:9718"
+],
+[
+"HGNC symbol",
+"PXN"
+],
+[
+"Entrez",
+"5829"
+],
+[
+"Ensembl",
+"ENSG00000089159"
+],
+[
+"RefSeq",
+"NM_002859"
+],
+[
+"UniProt",
+"P49023"
+]
+]
+},
+{
+"label": "ERK1/2",
+"class": "Macromolecule",
+"box": [
+452.5,
+211.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"ERK1/2"
+],
+[
+"Members",
+"MAPK3; MAPK1"
+]
+],
+"members": [
+{
+"symbol": "MAPK3",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"symbol": "MAPK1",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+}
+]
+},
+{
+"id": "p_rm",
+"label": "",
+"class": "Process",
+"box": [
+632.0,
+170.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PXN:ERK",
+"RAF",
+"MEK1/2"
+],
+"out": [
+"PXN:RAF:MEK:ERK"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ishibe S et al.",
+"year": "2003",
+"title": "Phosphorylation-dependent paxillin-ERK association mediates hepatocyte growth factor-stimulated epithelial morphogenesis.",
+"journal": "Mol Cell",
+"db": "pubmed",
+"id": "14636584"
+}
+]
+},
+{
+"label": "PXN",
+"class": "Macromolecule",
+"box": [
+760.0,
+83.2,
+80.0,
+168.0
+],
+"props": [
+[
+"Full name",
+"Paxillin"
+],
+[
+"Function",
+"Cytoskeletal protein involved in actin-membrane attachment at sites of cell adhesion to the extracellular matrix (focal adhesion). Recruits other proteins such as TRIM15 to focal adhesion"
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, Cell junction, focal adhesion, Cytoplasm, cell cortex"
+],
+[
+"HGNC",
+"HGNC:9718"
+],
+[
+"HGNC symbol",
+"PXN"
+],
+[
+"Entrez",
+"5829"
+],
+[
+"Ensembl",
+"ENSG00000089159"
+],
+[
+"RefSeq",
+"NM_002859"
+],
+[
+"UniProt",
+"P49023"
+]
+]
+},
+{
+"label": "RAF",
+"class": "Macromolecule",
+"box": [
+848.0,
+83.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"RAF"
+],
+[
+"Members",
+"ARAF; BRAF; RAF1"
+]
+],
+"members": [
+{
+"symbol": "ARAF",
+"props": [
+[
+"Full name",
+"Serine/threonine-protein kinase A-Raf"
+],
+[
+"Alternative names",
+"Proto-oncogene A-Raf; Proto-oncogene A-Raf-1; Proto-oncogene Pks"
+],
+[
+"Function",
+"Involved in the transduction of mitogenic signals from the cell membrane to the nucleus. May also regulate the TOR signaling cascade."
+],
+[
+"HGNC",
+"HGNC:646"
+],
+[
+"HGNC symbol",
+"ARAF"
+],
+[
+"Previous symbols",
+"ARAF1"
+],
+[
+"Alias symbols",
+"A-Raf"
+],
+[
+"Entrez",
+"369"
+],
+[
+"Ensembl",
+"ENSG00000078061"
+],
+[
+"RefSeq",
+"NM_001256196"
+],
+[
+"UniProt",
+"P10398"
+]
+]
+},
+{
+"symbol": "BRAF",
+"props": [
+[
+"Full name",
+"Serine/threonine-protein kinase B-raf"
+],
+[
+"Alternative names",
+"Proto-oncogene B-Raf; p94; v-Raf murine sarcoma viral oncogene homolog B1"
+],
+[
+"Function",
+"Protein kinase involved in the transduction of mitogenic signals from the cell membrane to the nucleus (Probable). Phosphorylates MAP2K1, and thereby activates the MAP kinase signal transduction pathway."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:1097"
+],
+[
+"HGNC symbol",
+"BRAF"
+],
+[
+"Alias symbols",
+"BRAF1, BRAF-1"
+],
+[
+"Entrez",
+"673"
+],
+[
+"Ensembl",
+"ENSG00000157764"
+],
+[
+"RefSeq",
+"NM_004333"
+],
+[
+"UniProt",
+"P15056"
+]
+]
+},
+{
+"symbol": "RAF1",
+"props": [
+[
+"Full name",
+"RAF proto-oncogene serine/threonine-protein kinase"
+],
+[
+"Alternative names",
+"Proto-oncogene c-RAF; Raf-1"
+],
+[
+"Function",
+"Serine/threonine-protein kinase that acts as a regulatory link between the membrane-associated Ras GTPases and the MAPK/ERK cascade, and this critical regulatory link functions as a switch determining cell fate decisions including proliferation, differentiation, apoptosis, survival and oncogenic transformation. RAF1 activation initiates a mitogen-activated protein kinase (MAPK) cascade that comprises a sequential phosphorylation of the dual-specific MAPK kinases (MAP2K1/MEK1 and MAP2K2/MEK2) and the extracellular signal-regulated kinases (MAPK3/ERK1 and MAPK1/ERK2)."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Mitochondrion, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9829"
+],
+[
+"HGNC symbol",
+"RAF1"
+],
+[
+"Alias symbols",
+"Raf-1, c-Raf, CRAF"
+],
+[
+"Entrez",
+"5894"
+],
+[
+"Ensembl",
+"ENSG00000132155"
+],
+[
+"RefSeq",
+"NM_002880"
+],
+[
+"UniProt",
+"P04049"
+]
+]
+}
+]
+},
+{
+"label": "MEK1/2",
+"class": "Macromolecule",
+"box": [
+848.0,
+147.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"MEK1/2"
+],
+[
+"Members",
+"MAP2K1; MAP2K2"
+]
+],
+"members": [
+{
+"symbol": "MAP2K1",
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 1"
+],
+[
+"Alternative names",
+"ERK activator kinase 1; MAPK/ERK kinase 1"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Binding of extracellular ligands such as growth factors, cytokines and hormones to their cell-surface receptors activates RAS and this initiates RAF1 activation."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, microtubule organizing center, spindle pole body, Cytoplasm, Nucleus, Membrane"
+],
+[
+"HGNC",
+"HGNC:6840"
+],
+[
+"HGNC symbol",
+"MAP2K1"
+],
+[
+"Previous symbols",
+"PRKMK1"
+],
+[
+"Alias symbols",
+"MEK1, MAPKK1, MKK1"
+],
+[
+"Entrez",
+"5604"
+],
+[
+"Ensembl",
+"ENSG00000169032"
+],
+[
+"RefSeq",
+"NM_001411065"
+],
+[
+"UniProt",
+"Q02750"
+]
+]
+},
+{
+"symbol": "MAP2K2",
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 2"
+],
+[
+"Alternative names",
+"ERK activator kinase 2; MAPK/ERK kinase 2"
+],
+[
+"Function",
+"Catalyzes the concomitant phosphorylation of a threonine and a tyrosine residue in a Thr-Glu-Tyr sequence located in MAP kinases. Activates the ERK1 and ERK2 MAP kinases."
+],
+[
+"Location",
+"Cytoplasm, Membrane"
+],
+[
+"HGNC",
+"HGNC:6842"
+],
+[
+"HGNC symbol",
+"MAP2K2"
+],
+[
+"Previous symbols",
+"PRKMK2"
+],
+[
+"Alias symbols",
+"MEK2, MKK2"
+],
+[
+"Entrez",
+"5605"
+],
+[
+"Ensembl",
+"ENSG00000126934"
+],
+[
+"RefSeq",
+"NM_030662"
+],
+[
+"UniProt",
+"P36507"
+]
+]
+}
+]
+},
+{
+"label": "ERK1/2",
+"class": "Macromolecule",
+"box": [
+848.0,
+211.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"ERK1/2"
+],
+[
+"Members",
+"MAPK3; MAPK1"
+]
+],
+"members": [
+{
+"symbol": "MAPK3",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"symbol": "MAPK1",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+}
+]
+},
+{
+"id": "p_act",
+"label": "",
+"class": "Process",
+"box": [
+1032.0,
+170.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PXN:RAF:MEK:ERK"
+],
+"out": [
+"PXN:RAF:MEK:ERK"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ishibe S et al.",
+"year": "2003",
+"title": "Phosphorylation-dependent paxillin-ERK association mediates hepatocyte growth factor-stimulated epithelial morphogenesis.",
+"journal": "Mol Cell",
+"db": "pubmed",
+"id": "14636584"
+}
+]
+},
+{
+"label": "PXN",
+"class": "Macromolecule",
+"box": [
+1160.0,
+83.2,
+80.0,
+168.0
+],
+"props": [
+[
+"Full name",
+"Paxillin"
+],
+[
+"Function",
+"Cytoskeletal protein involved in actin-membrane attachment at sites of cell adhesion to the extracellular matrix (focal adhesion). Recruits other proteins such as TRIM15 to focal adhesion"
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, Cell junction, focal adhesion, Cytoplasm, cell cortex"
+],
+[
+"HGNC",
+"HGNC:9718"
+],
+[
+"HGNC symbol",
+"PXN"
+],
+[
+"Entrez",
+"5829"
+],
+[
+"Ensembl",
+"ENSG00000089159"
+],
+[
+"RefSeq",
+"NM_002859"
+],
+[
+"UniProt",
+"P49023"
+]
+]
+},
+{
+"label": "RAF",
+"class": "Macromolecule",
+"box": [
+1248.0,
+83.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"RAF"
+],
+[
+"Members",
+"ARAF; BRAF; RAF1"
+]
+],
+"members": [
+{
+"symbol": "ARAF",
+"props": [
+[
+"Full name",
+"Serine/threonine-protein kinase A-Raf"
+],
+[
+"Alternative names",
+"Proto-oncogene A-Raf; Proto-oncogene A-Raf-1; Proto-oncogene Pks"
+],
+[
+"Function",
+"Involved in the transduction of mitogenic signals from the cell membrane to the nucleus. May also regulate the TOR signaling cascade."
+],
+[
+"HGNC",
+"HGNC:646"
+],
+[
+"HGNC symbol",
+"ARAF"
+],
+[
+"Previous symbols",
+"ARAF1"
+],
+[
+"Alias symbols",
+"A-Raf"
+],
+[
+"Entrez",
+"369"
+],
+[
+"Ensembl",
+"ENSG00000078061"
+],
+[
+"RefSeq",
+"NM_001256196"
+],
+[
+"UniProt",
+"P10398"
+]
+]
+},
+{
+"symbol": "BRAF",
+"props": [
+[
+"Full name",
+"Serine/threonine-protein kinase B-raf"
+],
+[
+"Alternative names",
+"Proto-oncogene B-Raf; p94; v-Raf murine sarcoma viral oncogene homolog B1"
+],
+[
+"Function",
+"Protein kinase involved in the transduction of mitogenic signals from the cell membrane to the nucleus (Probable). Phosphorylates MAP2K1, and thereby activates the MAP kinase signal transduction pathway."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:1097"
+],
+[
+"HGNC symbol",
+"BRAF"
+],
+[
+"Alias symbols",
+"BRAF1, BRAF-1"
+],
+[
+"Entrez",
+"673"
+],
+[
+"Ensembl",
+"ENSG00000157764"
+],
+[
+"RefSeq",
+"NM_004333"
+],
+[
+"UniProt",
+"P15056"
+]
+]
+},
+{
+"symbol": "RAF1",
+"props": [
+[
+"Full name",
+"RAF proto-oncogene serine/threonine-protein kinase"
+],
+[
+"Alternative names",
+"Proto-oncogene c-RAF; Raf-1"
+],
+[
+"Function",
+"Serine/threonine-protein kinase that acts as a regulatory link between the membrane-associated Ras GTPases and the MAPK/ERK cascade, and this critical regulatory link functions as a switch determining cell fate decisions including proliferation, differentiation, apoptosis, survival and oncogenic transformation. RAF1 activation initiates a mitogen-activated protein kinase (MAPK) cascade that comprises a sequential phosphorylation of the dual-specific MAPK kinases (MAP2K1/MEK1 and MAP2K2/MEK2) and the extracellular signal-regulated kinases (MAPK3/ERK1 and MAPK1/ERK2)."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Mitochondrion, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9829"
+],
+[
+"HGNC symbol",
+"RAF1"
+],
+[
+"Alias symbols",
+"Raf-1, c-Raf, CRAF"
+],
+[
+"Entrez",
+"5894"
+],
+[
+"Ensembl",
+"ENSG00000132155"
+],
+[
+"RefSeq",
+"NM_002880"
+],
+[
+"UniProt",
+"P04049"
+]
+]
+}
+]
+},
+{
+"label": "MEK1/2",
+"class": "Macromolecule",
+"box": [
+1248.0,
+147.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"MEK1/2"
+],
+[
+"Members",
+"MAP2K1; MAP2K2"
+]
+],
+"members": [
+{
+"symbol": "MAP2K1",
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 1"
+],
+[
+"Alternative names",
+"ERK activator kinase 1; MAPK/ERK kinase 1"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Binding of extracellular ligands such as growth factors, cytokines and hormones to their cell-surface receptors activates RAS and this initiates RAF1 activation."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, microtubule organizing center, spindle pole body, Cytoplasm, Nucleus, Membrane"
+],
+[
+"HGNC",
+"HGNC:6840"
+],
+[
+"HGNC symbol",
+"MAP2K1"
+],
+[
+"Previous symbols",
+"PRKMK1"
+],
+[
+"Alias symbols",
+"MEK1, MAPKK1, MKK1"
+],
+[
+"Entrez",
+"5604"
+],
+[
+"Ensembl",
+"ENSG00000169032"
+],
+[
+"RefSeq",
+"NM_001411065"
+],
+[
+"UniProt",
+"Q02750"
+]
+]
+},
+{
+"symbol": "MAP2K2",
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 2"
+],
+[
+"Alternative names",
+"ERK activator kinase 2; MAPK/ERK kinase 2"
+],
+[
+"Function",
+"Catalyzes the concomitant phosphorylation of a threonine and a tyrosine residue in a Thr-Glu-Tyr sequence located in MAP kinases. Activates the ERK1 and ERK2 MAP kinases."
+],
+[
+"Location",
+"Cytoplasm, Membrane"
+],
+[
+"HGNC",
+"HGNC:6842"
+],
+[
+"HGNC symbol",
+"MAP2K2"
+],
+[
+"Previous symbols",
+"PRKMK2"
+],
+[
+"Alias symbols",
+"MEK2, MKK2"
+],
+[
+"Entrez",
+"5605"
+],
+[
+"Ensembl",
+"ENSG00000126934"
+],
+[
+"RefSeq",
+"NM_030662"
+],
+[
+"UniProt",
+"P36507"
+]
+]
+}
+]
+},
+{
+"label": "ERK1/2",
+"class": "Macromolecule",
+"box": [
+1248.0,
+211.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"ERK1/2"
+],
+[
+"Members",
+"MAPK3; MAPK1"
+]
+],
+"members": [
+{
+"symbol": "MAPK3",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"symbol": "MAPK1",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+}
+]
+},
+{
+"id": "p_s83",
+"label": "",
+"class": "Process",
+"box": [
+1432.0,
+170.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PXN:RAF:MEK:ERK"
+],
+"out": [
+"PXN:RAF:MEK:ERK"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ishibe S et al.",
+"year": "2004",
+"title": "Paxillin serves as an ERK-regulated scaffold for coordinating FAK and Rac activation in epithelial morphogenesis.",
+"journal": "Mol Cell",
+"db": "pubmed",
+"id": "15494312"
+},
+{
+"authors": "Sen A et al.",
+"year": "2010",
+"title": "Paxillin regulates androgen- and epidermal growth factor-induced MAPK signaling and cell proliferation in prostate cancer cells.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "20628053"
+}
+]
+},
+{
+"label": "PXN",
+"class": "Macromolecule",
+"box": [
+1560.0,
+83.2,
+80.0,
+168.0
+],
+"props": [
+[
+"Full name",
+"Paxillin"
+],
+[
+"Function",
+"Cytoskeletal protein involved in actin-membrane attachment at sites of cell adhesion to the extracellular matrix (focal adhesion). Recruits other proteins such as TRIM15 to focal adhesion"
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, Cell junction, focal adhesion, Cytoplasm, cell cortex"
+],
+[
+"HGNC",
+"HGNC:9718"
+],
+[
+"HGNC symbol",
+"PXN"
+],
+[
+"Entrez",
+"5829"
+],
+[
+"Ensembl",
+"ENSG00000089159"
+],
+[
+"RefSeq",
+"NM_002859"
+],
+[
+"UniProt",
+"P49023"
+]
+]
+},
+{
+"label": "RAF",
+"class": "Macromolecule",
+"box": [
+1648.0,
+83.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"RAF"
+],
+[
+"Members",
+"ARAF; BRAF; RAF1"
+]
+],
+"members": [
+{
+"symbol": "ARAF",
+"props": [
+[
+"Full name",
+"Serine/threonine-protein kinase A-Raf"
+],
+[
+"Alternative names",
+"Proto-oncogene A-Raf; Proto-oncogene A-Raf-1; Proto-oncogene Pks"
+],
+[
+"Function",
+"Involved in the transduction of mitogenic signals from the cell membrane to the nucleus. May also regulate the TOR signaling cascade."
+],
+[
+"HGNC",
+"HGNC:646"
+],
+[
+"HGNC symbol",
+"ARAF"
+],
+[
+"Previous symbols",
+"ARAF1"
+],
+[
+"Alias symbols",
+"A-Raf"
+],
+[
+"Entrez",
+"369"
+],
+[
+"Ensembl",
+"ENSG00000078061"
+],
+[
+"RefSeq",
+"NM_001256196"
+],
+[
+"UniProt",
+"P10398"
+]
+]
+},
+{
+"symbol": "BRAF",
+"props": [
+[
+"Full name",
+"Serine/threonine-protein kinase B-raf"
+],
+[
+"Alternative names",
+"Proto-oncogene B-Raf; p94; v-Raf murine sarcoma viral oncogene homolog B1"
+],
+[
+"Function",
+"Protein kinase involved in the transduction of mitogenic signals from the cell membrane to the nucleus (Probable). Phosphorylates MAP2K1, and thereby activates the MAP kinase signal transduction pathway."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:1097"
+],
+[
+"HGNC symbol",
+"BRAF"
+],
+[
+"Alias symbols",
+"BRAF1, BRAF-1"
+],
+[
+"Entrez",
+"673"
+],
+[
+"Ensembl",
+"ENSG00000157764"
+],
+[
+"RefSeq",
+"NM_004333"
+],
+[
+"UniProt",
+"P15056"
+]
+]
+},
+{
+"symbol": "RAF1",
+"props": [
+[
+"Full name",
+"RAF proto-oncogene serine/threonine-protein kinase"
+],
+[
+"Alternative names",
+"Proto-oncogene c-RAF; Raf-1"
+],
+[
+"Function",
+"Serine/threonine-protein kinase that acts as a regulatory link between the membrane-associated Ras GTPases and the MAPK/ERK cascade, and this critical regulatory link functions as a switch determining cell fate decisions including proliferation, differentiation, apoptosis, survival and oncogenic transformation. RAF1 activation initiates a mitogen-activated protein kinase (MAPK) cascade that comprises a sequential phosphorylation of the dual-specific MAPK kinases (MAP2K1/MEK1 and MAP2K2/MEK2) and the extracellular signal-regulated kinases (MAPK3/ERK1 and MAPK1/ERK2)."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Mitochondrion, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9829"
+],
+[
+"HGNC symbol",
+"RAF1"
+],
+[
+"Alias symbols",
+"Raf-1, c-Raf, CRAF"
+],
+[
+"Entrez",
+"5894"
+],
+[
+"Ensembl",
+"ENSG00000132155"
+],
+[
+"RefSeq",
+"NM_002880"
+],
+[
+"UniProt",
+"P04049"
+]
+]
+}
+]
+},
+{
+"label": "MEK1/2",
+"class": "Macromolecule",
+"box": [
+1648.0,
+147.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"MEK1/2"
+],
+[
+"Members",
+"MAP2K1; MAP2K2"
+]
+],
+"members": [
+{
+"symbol": "MAP2K1",
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 1"
+],
+[
+"Alternative names",
+"ERK activator kinase 1; MAPK/ERK kinase 1"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Binding of extracellular ligands such as growth factors, cytokines and hormones to their cell-surface receptors activates RAS and this initiates RAF1 activation."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, microtubule organizing center, spindle pole body, Cytoplasm, Nucleus, Membrane"
+],
+[
+"HGNC",
+"HGNC:6840"
+],
+[
+"HGNC symbol",
+"MAP2K1"
+],
+[
+"Previous symbols",
+"PRKMK1"
+],
+[
+"Alias symbols",
+"MEK1, MAPKK1, MKK1"
+],
+[
+"Entrez",
+"5604"
+],
+[
+"Ensembl",
+"ENSG00000169032"
+],
+[
+"RefSeq",
+"NM_001411065"
+],
+[
+"UniProt",
+"Q02750"
+]
+]
+},
+{
+"symbol": "MAP2K2",
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 2"
+],
+[
+"Alternative names",
+"ERK activator kinase 2; MAPK/ERK kinase 2"
+],
+[
+"Function",
+"Catalyzes the concomitant phosphorylation of a threonine and a tyrosine residue in a Thr-Glu-Tyr sequence located in MAP kinases. Activates the ERK1 and ERK2 MAP kinases."
+],
+[
+"Location",
+"Cytoplasm, Membrane"
+],
+[
+"HGNC",
+"HGNC:6842"
+],
+[
+"HGNC symbol",
+"MAP2K2"
+],
+[
+"Previous symbols",
+"PRKMK2"
+],
+[
+"Alias symbols",
+"MEK2, MKK2"
+],
+[
+"Entrez",
+"5605"
+],
+[
+"Ensembl",
+"ENSG00000126934"
+],
+[
+"RefSeq",
+"NM_030662"
+],
+[
+"UniProt",
+"P36507"
+]
+]
+}
+]
+},
+{
+"label": "ERK1/2",
+"class": "Macromolecule",
+"box": [
+1648.0,
+211.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"ERK1/2"
+],
+[
+"Members",
+"MAPK3; MAPK1"
+]
+],
+"members": [
+{
+"symbol": "MAPK3",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"symbol": "MAPK1",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+}
+]
+},
+{
+"id": "p_fak",
+"label": "",
+"class": "Process",
+"box": [
+1872.0,
+170.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PXN:RAF:MEK:ERK",
+"FAK"
+],
+"out": [
+"PXN:FAK"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Ishibe S et al.",
+"year": "2004",
+"title": "Paxillin serves as an ERK-regulated scaffold for coordinating FAK and Rac activation in epithelial morphogenesis.",
+"journal": "Mol Cell",
+"db": "pubmed",
+"id": "15494312"
+}
+]
+},
+{
+"label": "PXN",
+"class": "Macromolecule",
+"box": [
+2004.5,
+83.2,
+80.0,
+168.0
+],
+"props": [
+[
+"Full name",
+"Paxillin"
+],
+[
+"Function",
+"Cytoskeletal protein involved in actin-membrane attachment at sites of cell adhesion to the extracellular matrix (focal adhesion). Recruits other proteins such as TRIM15 to focal adhesion"
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, Cell junction, focal adhesion, Cytoplasm, cell cortex"
+],
+[
+"HGNC",
+"HGNC:9718"
+],
+[
+"HGNC symbol",
+"PXN"
+],
+[
+"Entrez",
+"5829"
+],
+[
+"Ensembl",
+"ENSG00000089159"
+],
+[
+"RefSeq",
+"NM_002859"
+],
+[
+"UniProt",
+"P49023"
+]
+]
+},
+{
+"label": "RAF",
+"class": "Macromolecule",
+"box": [
+2092.5,
+83.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"RAF"
+],
+[
+"Members",
+"ARAF; BRAF; RAF1"
+]
+],
+"members": [
+{
+"symbol": "ARAF",
+"props": [
+[
+"Full name",
+"Serine/threonine-protein kinase A-Raf"
+],
+[
+"Alternative names",
+"Proto-oncogene A-Raf; Proto-oncogene A-Raf-1; Proto-oncogene Pks"
+],
+[
+"Function",
+"Involved in the transduction of mitogenic signals from the cell membrane to the nucleus. May also regulate the TOR signaling cascade."
+],
+[
+"HGNC",
+"HGNC:646"
+],
+[
+"HGNC symbol",
+"ARAF"
+],
+[
+"Previous symbols",
+"ARAF1"
+],
+[
+"Alias symbols",
+"A-Raf"
+],
+[
+"Entrez",
+"369"
+],
+[
+"Ensembl",
+"ENSG00000078061"
+],
+[
+"RefSeq",
+"NM_001256196"
+],
+[
+"UniProt",
+"P10398"
+]
+]
+},
+{
+"symbol": "BRAF",
+"props": [
+[
+"Full name",
+"Serine/threonine-protein kinase B-raf"
+],
+[
+"Alternative names",
+"Proto-oncogene B-Raf; p94; v-Raf murine sarcoma viral oncogene homolog B1"
+],
+[
+"Function",
+"Protein kinase involved in the transduction of mitogenic signals from the cell membrane to the nucleus (Probable). Phosphorylates MAP2K1, and thereby activates the MAP kinase signal transduction pathway."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:1097"
+],
+[
+"HGNC symbol",
+"BRAF"
+],
+[
+"Alias symbols",
+"BRAF1, BRAF-1"
+],
+[
+"Entrez",
+"673"
+],
+[
+"Ensembl",
+"ENSG00000157764"
+],
+[
+"RefSeq",
+"NM_004333"
+],
+[
+"UniProt",
+"P15056"
+]
+]
+},
+{
+"symbol": "RAF1",
+"props": [
+[
+"Full name",
+"RAF proto-oncogene serine/threonine-protein kinase"
+],
+[
+"Alternative names",
+"Proto-oncogene c-RAF; Raf-1"
+],
+[
+"Function",
+"Serine/threonine-protein kinase that acts as a regulatory link between the membrane-associated Ras GTPases and the MAPK/ERK cascade, and this critical regulatory link functions as a switch determining cell fate decisions including proliferation, differentiation, apoptosis, survival and oncogenic transformation. RAF1 activation initiates a mitogen-activated protein kinase (MAPK) cascade that comprises a sequential phosphorylation of the dual-specific MAPK kinases (MAP2K1/MEK1 and MAP2K2/MEK2) and the extracellular signal-regulated kinases (MAPK3/ERK1 and MAPK1/ERK2)."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Mitochondrion, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9829"
+],
+[
+"HGNC symbol",
+"RAF1"
+],
+[
+"Alias symbols",
+"Raf-1, c-Raf, CRAF"
+],
+[
+"Entrez",
+"5894"
+],
+[
+"Ensembl",
+"ENSG00000132155"
+],
+[
+"RefSeq",
+"NM_002880"
+],
+[
+"UniProt",
+"P04049"
+]
+]
+}
+]
+},
+{
+"label": "MEK1/2",
+"class": "Macromolecule",
+"box": [
+2092.5,
+147.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"MEK1/2"
+],
+[
+"Members",
+"MAP2K1; MAP2K2"
+]
+],
+"members": [
+{
+"symbol": "MAP2K1",
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 1"
+],
+[
+"Alternative names",
+"ERK activator kinase 1; MAPK/ERK kinase 1"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Binding of extracellular ligands such as growth factors, cytokines and hormones to their cell-surface receptors activates RAS and this initiates RAF1 activation."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, microtubule organizing center, spindle pole body, Cytoplasm, Nucleus, Membrane"
+],
+[
+"HGNC",
+"HGNC:6840"
+],
+[
+"HGNC symbol",
+"MAP2K1"
+],
+[
+"Previous symbols",
+"PRKMK1"
+],
+[
+"Alias symbols",
+"MEK1, MAPKK1, MKK1"
+],
+[
+"Entrez",
+"5604"
+],
+[
+"Ensembl",
+"ENSG00000169032"
+],
+[
+"RefSeq",
+"NM_001411065"
+],
+[
+"UniProt",
+"Q02750"
+]
+]
+},
+{
+"symbol": "MAP2K2",
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 2"
+],
+[
+"Alternative names",
+"ERK activator kinase 2; MAPK/ERK kinase 2"
+],
+[
+"Function",
+"Catalyzes the concomitant phosphorylation of a threonine and a tyrosine residue in a Thr-Glu-Tyr sequence located in MAP kinases. Activates the ERK1 and ERK2 MAP kinases."
+],
+[
+"Location",
+"Cytoplasm, Membrane"
+],
+[
+"HGNC",
+"HGNC:6842"
+],
+[
+"HGNC symbol",
+"MAP2K2"
+],
+[
+"Previous symbols",
+"PRKMK2"
+],
+[
+"Alias symbols",
+"MEK2, MKK2"
+],
+[
+"Entrez",
+"5605"
+],
+[
+"Ensembl",
+"ENSG00000126934"
+],
+[
+"RefSeq",
+"NM_030662"
+],
+[
+"UniProt",
+"P36507"
+]
+]
+}
+]
+},
+{
+"label": "ERK1/2",
+"class": "Macromolecule",
+"box": [
+2092.5,
+211.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"ERK1/2"
+],
+[
+"Members",
+"MAPK3; MAPK1"
+]
+],
+"members": [
+{
+"symbol": "MAPK3",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"symbol": "MAPK1",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+}
+]
+},
+{
+"label": "FAK",
+"class": "Macromolecule",
+"box": [
+2196.5,
+83.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Focal adhesion kinase 1"
+],
+[
+"Alternative names",
+"Focal adhesion kinase-related nonkinase; Protein phosphatase 1 regulatory subunit 71; Protein-tyrosine kinase 2; p125FAK; pp125FAK"
+],
+[
+"Function",
+"Non-receptor protein-tyrosine kinase that plays an essential role in regulating cell migration, adhesion, spreading, reorganization of the actin cytoskeleton, formation and disassembly of focal adhesions and cell protrusions, cell cycle progression, cell proliferation and apoptosis. Required for early embryonic development and placenta development."
+],
+[
+"Location",
+"Cell junction, focal adhesion, Cell membrane, Cytoplasm, perinuclear region, Cytoplasm, cell cortex, Cytoplasm, cytoskeleton, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Nucleus, Cytoplasm, cytoskeleton, cilium basal body, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:9611"
+],
+[
+"HGNC symbol",
+"PTK2"
+],
+[
+"Alias symbols",
+"FAK, FADK, FAK1, PPP1R71"
+],
+[
+"Entrez",
+"5747"
+],
+[
+"Ensembl",
+"ENSG00000169398"
+],
+[
+"RefSeq",
+"NM_005607"
+],
+[
+"UniProt",
+"Q05397"
+]
+]
+},
+{
+"label": "GIT1",
+"class": "Macromolecule",
+"box": [
+2364.0,
+162.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ARF GTPase-activating protein GIT1"
+],
+[
+"Alternative names",
+"Cool-associated and tyrosine-phosphorylated protein 1; G protein-coupled receptor kinase-interactor 1; GRK-interacting protein 1; p95-APP1"
+],
+[
+"Function",
+"GTPase-activating protein for ADP ribosylation factor family members, including ARF1. Multidomain scaffold protein that interacts with numerous proteins and therefore participates in many cellular functions, including receptor internalization, focal adhesion remodeling, and signaling by both G protein-coupled receptors and tyrosine kinase receptors."
+],
+[
+"Location",
+"Cytoplasm, Synapse, Presynapse, Postsynapse, Postsynaptic density, Cell junction, focal adhesion, Cell projection, lamellipodium, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, spindle pole"
+],
+[
+"HGNC",
+"HGNC:4272"
+],
+[
+"HGNC symbol",
+"GIT1"
+],
+[
+"Entrez",
+"28964"
+],
+[
+"Ensembl",
+"ENSG00000108262"
+],
+[
+"RefSeq",
+"NM_014030"
+],
+[
+"UniProt",
+"Q9Y2X7"
+]
+]
+},
+{
+"id": "p_git",
+"label": "",
+"class": "Process",
+"box": [
+2552.0,
+170.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GIT1",
+"MEK1"
+],
+"out": [
+"GIT1:MEK1"
+],
+"by": []
+},
+"references": [
+{
+"db": "pubmed",
+"id": "15923189"
+}
+]
+},
+{
+"label": "GIT1",
+"class": "Macromolecule",
+"box": [
+2684.0,
+123.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ARF GTPase-activating protein GIT1"
+],
+[
+"Alternative names",
+"Cool-associated and tyrosine-phosphorylated protein 1; G protein-coupled receptor kinase-interactor 1; GRK-interacting protein 1; p95-APP1"
+],
+[
+"Function",
+"GTPase-activating protein for ADP ribosylation factor family members, including ARF1. Multidomain scaffold protein that interacts with numerous proteins and therefore participates in many cellular functions, including receptor internalization, focal adhesion remodeling, and signaling by both G protein-coupled receptors and tyrosine kinase receptors."
+],
+[
+"Location",
+"Cytoplasm, Synapse, Presynapse, Postsynapse, Postsynaptic density, Cell junction, focal adhesion, Cell projection, lamellipodium, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, spindle pole"
+],
+[
+"HGNC",
+"HGNC:4272"
+],
+[
+"HGNC symbol",
+"GIT1"
+],
+[
+"Entrez",
+"28964"
+],
+[
+"Ensembl",
+"ENSG00000108262"
+],
+[
+"RefSeq",
+"NM_014030"
+],
+[
+"UniProt",
+"Q9Y2X7"
+]
+]
+},
+{
+"label": "MEK1",
+"class": "Macromolecule",
+"box": [
+2684.0,
+171.2,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 1"
+],
+[
+"Alternative names",
+"ERK activator kinase 1; MAPK/ERK kinase 1"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Binding of extracellular ligands such as growth factors, cytokines and hormones to their cell-surface receptors activates RAS and this initiates RAF1 activation."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, microtubule organizing center, spindle pole body, Cytoplasm, Nucleus, Membrane"
+],
+[
+"HGNC",
+"HGNC:6840"
+],
+[
+"HGNC symbol",
+"MAP2K1"
+],
+[
+"Previous symbols",
+"PRKMK1"
+],
+[
+"Alias symbols",
+"MEK1, MAPKK1, MKK1"
+],
+[
+"Entrez",
+"5604"
+],
+[
+"Ensembl",
+"ENSG00000169032"
+],
+[
+"RefSeq",
+"NM_001411065"
+],
+[
+"UniProt",
+"Q02750"
+]
+]
+},
+{
+"label": "ERK1/2",
+"class": "Macromolecule",
+"box": [
+224.0,
+482.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"ERK1/2"
+],
+[
+"Members",
+"MAPK3; MAPK1"
+]
+],
+"members": [
+{
+"symbol": "MAPK3",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"symbol": "MAPK1",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+}
+]
+},
+{
+"label": "RAF",
+"class": "Macromolecule",
+"box": [
+564.0,
+482.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"RAF"
+],
+[
+"Members",
+"ARAF; BRAF; RAF1"
+]
+],
+"members": [
+{
+"symbol": "ARAF",
+"props": [
+[
+"Full name",
+"Serine/threonine-protein kinase A-Raf"
+],
+[
+"Alternative names",
+"Proto-oncogene A-Raf; Proto-oncogene A-Raf-1; Proto-oncogene Pks"
+],
+[
+"Function",
+"Involved in the transduction of mitogenic signals from the cell membrane to the nucleus. May also regulate the TOR signaling cascade."
+],
+[
+"HGNC",
+"HGNC:646"
+],
+[
+"HGNC symbol",
+"ARAF"
+],
+[
+"Previous symbols",
+"ARAF1"
+],
+[
+"Alias symbols",
+"A-Raf"
+],
+[
+"Entrez",
+"369"
+],
+[
+"Ensembl",
+"ENSG00000078061"
+],
+[
+"RefSeq",
+"NM_001256196"
+],
+[
+"UniProt",
+"P10398"
+]
+]
+},
+{
+"symbol": "BRAF",
+"props": [
+[
+"Full name",
+"Serine/threonine-protein kinase B-raf"
+],
+[
+"Alternative names",
+"Proto-oncogene B-Raf; p94; v-Raf murine sarcoma viral oncogene homolog B1"
+],
+[
+"Function",
+"Protein kinase involved in the transduction of mitogenic signals from the cell membrane to the nucleus (Probable). Phosphorylates MAP2K1, and thereby activates the MAP kinase signal transduction pathway."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:1097"
+],
+[
+"HGNC symbol",
+"BRAF"
+],
+[
+"Alias symbols",
+"BRAF1, BRAF-1"
+],
+[
+"Entrez",
+"673"
+],
+[
+"Ensembl",
+"ENSG00000157764"
+],
+[
+"RefSeq",
+"NM_004333"
+],
+[
+"UniProt",
+"P15056"
+]
+]
+},
+{
+"symbol": "RAF1",
+"props": [
+[
+"Full name",
+"RAF proto-oncogene serine/threonine-protein kinase"
+],
+[
+"Alternative names",
+"Proto-oncogene c-RAF; Raf-1"
+],
+[
+"Function",
+"Serine/threonine-protein kinase that acts as a regulatory link between the membrane-associated Ras GTPases and the MAPK/ERK cascade, and this critical regulatory link functions as a switch determining cell fate decisions including proliferation, differentiation, apoptosis, survival and oncogenic transformation. RAF1 activation initiates a mitogen-activated protein kinase (MAPK) cascade that comprises a sequential phosphorylation of the dual-specific MAPK kinases (MAP2K1/MEK1 and MAP2K2/MEK2) and the extracellular signal-regulated kinases (MAPK3/ERK1 and MAPK1/ERK2)."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Mitochondrion, Nucleus"
+],
+[
+"HGNC",
+"HGNC:9829"
+],
+[
+"HGNC symbol",
+"RAF1"
+],
+[
+"Alias symbols",
+"Raf-1, c-Raf, CRAF"
+],
+[
+"Entrez",
+"5894"
+],
+[
+"Ensembl",
+"ENSG00000132155"
+],
+[
+"RefSeq",
+"NM_002880"
+],
+[
+"UniProt",
+"P04049"
+]
+]
+}
+]
+},
+{
+"label": "MEK1/2",
+"class": "Macromolecule",
+"box": [
+644.0,
+562.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"MEK1/2"
+],
+[
+"Members",
+"MAP2K1; MAP2K2"
+]
+],
+"members": [
+{
+"symbol": "MAP2K1",
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 1"
+],
+[
+"Alternative names",
+"ERK activator kinase 1; MAPK/ERK kinase 1"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Binding of extracellular ligands such as growth factors, cytokines and hormones to their cell-surface receptors activates RAS and this initiates RAF1 activation."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, microtubule organizing center, spindle pole body, Cytoplasm, Nucleus, Membrane"
+],
+[
+"HGNC",
+"HGNC:6840"
+],
+[
+"HGNC symbol",
+"MAP2K1"
+],
+[
+"Previous symbols",
+"PRKMK1"
+],
+[
+"Alias symbols",
+"MEK1, MAPKK1, MKK1"
+],
+[
+"Entrez",
+"5604"
+],
+[
+"Ensembl",
+"ENSG00000169032"
+],
+[
+"RefSeq",
+"NM_001411065"
+],
+[
+"UniProt",
+"Q02750"
+]
+]
+},
+{
+"symbol": "MAP2K2",
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 2"
+],
+[
+"Alternative names",
+"ERK activator kinase 2; MAPK/ERK kinase 2"
+],
+[
+"Function",
+"Catalyzes the concomitant phosphorylation of a threonine and a tyrosine residue in a Thr-Glu-Tyr sequence located in MAP kinases. Activates the ERK1 and ERK2 MAP kinases."
+],
+[
+"Location",
+"Cytoplasm, Membrane"
+],
+[
+"HGNC",
+"HGNC:6842"
+],
+[
+"HGNC symbol",
+"MAP2K2"
+],
+[
+"Previous symbols",
+"PRKMK2"
+],
+[
+"Alias symbols",
+"MEK2, MKK2"
+],
+[
+"Entrez",
+"5605"
+],
+[
+"Ensembl",
+"ENSG00000126934"
+],
+[
+"RefSeq",
+"NM_030662"
+],
+[
+"UniProt",
+"P36507"
+]
+]
+}
+]
+},
+{
+"label": "FAK",
+"class": "Macromolecule",
+"box": [
+1844.0,
+482.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Focal adhesion kinase 1"
+],
+[
+"Alternative names",
+"Focal adhesion kinase-related nonkinase; Protein phosphatase 1 regulatory subunit 71; Protein-tyrosine kinase 2; p125FAK; pp125FAK"
+],
+[
+"Function",
+"Non-receptor protein-tyrosine kinase that plays an essential role in regulating cell migration, adhesion, spreading, reorganization of the actin cytoskeleton, formation and disassembly of focal adhesions and cell protrusions, cell cycle progression, cell proliferation and apoptosis. Required for early embryonic development and placenta development."
+],
+[
+"Location",
+"Cell junction, focal adhesion, Cell membrane, Cytoplasm, perinuclear region, Cytoplasm, cell cortex, Cytoplasm, cytoskeleton, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Nucleus, Cytoplasm, cytoskeleton, cilium basal body, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:9611"
+],
+[
+"HGNC symbol",
+"PTK2"
+],
+[
+"Alias symbols",
+"FAK, FADK, FAK1, PPP1R71"
+],
+[
+"Entrez",
+"5747"
+],
+[
+"Ensembl",
+"ENSG00000169398"
+],
+[
+"RefSeq",
+"NM_005607"
+],
+[
+"UniProt",
+"Q05397"
+]
+]
+},
+{
+"label": "MEK1",
+"class": "Macromolecule",
+"box": [
+2524.0,
+482.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity mitogen-activated protein kinase kinase 1"
+],
+[
+"Alternative names",
+"ERK activator kinase 1; MAPK/ERK kinase 1"
+],
+[
+"Function",
+"Dual specificity protein kinase which acts as an essential component of the MAP kinase signal transduction pathway. Binding of extracellular ligands such as growth factors, cytokines and hormones to their cell-surface receptors activates RAS and this initiates RAF1 activation."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, cytoskeleton, microtubule organizing center, spindle pole body, Cytoplasm, Nucleus, Membrane"
+],
+[
+"HGNC",
+"HGNC:6840"
+],
+[
+"HGNC symbol",
+"MAP2K1"
+],
+[
+"Previous symbols",
+"PRKMK1"
+],
+[
+"Alias symbols",
+"MEK1, MAPKK1, MKK1"
+],
+[
+"Entrez",
+"5604"
+],
+[
+"Ensembl",
+"ENSG00000169032"
+],
+[
+"RefSeq",
+"NM_001411065"
+],
+[
+"UniProt",
+"Q02750"
+]
+]
+}
+]
+}

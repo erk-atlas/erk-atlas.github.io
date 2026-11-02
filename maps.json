@@ -378,6 +378,60 @@
 "hasText": true
 },
 {
+"id": "golgi",
+"title": "The Golgi: Sef holds MEK with ERK, RKTG traps RAF1",
+"topic": "The Golgi: Sef and RKTG",
+"group": "Spatial",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/golgi.svg",
+"width": 1047.0,
+"height": 522.0,
+"scale": 1,
+"annotation": "data/golgi.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/golgi.graphml"
+},
+{
+"label": "SVG",
+"url": "files/golgi.svg"
+}
+],
+"data": "data/golgi-text.json",
+"hasText": true
+},
+{
+"id": "paxillin",
+"title": "Focal adhesions: paxillin and GIT1",
+"topic": "Focal adhesions: paxillin and GIT1",
+"group": "Spatial",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/paxillin.svg",
+"width": 2831.0,
+"height": 666.0,
+"scale": 1,
+"annotation": "data/paxillin.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/paxillin.graphml"
+},
+{
+"label": "SVG",
+"url": "files/paxillin.svg"
+}
+],
+"data": "data/paxillin-text.json",
+"hasText": true
+},
+{
 "id": "raf-feedback",
 "title": "RAF feedback and reset",
 "topic": "RAF feedback and reset",
