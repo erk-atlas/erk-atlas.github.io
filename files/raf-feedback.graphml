@@ -20,8 +20,8 @@
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="85.5" x="531.25" xml:space="preserve" y="0.0" hasText="true">cytoplasm</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State autoResize="false" closed="false" closedHeight="80.0" closedWidth="80.0" innerGraphDisplayEnabled="false"/>
-              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="13" topF="13.25"/>
-              <y:BorderInsets bottom="25" bottomF="25.0" left="282" leftF="281.5" right="25" rightF="25.0" top="35" topF="35.25"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="25" bottomF="25.0" left="282" leftF="281.5" right="25" rightF="25.0" top="44" topF="43.75"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="740.0" width="1280.0" x="75.0" y="515.0"/>
@@ -31,7 +31,7 @@
               <y:Shape type="roundrectangle"/>
               <y:State closed="true" closedHeight="740.0" closedWidth="1280.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="25" bottomF="25.0" left="282" leftF="281.5" right="25" rightF="25.0" top="38" topF="38.22265625"/>
+              <y:BorderInsets bottom="25" bottomF="25.0" left="282" leftF="281.5" right="25" rightF="25.0" top="48" topF="48.47265625"/>
             </y:GroupNode>
           </y:Realizers>
         </y:ProxyAutoBoundsNode>
@@ -167,10 +167,10 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
-              <y:Geometry height="140.5" width="192.0" x="1064.0" y="449.75"/>
+              <y:Geometry height="92.5" width="192.0" x="1064.0" y="473.75"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="38.0" x="77.0" y="99.5">PP2A</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="85.5" x="53.25" y="51.5">PP2A core</y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
@@ -183,7 +183,7 @@
               <y:Geometry height="80.0" width="80.0" x="553.2728174603176" y="-237.95622840696382"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="38.482421875" x="20.7587890625" xml:space="preserve" y="8.0">PP2A</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="8.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="38.482421875" x="20.7587890625" xml:space="preserve" y="8.0">PP2A core</y:NodeLabel>
               <y:StyleProperties>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusY" value="12"/>
                 <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radiusX" value="12"/>
@@ -197,7 +197,7 @@
       </data>
       <graph edgedefault="directed" id="pp2a:"><node id="pp2a_a"><data key="d104">PP2A-A</data><data key="d105">PPP2R1A; PPP2R1B</data><data key="d106">[{"symbol": "PPP2R1A", "props": [["HGNC", "HGNC:9302"], ["HGNC symbol", "PPP2R1A"], ["UniProt", "P30153"]]}, {"symbol": "PPP2R1B", "props": [["HGNC", "HGNC:9303"], ["HGNC symbol", "PPP2R1B"], ["UniProt", "P30154"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="1076.0" y="465.75"/>
+              <y:Geometry height="40.0" width="80.0" x="1076.0" y="489.75"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="57.0" x="11.5" xml:space="preserve" y="9.75" hasText="true">PP2A-A<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -206,20 +206,9 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="pp2a_b"><data key="d104">PP2A-B55</data><data key="d105">PPP2R2A; PPP2R2B; PPP2R2C; PPP2R2D</data><data key="d106">[{"symbol": "PPP2R2A", "props": [["HGNC", "HGNC:9304"], ["HGNC symbol", "PPP2R2A"], ["UniProt", "P63151"]]}, {"symbol": "PPP2R2B", "props": [["HGNC", "HGNC:9305"], ["HGNC symbol", "PPP2R2B"], ["UniProt", "Q00005"]]}, {"symbol": "PPP2R2C", "props": [["HGNC", "HGNC:9306"], ["HGNC symbol", "PPP2R2C"], ["UniProt", "Q9Y2T4"]]}, {"symbol": "PPP2R2D", "props": [["HGNC", "HGNC:23732"], ["HGNC symbol", "PPP2R2D"], ["UniProt", "Q66LE6"]]}]</data><data key="ng">
-            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="1164.0" y="465.75"/>
-              <y:Fill color="#C8D8EB" transparent="false"/>
-              <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="76.0" x="2.0" xml:space="preserve" y="9.75" hasText="true">PP2A-B55<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-              <y:StyleProperties>
-                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
-                </y:StyleProperties>
-            </y:GenericNode>
-          </data>
         </node><node id="pp2a_c"><data key="d104">PP2A-C</data><data key="d105">PPP2CA; PPP2CB</data><data key="d106">[{"symbol": "PPP2CA", "props": [["HGNC", "HGNC:9299"], ["HGNC symbol", "PPP2CA"], ["UniProt", "P67775"]]}, {"symbol": "PPP2CB", "props": [["HGNC", "HGNC:9300"], ["HGNC symbol", "PPP2CB"], ["UniProt", "P62714"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="1120.0" y="513.75"/>
+              <y:Geometry height="40.0" width="80.0" x="1164.0" y="489.75"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="57.0" x="11.5" xml:space="preserve" y="9.75" hasText="true">PP2A-C<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>

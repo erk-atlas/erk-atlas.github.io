@@ -171,7 +171,7 @@
 "tab": "through the pore",
 "image": "files/erk-nucleus.svg",
 "width": 590.0,
-"height": 275.0,
+"height": 435.0,
 "scale": 1,
 "annotation": "data/erk-nucleus.json",
 "imageError": null,
@@ -594,33 +594,6 @@
 "hasText": true
 },
 {
-"id": "receptor-feedback",
-"title": "Fast feedback on the receptor complex",
-"topic": "Fast feedback on the receptor complex",
-"group": "Temporal",
-"kind": null,
-"tag": "new",
-"tab": null,
-"image": "files/receptor-feedback.svg",
-"width": 2145.0,
-"height": 677.0,
-"scale": 1,
-"annotation": "data/receptor-feedback.json",
-"imageError": null,
-"downloads": [
-{
-"label": "GraphML",
-"url": "files/receptor-feedback.graphml"
-},
-{
-"label": "SVG",
-"url": "files/receptor-feedback.svg"
-}
-],
-"data": "data/receptor-feedback-text.json",
-"hasText": true
-},
-{
 "id": "dusp-induction",
 "title": "ERK induces its phosphatases",
 "topic": "ERK induces its phosphatases",
@@ -699,6 +672,33 @@
 }
 ],
 "data": "data/cfos-text.json",
+"hasText": true
+},
+{
+"id": "receptor-feedback",
+"title": "Fast feedback on the receptor complex",
+"topic": "Fast feedback on the receptor complex",
+"group": "Temporal",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/receptor-feedback.svg",
+"width": 1665.0,
+"height": 677.0,
+"scale": 1,
+"annotation": "data/receptor-feedback.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/receptor-feedback.graphml"
+},
+{
+"label": "SVG",
+"url": "files/receptor-feedback.svg"
+}
+],
+"data": "data/receptor-feedback-text.json",
 "hasText": true
 },
 {

@@ -677,7 +677,7 @@
 "RAF:14-3-3"
 ],
 "by": [
-"PP2A",
+"PP2A core",
 "PIN1"
 ]
 },
@@ -705,7 +705,7 @@
 "class": "Macromolecule",
 "box": [
 988.0,
-473.8,
+497.8,
 80.0,
 40.0
 ],
@@ -817,225 +817,11 @@
 ]
 },
 {
-"label": "PP2A-B55",
-"class": "Macromolecule",
-"box": [
-1076.0,
-473.8,
-80.0,
-40.0
-],
-"props": [
-[
-"Family",
-"PP2A-B55"
-],
-[
-"Members",
-"PPP2R2A; PPP2R2B; PPP2R2C; PPP2R2D"
-]
-],
-"members": [
-{
-"symbol": "PPP2R2A",
-"props": [
-[
-"Full name",
-"Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B alpha isoform"
-],
-[
-"Alternative names",
-"PP2A subunit B isoform B55-alpha; PP2A subunit B isoform PR55-alpha; PP2A subunit B isoform R2-alpha; PP2A subunit B isoform alpha"
-],
-[
-"Function",
-"Substrate-recognition subunit of protein phosphatase 2A (PP2A) that plays a key role in cell cycle by controlling mitosis entry and exit. Involved in chromosome clustering during late mitosis by mediating dephosphorylation of MKI67."
-],
-[
-"HGNC",
-"HGNC:9304"
-],
-[
-"HGNC symbol",
-"PPP2R2A"
-],
-[
-"Alias symbols",
-"PR52A, PR55A, B55A, PR55alpha, B55alpha"
-],
-[
-"Entrez",
-"5520"
-],
-[
-"Ensembl",
-"ENSG00000221914"
-],
-[
-"RefSeq",
-"NM_002717"
-],
-[
-"UniProt",
-"P63151"
-]
-]
-},
-{
-"symbol": "PPP2R2B",
-"props": [
-[
-"Full name",
-"Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B beta isoform"
-],
-[
-"Alternative names",
-"PP2A subunit B isoform B55-beta; PP2A subunit B isoform PR55-beta; PP2A subunit B isoform R2-beta; PP2A subunit B isoform beta"
-],
-[
-"Function",
-"The B regulatory subunit might modulate substrate selectivity and catalytic activity, and might also direct the localization of the catalytic enzyme to a particular subcellular compartment. Within the PP2A holoenzyme complex, isoform 2 is required to promote proapoptotic activity."
-],
-[
-"Location",
-"Cytoplasm, Cytoplasm, cytoskeleton, Membrane, Mitochondrion, Mitochondrion outer membrane"
-],
-[
-"HGNC",
-"HGNC:9305"
-],
-[
-"HGNC symbol",
-"PPP2R2B"
-],
-[
-"Previous symbols",
-"SCA12"
-],
-[
-"Alias symbols",
-"PR55-BETA, PR52B, B55beta"
-],
-[
-"Entrez",
-"5521"
-],
-[
-"Ensembl",
-"ENSG00000156475"
-],
-[
-"RefSeq",
-"NM_181678"
-],
-[
-"UniProt",
-"Q00005"
-]
-]
-},
-{
-"symbol": "PPP2R2C",
-"props": [
-[
-"Full name",
-"Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B gamma isoform"
-],
-[
-"Alternative names",
-"IMYPNO1; PP2A subunit B isoform B55-gamma; PP2A subunit B isoform PR55-gamma; PP2A subunit B isoform R2-gamma; PP2A subunit B isoform gamma"
-],
-[
-"Function",
-"The B regulatory subunit might modulate substrate selectivity and catalytic activity, and might also direct the localization of the catalytic enzyme to a particular subcellular compartment"
-],
-[
-"HGNC",
-"HGNC:9306"
-],
-[
-"HGNC symbol",
-"PPP2R2C"
-],
-[
-"Alias symbols",
-"PR52, IMYPNO, MGC33570, PR55G, B55gamma"
-],
-[
-"Entrez",
-"5522"
-],
-[
-"Ensembl",
-"ENSG00000074211"
-],
-[
-"RefSeq",
-"NM_181876"
-],
-[
-"UniProt",
-"Q9Y2T4"
-]
-]
-},
-{
-"symbol": "PPP2R2D",
-"props": [
-[
-"Full name",
-"Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B delta isoform"
-],
-[
-"Alternative names",
-"PP2A subunit B isoform B55-delta; PP2A subunit B isoform PR55-delta; PP2A subunit B isoform R2-delta; PP2A subunit B isoform delta"
-],
-[
-"Function",
-"Substrate-recognition subunit of protein phosphatase 2A (PP2A) that plays a key role in cell cycle by controlling mitosis entry and exit. Involved in chromosome clustering during late mitosis by mediating dephosphorylation of MKI67."
-],
-[
-"Location",
-"Cytoplasm"
-],
-[
-"HGNC",
-"HGNC:23732"
-],
-[
-"HGNC symbol",
-"PPP2R2D"
-],
-[
-"Alias symbols",
-"MDS026, B55delta, B55D"
-],
-[
-"Entrez",
-"55844"
-],
-[
-"Ensembl",
-"ENSG00000175470"
-],
-[
-"RefSeq",
-"NM_018461"
-],
-[
-"UniProt",
-"Q66LE6"
-]
-]
-}
-]
-},
-{
 "label": "PP2A-C",
 "class": "Macromolecule",
 "box": [
-1032.0,
-521.8,
+1076.0,
+497.8,
 80.0,
 40.0
 ],
