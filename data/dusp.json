@@ -410,6 +410,231 @@
 ]
 },
 {
+"id": "p_d3",
+"label": "",
+"class": "Process",
+"box": [
+983.0,
+285.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"ERK1/2"
+],
+"out": [
+"ERK1/2"
+],
+"by": [
+"DUSP3"
+]
+},
+"references": [
+{
+"authors": "Todd JL et al.",
+"year": "1999",
+"title": "Extracellular regulated kinases (ERK) 1 and ERK2 are authentic substrates for the dual-specificity protein-tyrosine phosphatase VHR. A novel role in down-regulating the ERK pathway.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "10224087"
+},
+{
+"authors": "Rahmouni S et al.",
+"year": "2006",
+"title": "Loss of the VHR dual-specific phosphatase causes cell-cycle arrest and senescence.",
+"journal": "Nat Cell Biol",
+"db": "pubmed",
+"id": "16604064"
+}
+]
+},
+{
+"label": "DUSP3",
+"class": "Macromolecule",
+"box": [
+1095.0,
+277.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dual specificity protein phosphatase 3"
+],
+[
+"Alternative names",
+"Dual specificity protein phosphatase VHR; Vaccinia H1-related phosphatase"
+],
+[
+"Function",
+"Shows activity both for tyrosine-protein phosphate and serine-protein phosphate, but displays a strong preference toward phosphotyrosines. Specifically dephosphorylates and inactivates ERK1 and ERK2"
+],
+[
+"Location",
+"Nucleus, Cytoplasm, cytoskeleton, flagellum axoneme"
+],
+[
+"HGNC",
+"HGNC:3069"
+],
+[
+"HGNC symbol",
+"DUSP3"
+],
+[
+"Previous symbols",
+"VHR"
+],
+[
+"Entrez",
+"1845"
+],
+[
+"Ensembl",
+"ENSG00000108861"
+],
+[
+"RefSeq",
+"NM_004090"
+],
+[
+"UniProt",
+"P51452"
+]
+]
+},
+{
+"label": "ERK1/2",
+"class": "Macromolecule",
+"box": [
+955.0,
+407.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Family",
+"ERK1/2"
+],
+[
+"Members",
+"MAPK3; MAPK1"
+]
+],
+"members": [
+{
+"symbol": "MAPK3",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 3"
+],
+[
+"Alternative names",
+"ERT2; Extracellular signal-regulated kinase 1; Insulin-stimulated MAP2 kinase; MAP kinase isoform p44; Microtubule-associated protein 2 kinase; p44-ERK1"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6877"
+],
+[
+"HGNC symbol",
+"MAPK3"
+],
+[
+"Previous symbols",
+"PRKM3"
+],
+[
+"Alias symbols",
+"ERK1, p44mapk, p44erk1, ERK-1"
+],
+[
+"Entrez",
+"5595"
+],
+[
+"Ensembl",
+"ENSG00000102882"
+],
+[
+"RefSeq",
+"NM_001040056"
+],
+[
+"UniProt",
+"P27361"
+]
+]
+},
+{
+"symbol": "MAPK1",
+"props": [
+[
+"Full name",
+"Mitogen-activated protein kinase 1"
+],
+[
+"Alternative names",
+"ERT1; Extracellular signal-regulated kinase 2; MAP kinase isoform p42; Mitogen-activated protein kinase 2"
+],
+[
+"Function",
+"Serine/threonine kinase which acts as an essential component of the MAP kinase signal transduction pathway. MAPK1/ERK2 and MAPK3/ERK1 are the 2 MAPKs which play an important role in the MAPK/ERK cascade."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, spindle, Nucleus, Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, Cytoplasm, Membrane, caveola, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:6871"
+],
+[
+"HGNC symbol",
+"MAPK1"
+],
+[
+"Previous symbols",
+"PRKM2, PRKM1"
+],
+[
+"Alias symbols",
+"ERK, ERK2, p41mapk, MAPK2"
+],
+[
+"Entrez",
+"5594"
+],
+[
+"Ensembl",
+"ENSG00000100030"
+],
+[
+"RefSeq",
+"NM_002745"
+],
+[
+"UniProt",
+"P28482"
+]
+]
+}
+]
+},
+{
 "label": "DUSP5",
 "class": "Macromolecule",
 "box": [

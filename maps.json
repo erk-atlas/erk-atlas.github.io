@@ -225,7 +225,7 @@
 "tab": null,
 "image": "files/dusp.svg",
 "width": 1742.0,
-"height": 297.0,
+"height": 511.0,
 "scale": 1,
 "annotation": "data/dusp.json",
 "imageError": null,
@@ -440,8 +440,8 @@
 "tag": "new",
 "tab": null,
 "image": "files/ras-golgi.svg",
-"width": 1217.0,
-"height": 1104.0,
+"width": 1880.0,
+"height": 1224.0,
 "scale": 1,
 "annotation": "data/ras-golgi.json",
 "imageError": null,
@@ -537,6 +537,33 @@
 }
 ],
 "data": "data/iqgap1-text.json",
+"hasText": true
+},
+{
+"id": "osbp",
+"title": "OSBP: cholesterol controls an ERK phosphatase (context variant)",
+"topic": "OSBP and cholesterol",
+"group": "Spatial",
+"kind": null,
+"tag": "new",
+"tab": null,
+"image": "files/osbp.svg",
+"width": 1126.0,
+"height": 674.0,
+"scale": 1,
+"annotation": "data/osbp.json",
+"imageError": null,
+"downloads": [
+{
+"label": "GraphML",
+"url": "files/osbp.graphml"
+},
+{
+"label": "SVG",
+"url": "files/osbp.svg"
+}
+],
+"data": "data/osbp-text.json",
 "hasText": true
 },
 {
