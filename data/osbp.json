@@ -78,9 +78,9 @@
 "references": [
 {
 "authors": "Wang PY et al.",
-"year": "2005",
-"title": "OSBP is a cholesterol-regulated scaffolding protein in control of ERK 1/2 activation.",
 "journal": "Science",
+"title": "OSBP is a cholesterol-regulated scaffolding protein in control of ERK 1/2 activation.",
+"year": "2005",
 "db": "pubmed",
 "id": "15746430"
 }
@@ -1197,9 +1197,9 @@
 "references": [
 {
 "authors": "Wang PY et al.",
-"year": "2005",
-"title": "OSBP is a cholesterol-regulated scaffolding protein in control of ERK 1/2 activation.",
 "journal": "Science",
+"title": "OSBP is a cholesterol-regulated scaffolding protein in control of ERK 1/2 activation.",
+"year": "2005",
 "db": "pubmed",
 "id": "15746430"
 }
@@ -1360,9 +1360,9 @@
 "references": [
 {
 "authors": "Wang PY et al.",
-"year": "2005",
-"title": "OSBP is a cholesterol-regulated scaffolding protein in control of ERK 1/2 activation.",
 "journal": "Science",
+"title": "OSBP is a cholesterol-regulated scaffolding protein in control of ERK 1/2 activation.",
+"year": "2005",
 "db": "pubmed",
 "id": "15746430"
 }
@@ -1480,8 +1480,8 @@
 "label": "cholesterol",
 "class": "SimpleChemical",
 "box": [
-867.0,
-327.0,
+707.0,
+307.0,
 40.0,
 40.0
 ],
@@ -1528,8 +1528,8 @@
 "label": "PTPPBS",
 "class": "Macromolecule",
 "box": [
-847.0,
-427.0,
+827.0,
+407.0,
 80.0,
 40.0
 ],
@@ -1702,7 +1702,7 @@
 "class": "Macromolecule",
 "box": [
 987.0,
-392.8,
+372.8,
 80.0,
 40.0
 ],
@@ -1818,7 +1818,7 @@
 "class": "Macromolecule",
 "box": [
 987.0,
-440.8,
+420.8,
 80.0,
 40.0
 ],

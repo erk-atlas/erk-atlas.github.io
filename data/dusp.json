@@ -434,17 +434,17 @@
 "references": [
 {
 "authors": "Todd JL et al.",
-"year": "1999",
-"title": "Extracellular regulated kinases (ERK) 1 and ERK2 are authentic substrates for the dual-specificity protein-tyrosine phosphatase VHR. A novel role in down-regulating the ERK pathway.",
 "journal": "J Biol Chem",
+"title": "Extracellular regulated kinases (ERK) 1 and ERK2 are authentic substrates for the dual-specificity protein-tyrosine phosphatase VHR. A novel role in down-regulating the ERK pathway.",
+"year": "1999",
 "db": "pubmed",
 "id": "10224087"
 },
 {
 "authors": "Rahmouni S et al.",
-"year": "2006",
-"title": "Loss of the VHR dual-specific phosphatase causes cell-cycle arrest and senescence.",
 "journal": "Nat Cell Biol",
+"title": "Loss of the VHR dual-specific phosphatase causes cell-cycle arrest and senescence.",
+"year": "2006",
 "db": "pubmed",
 "id": "16604064"
 }

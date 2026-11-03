@@ -361,7 +361,7 @@
       </data>
     </node></graph></node><node id="chol2"><data key="d103">CHEBI:16113</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
-          <y:Geometry height="40.0" width="40.0" x="880.0" y="340.0"/>
+          <y:Geometry height="40.0" width="40.0" x="720.0" y="320.0"/>
           <y:Fill color="#DBEBDB" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="104.5" x="-32.25" xml:space="preserve" y="9.75" hasText="true">cholesterol<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -369,7 +369,7 @@
       </data>
     </node><node id="ptp2"><data key="d104">PTPPBS</data><data key="d105">PTPRR; PTPN5; PTPN7</data><data key="d106">[{"symbol": "PTPRR", "props": [["HGNC", "HGNC:9680"], ["HGNC symbol", "PTPRR"], ["UniProt", "Q15256"]]}, {"symbol": "PTPN5", "props": [["HGNC", "HGNC:9657"], ["HGNC symbol", "PTPN5"], ["UniProt", "P54829"]]}, {"symbol": "PTPN7", "props": [["HGNC", "HGNC:9659"], ["HGNC symbol", "PTPN7"], ["UniProt", "P35236"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="860.0" y="440.0"/>
+              <y:Geometry height="40.0" width="80.0" x="840.0" y="420.0"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="57.0" x="11.5" xml:space="preserve" y="9.75" hasText="true">PTPPBS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -382,7 +382,7 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
-              <y:Geometry height="140.5" width="104.0" x="988.0" y="389.75"/>
+              <y:Geometry height="140.5" width="104.0" x="988.0" y="369.75"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="true" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="85.5" x="9.25" y="107.5">PP2A core</y:NodeLabel>
@@ -412,7 +412,7 @@
       </data>
       <graph edgedefault="directed" id="pp2b:"><node id="pp2b_a"><data key="d104">PP2A-A</data><data key="d105">PPP2R1A; PPP2R1B</data><data key="d106">[{"symbol": "PPP2R1A", "props": [["HGNC", "HGNC:9302"], ["HGNC symbol", "PPP2R1A"], ["UniProt", "P30153"]]}, {"symbol": "PPP2R1B", "props": [["HGNC", "HGNC:9303"], ["HGNC symbol", "PPP2R1B"], ["UniProt", "P30154"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="1000.0" y="405.75"/>
+              <y:Geometry height="40.0" width="80.0" x="1000.0" y="385.75"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="57.0" x="11.5" xml:space="preserve" y="9.75" hasText="true">PP2A-A<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -423,7 +423,7 @@
           </data>
         </node><node id="pp2b_c"><data key="d104">PP2A-C</data><data key="d105">PPP2CA; PPP2CB</data><data key="d106">[{"symbol": "PPP2CA", "props": [["HGNC", "HGNC:9299"], ["HGNC symbol", "PPP2CA"], ["UniProt", "P67775"]]}, {"symbol": "PPP2CB", "props": [["HGNC", "HGNC:9300"], ["HGNC symbol", "PPP2CB"], ["UniProt", "P62714"]]}]</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40.0" width="80.0" x="1000.0" y="453.75"/>
+              <y:Geometry height="40.0" width="80.0" x="1000.0" y="433.75"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.5" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="57.0" x="11.5" xml:space="preserve" y="9.75" hasText="true">PP2A-C<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>

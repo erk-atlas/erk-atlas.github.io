@@ -643,17 +643,17 @@
 "references": [
 {
 "authors": "Swarthout JT et al.",
-"year": "2005",
-"title": "DHHC9 and GCP16 constitute a human protein fatty acyltransferase with specificity for H- and N-Ras.",
 "journal": "J Biol Chem",
+"title": "DHHC9 and GCP16 constitute a human protein fatty acyltransferase with specificity for H- and N-Ras.",
+"year": "2005",
 "db": "pubmed",
 "id": "16000296"
 },
 {
 "authors": "Rocks O et al.",
-"year": "2005",
-"title": "An acylation cycle regulates localization and activity of palmitoylated Ras isoforms.",
 "journal": "Science",
+"title": "An acylation cycle regulates localization and activity of palmitoylated Ras isoforms.",
+"year": "2005",
 "db": "pubmed",
 "id": "15705808"
 }
@@ -1292,9 +1292,9 @@
 "references": [
 {
 "authors": "Rocks O et al.",
-"year": "2005",
-"title": "An acylation cycle regulates localization and activity of palmitoylated Ras isoforms.",
 "journal": "Science",
+"title": "An acylation cycle regulates localization and activity of palmitoylated Ras isoforms.",
+"year": "2005",
 "db": "pubmed",
 "id": "15705808"
 }
@@ -1323,17 +1323,17 @@
 "references": [
 {
 "authors": "Rocks O et al.",
-"year": "2005",
-"title": "An acylation cycle regulates localization and activity of palmitoylated Ras isoforms.",
 "journal": "Science",
+"title": "An acylation cycle regulates localization and activity of palmitoylated Ras isoforms.",
+"year": "2005",
 "db": "pubmed",
 "id": "15705808"
 },
 {
 "authors": "Apolloni A et al.",
-"year": "2000",
-"title": "H-ras but not K-ras traffics to the plasma membrane through the exocytic pathway.",
 "journal": "Mol Cell Biol",
+"title": "H-ras but not K-ras traffics to the plasma membrane through the exocytic pathway.",
+"year": "2000",
 "db": "pubmed",
 "id": "10713171"
 }
@@ -2039,17 +2039,17 @@
 "references": [
 {
 "authors": "Dekker FJ et al.",
-"year": "2010",
-"title": "Small-molecule inhibition of APT1 affects Ras localization and signaling.",
 "journal": "Nat Chem Biol",
+"title": "Small-molecule inhibition of APT1 affects Ras localization and signaling.",
+"year": "2010",
 "db": "pubmed",
 "id": "20418879"
 },
 {
 "authors": "Rocks O et al.",
-"year": "2005",
-"title": "An acylation cycle regulates localization and activity of palmitoylated Ras isoforms.",
 "journal": "Science",
+"title": "An acylation cycle regulates localization and activity of palmitoylated Ras isoforms.",
+"year": "2005",
 "db": "pubmed",
 "id": "15705808"
 }
